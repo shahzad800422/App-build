@@ -1,0 +1,42 @@
+[
+    {
+        "word": "简单中文",
+        "pinyin": "Shì",
+        "eng": "Simple Chinese"
+    },
+    {
+        "word": "是",
+        "pinyin": "Shì",
+        "eng": "Yes"
+    },
+    {
+        "word": "不是",
+        "pinyin": "Bù shì",
+        "eng": "No"
+    },
+    {
+        "word": "好",
+        "pinyin": "Hǎo",
+        "eng": "Good"
+    },
+    {
+        "word": "今天",
+        "pinyin": "Jīn tiān",
+        "eng": "Today"
+    },
+    {
+        "word": "明天",
+        "pinyin": "Míng tiān",
+        "eng": "Tomorrow"
+    },
+    {
+        "word": "昨天",
+        "pinyin": "Zuó tiān",
+        "eng": "Yesterday"
+    },
+    {
+        "word": "再见",
+        "pinyin": "Zài jiàn ",
+        "eng": "Goodbye"
+    }
+]

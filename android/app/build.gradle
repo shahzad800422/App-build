@@ -1,0 +1,130 @@
+def localProperties = new Properties()
+def localPropertiesFile = rootProject.file('local.properties')
+if (localPropertiesFile.exists()) {
+    localPropertiesFile.withReader('UTF-8') { reader ->
+        localProperties.load(reader)
+    }
+}
+
+def flutterRoot = localProperties.getProperty('flutter.sdk')
+if (flutterRoot == null) {
+    throw new GradleException("Flutter SDK not found. Define location with flutter.sdk in the local.properties file.")
+}
+
+def flutterVersionCode = localProperties.getProperty('flutter.versionCode')
+if (flutterVersionCode == null) {
+    flutterVersionCode = '1'
+}
+
+def flutterVersionName = localProperties.getProperty('flutter.versionName')
+if (flutterVersionName == null) {
+    flutterVersionName = '1.0'
+}
+
+/*
+
+def dartEnvironmentVariables = [
+    APP_NAME: 'Learn 66 Chinese Characters',
+    APP_ID: 'llc.chinesepod.sixtysix'
+];
+*/
+
+
+
+def dartEnvironmentVariables = [
+    APP_NAME: 'CPod Writing',
+    APP_ID: 'llc.chinesepod.characterpractice'
+];
+
+println(project.hasProperty('dart-defines'))
+println(project.property('dart-defines'))
+
+
+if (project.hasProperty('dart-defines')) {
+    println('assigning')
+   
+    dartEnvironmentVariables = dartEnvironmentVariables + project.property('dart-defines').replaceAll('%3D', '=').replaceAll('%20', ' ')
+        .split(',')
+        .collectEntries { entry ->
+            def pair = entry.split('=')
+            [(pair.first()): pair.last()]
+        }
+    println('done')
+    println(dartEnvironmentVariables)
+}
+
+
+
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply from: "$flutterRoot/packages/flutter_tools/gradle/flutter.gradle"
+
+println("building for the following:")
+
+println(dartEnvironmentVariables.APP_ID)
+println(dartEnvironmentVariables.APP_NAME)
+
+
+def keystoreProperties = new Properties()
+   def keystorePropertiesFile = rootProject.file('key.properties')
+   if (keystorePropertiesFile.exists()) {
+       keystoreProperties.load(new FileInputStream(keystorePropertiesFile))
+   }
+
+
+android {
+    compileSdkVersion 28
+
+    sourceSets {
+        main.java.srcDirs += 'src/main/kotlin'
+    }
+
+    lintOptions {
+        disable 'InvalidPackage'
+    }
+
+    defaultConfig {
+        // TODO: Specify your own unique Application ID (https://developer.android.com/studio/build/application-id.html).
+        //applicationId "llc.chinesepod.characterpractice"
+        applicationId dartEnvironmentVariables.APP_ID
+        minSdkVersion 16
+        targetSdkVersion 29
+        versionCode flutterVersionCode.toInteger()
+        versionName flutterVersionName
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+        resValue "string", "app_name", dartEnvironmentVariables.APP_NAME
+    }
+
+    signingConfigs {
+       release {
+           keyAlias keystoreProperties['keyAlias']
+           keyPassword keystoreProperties['keyPassword']
+           storeFile keystoreProperties['storeFile'] ? file(keystoreProperties['storeFile']) : null
+           storePassword keystoreProperties['storePassword']
+       }
+    }
+    buildTypes {
+        release {
+            signingConfig signingConfigs.release
+        }
+    }
+
+    // buildTypes {
+        // release {
+            // TODO: Add your own signing config for the release build.
+            // Signing with the debug keys for now, so `flutter run --release` works.
+            // signingConfig signingConfigs.debug
+        // }
+ //   }
+}
+
+flutter {
+    source '../..'
+}
+
+dependencies {
+    implementation "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    testImplementation 'junit:junit:4.12'
+    androidTestImplementation 'androidx.test:runner:1.1.1'
+    androidTestImplementation 'androidx.test.espresso:espresso-core:3.1.1'
+}

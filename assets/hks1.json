@@ -1,0 +1,767 @@
+[
+    {
+        "word": "爱",
+        "pinyin": "ai4",
+        "eng": "to love; affection; to be fond of; to like"
+    },
+    {
+        "word": "八",
+        "pinyin": "ba1",
+        "eng": "eight; 8"
+    },
+    {
+        "word": "爸爸",
+        "pinyin": "ba4 ba5",
+        "eng": "(informal) father; CL:個|个[ge4]"
+    },
+    {
+        "word": "杯子",
+        "pinyin": "bei1 zi5",
+        "eng": "cup; glass; CL:個|个[ge4]"
+    },
+    {
+        "word": "北京",
+        "pinyin": "Bei3 jing1",
+        "eng": "Beijing"
+    },
+    {
+        "word": "本",
+        "pinyin": "ben3",
+        "eng": "roots or stems of plants; origin; source; this; the current; root; foundation; basis; classifier for books"
+    },
+    {
+        "word": "不",
+        "pinyin": "bu4",
+        "eng": "(negative prefix); not; no"
+    },
+    {
+        "word": "不客气",
+        "pinyin": "bu4 ke4 qi5",
+        "eng": "you're welcome; impolite; rude; blunt; don't mention it"
+    },
+    {
+        "word": "菜",
+        "pinyin": "cai4",
+        "eng": "dish (type of food); vegetables; vegetable; cuisine; CL:盤|盘[pan2]"
+    },
+    {
+        "word": "茶",
+        "pinyin": "cha2",
+        "eng": "tea; tea plant; CL:杯[bei1]"
+    },
+    {
+        "word": "吃",
+        "pinyin": "chi1",
+        "eng": "to eat; to have one's meal; to eradicate; to destroy; to absorb; to suffer; to exhaust"
+    },
+    {
+        "word": "出租车",
+        "pinyin": "chu1 zu1 che1",
+        "eng": "taxi"
+    },
+    {
+        "word": "打电话",
+        "pinyin": "da3 dian4 hua4",
+        "eng": "to make a telephone call"
+    },
+    {
+        "word": "大",
+        "pinyin": "da4",
+        "eng": "big; huge; large; major; great; wide; deep; oldest; eldest"
+    },
+    {
+        "word": "的",
+        "pinyin": "de5",
+        "eng": "of; structural particle: used before a noun"
+    },
+    {
+        "word": "点",
+        "pinyin": "dian3",
+        "eng": "drop (of liquid); stain; spot; speck; jot; dot stroke (in Chinese characters); decimal point; point; mark (of degree or level); a place (with certain characteristics); iron bell; o’clock; a little; a bit; some; (point) unit of measurement for type; to touch on briefly; to make clear; to light; to ignite; to kindle; period of time at night (24 minutes) (old); a drip; to dibble; classifier for small indeterminate quantities"
+    },
+    {
+        "word": "电脑",
+        "pinyin": "dian4 nao3",
+        "eng": "computer; CL:臺|台[tai2]"
+    },
+    {
+        "word": "电视",
+        "pinyin": "dian4 shi4",
+        "eng": "television; TV; CL:臺|台[tai2]"
+    },
+    {
+        "word": "电影",
+        "pinyin": "dian4 ying3",
+        "eng": "movie; film; CL:部[bu4]"
+    },
+    {
+        "word": "东西",
+        "pinyin": "dong1 xi5",
+        "eng": "thing; stuff; person; CL:個|个[ge4]"
+    },
+    {
+        "word": "都",
+        "pinyin": "dou1",
+        "eng": "all"
+    },
+    {
+        "word": "读",
+        "pinyin": "du2",
+        "eng": "to read; to study; reading of word (i.e. pronunciation)"
+    },
+    {
+        "word": "对不起",
+        "pinyin": "dui4 bu5 qi3",
+        "eng": "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
+    },
+    {
+        "word": "多",
+        "pinyin": "duo1",
+        "eng": "many; much; a lot of; numerous; multi-"
+    },
+    {
+        "word": "多少",
+        "pinyin": "duo1 shao3",
+        "eng": "number; amount; somewhat"
+    },
+    {
+        "word": "儿子",
+        "pinyin": "er2 zi5",
+        "eng": "son"
+    },
+    {
+        "word": "二",
+        "pinyin": "er4",
+        "eng": "two; 2; stupid (Beijing dialect)"
+    },
+    {
+        "word": "饭馆",
+        "pinyin": "fan4 guan3",
+        "eng": "restaurant; CL:家[jia1]"
+    },
+    {
+        "word": "飞机",
+        "pinyin": "fei1 ji1",
+        "eng": "airplane; CL: 架[jia4]"
+    },
+    {
+        "word": "分钟",
+        "pinyin": "fen1 zhong1",
+        "eng": "minute"
+    },
+    {
+        "word": "高兴",
+        "pinyin": "gao1 xing4",
+        "eng": "happy; glad; willing (to do sth); in a cheerful mood"
+    },
+    {
+        "word": "个",
+        "pinyin": "ge4",
+        "eng": "individual; this; that; size; classifier for people or objects in general"
+    },
+    {
+        "word": "工作",
+        "pinyin": "gong1 zuo4",
+        "eng": "job; work; construction; task; CL:個|个[ge4]"
+    },
+    {
+        "word": "狗",
+        "pinyin": "gou3",
+        "eng": "dog; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "汉语",
+        "pinyin": "Han4 yu3",
+        "eng": "Chinese language; CL:門|门[men2]"
+    },
+    {
+        "word": "好",
+        "pinyin": "hao3",
+        "eng": "good; well; proper; good to; easy to; very; so; (suffix indicating completion or readiness)"
+    },
+    {
+        "word": "喝",
+        "pinyin": "he1",
+        "eng": "to drink; to shout (a command); My goodness!"
+    },
+    {
+        "word": "和",
+        "pinyin": "he2",
+        "eng": "and; together with; with; sum; union; peace; harmony; surname He; Japanese related; Taiwan pr.  han4"
+    },
+    {
+        "word": "很",
+        "pinyin": "hen3",
+        "eng": "(adverb of degree); quite; very; awfully"
+    },
+    {
+        "word": "后面",
+        "pinyin": "hou4 mian5",
+        "eng": "rear; back; behind; later; afterwards"
+    },
+    {
+        "word": "回",
+        "pinyin": "hui2",
+        "eng": "to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book)"
+    },
+    {
+        "word": "会",
+        "pinyin": "hui4",
+        "eng": "can; be possible; be able to; will; be likely to; be sure to; to assemble; to meet; to gather; to see; union; group; association; CL:個|个[ge4]; a moment (Taiwan pr. for this sense is hui3)"
+    },
+    {
+        "word": "火车站",
+        "pinyin": "huo3 che1 zhan4",
+        "eng": "train station"
+    },
+    {
+        "word": "几",
+        "pinyin": "ji3",
+        "eng": "how much; how many; several; a few"
+    },
+    {
+        "word": "家",
+        "pinyin": "jia1",
+        "eng": "home; family; classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for specialists in some activity such as musician or revolutionary"
+    },
+    {
+        "word": "叫",
+        "pinyin": "jiao4",
+        "eng": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)"
+    },
+    {
+        "word": "今天",
+        "pinyin": "jin1 tian1",
+        "eng": "today; at the present; now"
+    },
+    {
+        "word": "九",
+        "pinyin": "jiu3",
+        "eng": "nine; 9"
+    },
+    {
+        "word": "开",
+        "pinyin": "kai1",
+        "eng": "to open; to start; to turn on; to boil; to write out (a medical prescription); to operate (vehicle); abbr. for 開爾文|开尔文 degrees Kelvin"
+    },
+    {
+        "word": "看",
+        "pinyin": "kan1",
+        "eng": "to look after; to take care of; to watch; to guard"
+    },
+    {
+        "word": "看见",
+        "pinyin": "kan4 jian4",
+        "eng": "to see; to catch sight of"
+    },
+    {
+        "word": "块",
+        "pinyin": "kuai4",
+        "eng": "lump (of earth); chunk; piece; classifier for pieces of cloth"
+    },
+    {
+        "word": "来",
+        "pinyin": "lai2",
+        "eng": "to come; to arrive; to come round; ever since; next"
+    },
+    {
+        "word": "老师",
+        "pinyin": "lao3 shi1",
+        "eng": "teacher; CL:個|个[ge4]"
+    },
+    {
+        "word": "了",
+        "pinyin": "le5",
+        "eng": "(modal particle intensifying preceding clause); (completed action marker)"
+    },
+    {
+        "word": "冷",
+        "pinyin": "leng3",
+        "eng": "cold"
+    },
+    {
+        "word": "里",
+        "pinyin": "li3",
+        "eng": "lining; interior; inside; internal; also written 裡|里 [li3]"
+    },
+    {
+        "word": "零",
+        "pinyin": "ling2",
+        "eng": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) remainder (after division); extra; to wither and fall; to wither"
+    },
+    {
+        "word": "六",
+        "pinyin": "liu4",
+        "eng": "six; 6"
+    },
+    {
+        "word": "妈妈",
+        "pinyin": "ma1 ma5",
+        "eng": "mama; mommy; mother; CL:個|个[ge4]"
+    },
+    {
+        "word": "吗",
+        "pinyin": "ma5",
+        "eng": "(question tag)"
+    },
+    {
+        "word": "买",
+        "pinyin": "mai3",
+        "eng": "to buy; to purchase"
+    },
+    {
+        "word": "猫",
+        "pinyin": "mao1",
+        "eng": "cat; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "没",
+        "pinyin": "mei2",
+        "eng": "(negative prefix for verbs); have not; not"
+    },
+    {
+        "word": "没关系",
+        "pinyin": "mei2 guan1 xi5",
+        "eng": "it doesn't matter"
+    },
+    {
+        "word": "米饭",
+        "pinyin": "mi3 fan4",
+        "eng": "(cooked) rice"
+    },
+    {
+        "word": "明天",
+        "pinyin": "ming2 tian1",
+        "eng": "tomorrow"
+    },
+    {
+        "word": "名字",
+        "pinyin": "ming2 zi5",
+        "eng": "name (of a person or thing); CL:個|个[ge4]"
+    },
+    {
+        "word": "哪",
+        "pinyin": "na3",
+        "eng": "how; which"
+    },
+    {
+        "word": "哪儿",
+        "pinyin": "na3 r5",
+        "eng": "where?; wherever; anywhere"
+    },
+    {
+        "word": "那",
+        "pinyin": "na4",
+        "eng": "that; those; then (in that case); commonly pr. nei4 before a classifier"
+    },
+    {
+        "word": "那儿",
+        "pinyin": "na4 r5",
+        "eng": "there"
+    },
+    {
+        "word": "呢",
+        "pinyin": "ne5",
+        "eng": "(question particle for subjects already mentioned)"
+    },
+    {
+        "word": "能",
+        "pinyin": "neng2",
+        "eng": "to be able to; to be capable of; ability; capability; able; capable; can possibly; (usually used in the negative) to have the possibility of"
+    },
+    {
+        "word": "你",
+        "pinyin": "ni3",
+        "eng": "you (informal"
+    },
+    {
+        "word": "年",
+        "pinyin": "nian2",
+        "eng": "year; CL:個|个[ge4]"
+    },
+    {
+        "word": "女儿",
+        "pinyin": "nv3 er2",
+        "eng": "daughter"
+    },
+    {
+        "word": "朋友",
+        "pinyin": "peng2 you5",
+        "eng": "friend; CL:個|个[ge4]"
+    },
+    {
+        "word": "漂亮",
+        "pinyin": "piao4 liang5",
+        "eng": "pretty; beautiful"
+    },
+    {
+        "word": "苹果",
+        "pinyin": "ping2 guo3",
+        "eng": "apple; CL:個|个[ge4]"
+    },
+    {
+        "word": "七",
+        "pinyin": "qi1",
+        "eng": "seven; 7"
+    },
+    {
+        "word": "钱",
+        "pinyin": "qian2",
+        "eng": "coin; money; CL:筆|笔[bi3]"
+    },
+    {
+        "word": "前面",
+        "pinyin": "qian2 mian4",
+        "eng": "ahead; in front; preceding; above"
+    },
+    {
+        "word": "请",
+        "pinyin": "qing3",
+        "eng": "to ask; to invite; please (do sth); to treat (to a meal etc); to request"
+    },
+    {
+        "word": "去",
+        "pinyin": "qu4",
+        "eng": "to go; to go to (a place); to cause to go or send (sb); to remove; to get rid of; (when used either before or after a verb) to go in order to do sth; to be apart from in space or time; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation); (of a time or an event etc) just passed or elapsed"
+    },
+    {
+        "word": "热",
+        "pinyin": "re4",
+        "eng": "heat; to heat up; fervent; hot (of weather); warm up"
+    },
+    {
+        "word": "人",
+        "pinyin": "ren2",
+        "eng": "man; person; people; CL:個|个[ge4]"
+    },
+    {
+        "word": "认识",
+        "pinyin": "ren4 shi5",
+        "eng": "to know; to recognize; to be familiar with; acquainted with sth; knowledge; understanding; awareness; cognition"
+    },
+    {
+        "word": "日",
+        "pinyin": "ri4",
+        "eng": "sun; day; date"
+    },
+    {
+        "word": "三",
+        "pinyin": "san1",
+        "eng": "three; 3"
+    },
+    {
+        "word": "商店",
+        "pinyin": "shang1 dian4",
+        "eng": "store; shop; CL:家[jia1]"
+    },
+    {
+        "word": "上",
+        "pinyin": "shang4",
+        "eng": "on; on top; upon; first (of multiple parts); previous; last; upper; higher; above; to climb; to go into; to go up; to attend (class or university)"
+    },
+    {
+        "word": "上午",
+        "pinyin": "shang4 wu3",
+        "eng": "morning; CL:個|个[ge4]"
+    },
+    {
+        "word": "少",
+        "pinyin": "shao3",
+        "eng": "few; little; lack"
+    },
+    {
+        "word": "谁",
+        "pinyin": "shei2",
+        "eng": "who; also pronounced shui2"
+    },
+    {
+        "word": "什么",
+        "pinyin": "shen2 me5",
+        "eng": "what?; who?; something; anything"
+    },
+    {
+        "word": "十",
+        "pinyin": "shi2",
+        "eng": "ten; 10"
+    },
+    {
+        "word": "时候",
+        "pinyin": "shi2 hou5",
+        "eng": "time; length of time; moment; period"
+    },
+    {
+        "word": "是",
+        "pinyin": "shi4",
+        "eng": "is; are; am; yes; to be"
+    },
+    {
+        "word": "书",
+        "pinyin": "shu1",
+        "eng": "book; letter; CL:本[ben3]"
+    },
+    {
+        "word": "水",
+        "pinyin": "shui3",
+        "eng": "water; river; liquid; beverage; additional charges or income; (of clothes) classifier for number of washes"
+    },
+    {
+        "word": "水果",
+        "pinyin": "shui3 guo3",
+        "eng": "fruit; CL:個|个[ge4]"
+    },
+    {
+        "word": "睡觉",
+        "pinyin": "shui4 jiao4",
+        "eng": "to go to bed; to go to sleep"
+    },
+    {
+        "word": "说话",
+        "pinyin": "shuo1 hua4",
+        "eng": "to speak; to say; to talk; to gossip; to tell stories; talk; word"
+    },
+    {
+        "word": "四",
+        "pinyin": "si4",
+        "eng": "four; 4"
+    },
+    {
+        "word": "岁",
+        "pinyin": "sui4",
+        "eng": "classifier for years (of age); year; year (of crop harvests)"
+    },
+    {
+        "word": "他",
+        "pinyin": "ta1",
+        "eng": "he or him; (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); other; another"
+    },
+    {
+        "word": "她",
+        "pinyin": "ta1",
+        "eng": "she"
+    },
+    {
+        "word": "太",
+        "pinyin": "tai4",
+        "eng": "highest; greatest; too (much); very; extremely"
+    },
+    {
+        "word": "天气",
+        "pinyin": "tian1 qi4",
+        "eng": "weather"
+    },
+    {
+        "word": "听",
+        "pinyin": "ting1",
+        "eng": "to listen; to hear; to obey; a can (loanword from English tin); classifier for canned beverages"
+    },
+    {
+        "word": "同学",
+        "pinyin": "tong2 xue2",
+        "eng": "(fellow) classmate; CL:位[wei4]"
+    },
+    {
+        "word": "喂",
+        "pinyin": "wei4",
+        "eng": "hello (interj."
+    },
+    {
+        "word": "我",
+        "pinyin": "wo3",
+        "eng": "I; me; my"
+    },
+    {
+        "word": "我们",
+        "pinyin": "wo3 men5",
+        "eng": "we; us; ourselves; our"
+    },
+    {
+        "word": "五",
+        "pinyin": "wu3",
+        "eng": "five; 5"
+    },
+    {
+        "word": "喜欢",
+        "pinyin": "xi3 huan5",
+        "eng": "to like; to be fond of"
+    },
+    {
+        "word": "下",
+        "pinyin": "xia4",
+        "eng": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down"
+    },
+    {
+        "word": "下午",
+        "pinyin": "xia4 wu3",
+        "eng": "afternoon; p.m.; CL:個|个[ge4]"
+    },
+    {
+        "word": "下雨",
+        "pinyin": "xia4 yu3",
+        "eng": "to rain; rainy"
+    },
+    {
+        "word": "先生",
+        "pinyin": "xian1 sheng5",
+        "eng": "teacher; Mister (Mr.); husband; doctor (topolect); CL:個|个[ge4]"
+    },
+    {
+        "word": "现在",
+        "pinyin": "xian4 zai4",
+        "eng": "now; at present; at the moment; modern; current; nowadays"
+    },
+    {
+        "word": "想",
+        "pinyin": "xiang3",
+        "eng": "to think; to believe; to suppose; to wish; to want; to miss"
+    },
+    {
+        "word": "小",
+        "pinyin": "xiao3",
+        "eng": "small; tiny; few; young"
+    },
+    {
+        "word": "小姐",
+        "pinyin": "xiao3 jie5",
+        "eng": "young lady; miss; CL:個|个[ge4]"
+    },
+    {
+        "word": "些",
+        "pinyin": "xie1",
+        "eng": "some; few; several; (a measure word)"
+    },
+    {
+        "word": "写",
+        "pinyin": "xie3",
+        "eng": "to write"
+    },
+    {
+        "word": "谢谢",
+        "pinyin": "xie4 xie5",
+        "eng": "to thank; thanks"
+    },
+    {
+        "word": "星期",
+        "pinyin": "xing1 qi1",
+        "eng": "week; CL:個|个[ge4]"
+    },
+    {
+        "word": "学生",
+        "pinyin": "xue2 sheng5",
+        "eng": "student; school child"
+    },
+    {
+        "word": "学习",
+        "pinyin": "xue2 xi2",
+        "eng": "to learn; to study"
+    },
+    {
+        "word": "学校",
+        "pinyin": "xue2 xiao4",
+        "eng": "school; CL:所[suo3]"
+    },
+    {
+        "word": "一",
+        "pinyin": "yi1",
+        "eng": "one; 1; single; a (article); as soon as; entire; whole; all; throughout; one radical in Chinese characters (Kangxi radical 1)"
+    },
+    {
+        "word": "衣服",
+        "pinyin": "yi1 fu5",
+        "eng": "clothes; CL:件[jian4]"
+    },
+    {
+        "word": "医生",
+        "pinyin": "yi1 sheng1",
+        "eng": "doctor; CL:個|个[ge4]"
+    },
+    {
+        "word": "医院",
+        "pinyin": "yi1 yuan4",
+        "eng": "hospital; CL:所[suo3]"
+    },
+    {
+        "word": "椅子",
+        "pinyin": "yi3 zi5",
+        "eng": "chair; CL:把[ba3]"
+    },
+    {
+        "word": "有",
+        "pinyin": "you3",
+        "eng": "to have; there is; there are; to exist; to be"
+    },
+    {
+        "word": "月",
+        "pinyin": "yue4",
+        "eng": "moon; month; CL:個|个[ge4]"
+    },
+    {
+        "word": "在",
+        "pinyin": "zai4",
+        "eng": "(located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)"
+    },
+    {
+        "word": "再见",
+        "pinyin": "zai4 jian4",
+        "eng": "goodbye; see you again later"
+    },
+    {
+        "word": "怎么",
+        "pinyin": "zen3 me5",
+        "eng": "how?; what?; why?"
+    },
+    {
+        "word": "怎么样",
+        "pinyin": "zen3 me5 yang4",
+        "eng": "how?; how about?; how was it?; how are things?"
+    },
+    {
+        "word": "这",
+        "pinyin": "zhe4",
+        "eng": "this; these; (commonly pr. zhei4 before a classifier"
+    },
+    {
+        "word": "这儿",
+        "pinyin": "zhe4 r5",
+        "eng": "here"
+    },
+    {
+        "word": "中国",
+        "pinyin": "Zhong1 guo2",
+        "eng": "China; Middle Kingdom"
+    },
+    {
+        "word": "中午",
+        "pinyin": "zhong1 wu3",
+        "eng": "noon; midday; CL:個|个[ge4]"
+    },
+    {
+        "word": "住",
+        "pinyin": "zhu4",
+        "eng": "to live; to dwell; to stay; to reside; to stop"
+    },
+    {
+        "word": "桌子",
+        "pinyin": "zhuo1 zi5",
+        "eng": "table; desk; CL:張|张[zhang1]"
+    },
+    {
+        "word": "字",
+        "pinyin": "zi4",
+        "eng": "letter; symbol; character; word; CL:個|个[ge4]; courtesy or style name traditionally given to males aged 20 in dynastic China"
+    },
+    {
+        "word": "昨天",
+        "pinyin": "zuo2 tian1",
+        "eng": "yesterday"
+    },
+    {
+        "word": "做",
+        "pinyin": "zuo4",
+        "eng": "to do; to make; to produce; to write; to compose; to act as; to engage in; to hold (a party); to be; to become; to function (in some capacity); to serve as; to be used for; to form (a bond or relationship); to pretend; to feign; to act a part; to put on appearance"
+    },
+    {
+        "word": "坐",
+        "pinyin": "zuo4",
+        "eng": "to sit; to take a seat; to take (a bus"
+    }
+]

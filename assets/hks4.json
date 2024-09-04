@@ -1,0 +1,6018 @@
+[
+   
+    {
+        "word": "阿姨",
+        "pinyin": "a1 yi2",
+        "eng": "maternal aunt; step-mother; childcare worker; nursemaid; woman of similar age to one's parents (term of address used by child); CL:個|个[ge4]"
+    },
+    {
+        "word": "啊",
+        "pinyin": "a5",
+        "eng": "modal particle ending sentence"
+    },
+    {
+        "word": "矮",
+        "pinyin": "ai3",
+        "eng": "low; short (in length)"
+    },
+    {
+        "word": "爱",
+        "pinyin": "ai4",
+        "eng": "to love; affection; to be fond of; to like"
+    },
+    {
+        "word": "爱好",
+        "pinyin": "ai4 hao4",
+        "eng": "to like; to take pleasure in; keen on; fond of; interest; hobby; appetite for; CL:個|个[ge4]"
+    },
+    {
+        "word": "爱情",
+        "pinyin": "ai4 qing2",
+        "eng": "romance; love (romantic); CL:個|个[ge4]"
+    },
+    {
+        "word": "安静",
+        "pinyin": "an1 jing4",
+        "eng": "quiet; peaceful; calm"
+    },
+    {
+        "word": "安排",
+        "pinyin": "an1 pai2",
+        "eng": "to arrange; to plan; to set up"
+    },
+    {
+        "word": "安全",
+        "pinyin": "an1 quan2",
+        "eng": "safe; secure; safety; security"
+    },
+    {
+        "word": "暗",
+        "pinyin": "an4",
+        "eng": "dark; gloomy; hidden; secret; muddled; obscure; in the dark"
+    },
+    {
+        "word": "按时",
+        "pinyin": "an4 shi2",
+        "eng": "on time; before deadline; on schedule"
+    },
+    {
+        "word": "按照",
+        "pinyin": "an4 zhao4",
+        "eng": "according to; in accordance with; in the light of; on the basis of"
+    },
+    {
+        "word": "八",
+        "pinyin": "ba1",
+        "eng": "eight; 8"
+    },
+    {
+        "word": "把",
+        "pinyin": "ba3",
+        "eng": "to hold; to contain; to grasp; to take hold of; a handle; particle marking the following noun as a direct object; classifier for objects with handle"
+    },
+    {
+        "word": "爸爸",
+        "pinyin": "ba4 ba5",
+        "eng": "(informal) father; CL:個|个[ge4]"
+    },
+    {
+        "word": "吧",
+        "pinyin": "ba5",
+        "eng": "(modal particle indicating polite suggestion); ...right?; ...OK?"
+    },
+    {
+        "word": "白",
+        "pinyin": "bai2",
+        "eng": "white; snowy; pure; bright; empty; blank; plain; clear; to make clear; in vain; gratuitous; free of charge; reactionary; anti-communist; funeral; to stare coldly; to write wrong character; to state; to explain; vernacular; spoken lines in opera; surname Bai"
+    },
+    {
+        "word": "百",
+        "pinyin": "bai3",
+        "eng": "hundred; numerous; all kinds of; surname Bai"
+    },
+    {
+        "word": "班",
+        "pinyin": "ban1",
+        "eng": "team; class; squad; work shift; classifier for groups; ranking; surname Ban; CL:個|个[ge4]"
+    },
+    {
+        "word": "搬",
+        "pinyin": "ban1",
+        "eng": "to move; to shift; to remove; to transport; to apply indiscriminately; to copy mechanically"
+    },
+    {
+        "word": "半",
+        "pinyin": "ban4",
+        "eng": "half; semi-; incomplete; (after a number) and a half"
+    },
+    {
+        "word": "办法",
+        "pinyin": "ban4 fa3",
+        "eng": "means; method; way (of doing sth); CL:條|条[tiao2]"
+    },
+    {
+        "word": "办公室",
+        "pinyin": "ban4 gong1 shi4",
+        "eng": "an office; business premises; a bureau; CL:間|间[jian1]"
+    },
+    {
+        "word": "帮忙",
+        "pinyin": "bang1 mang2",
+        "eng": "to help; to lend a hand; to do a favor; to do a good turn"
+    },
+    {
+        "word": "帮助",
+        "pinyin": "bang1 zhu4",
+        "eng": "assistance; aid; to help; to assist"
+    },
+    {
+        "word": "包",
+        "pinyin": "bao1",
+        "eng": "to cover; to wrap; to hold; to include; to take charge of; package; wrapper; container; bag; to hold or embrace; bundle; packet; to contract (to or for); surname Bao; CL:個|个[ge4]"
+    },
+    {
+        "word": "包括",
+        "pinyin": "bao1 kuo4",
+        "eng": "to comprise; to include; to involve; to incorporate; to consist of"
+    },
+    {
+        "word": "饱",
+        "pinyin": "bao3",
+        "eng": "to eat till full; satisfied"
+    },
+    {
+        "word": "保护",
+        "pinyin": "bao3 hu4",
+        "eng": "to protect; to defend; to safeguard; protection; CL:種|种[zhong3]"
+    },
+    {
+        "word": "保证",
+        "pinyin": "bao3 zheng4",
+        "eng": "guarantee; to guarantee; to ensure; to safeguard; to pledge; CL:個|个[ge4]"
+    },
+    {
+        "word": "抱",
+        "pinyin": "bao4",
+        "eng": "to hold; to carry (in one's arms); to hug or embrace; surround; cherish"
+    },
+    {
+        "word": "抱歉",
+        "pinyin": "bao4 qian4",
+        "eng": "sorry; We apologize!; to feel apologetic; to regret"
+    },
+    {
+        "word": "报道",
+        "pinyin": "bao4 dao4",
+        "eng": "report; CL:篇[pian1]"
+    },
+    {
+        "word": "报名",
+        "pinyin": "bao4 ming2",
+        "eng": "to sign up; to enter one's name; to apply; to register; to enroll; to enlist"
+    },
+    {
+        "word": "报纸",
+        "pinyin": "bao4 zhi3",
+        "eng": "newspaper; newsprint; CL:份[fen4]"
+    },
+    {
+        "word": "杯子",
+        "pinyin": "bei1 zi5",
+        "eng": "cup; glass; CL:個|个[ge4]"
+    },
+    {
+        "word": "北方",
+        "pinyin": "bei3 fang1",
+        "eng": "north; the northern part a country; China north of the Yellow River"
+    },
+    {
+        "word": "北京",
+        "pinyin": "Bei3 jing1",
+        "eng": "Beijing"
+    },
+    {
+        "word": "倍",
+        "pinyin": "bei4",
+        "eng": "(two"
+    },
+    {
+        "word": "被",
+        "pinyin": "bei4",
+        "eng": "by (indicates passive-voice sentences or clauses); quilt; to cover (literary)"
+    },
+    {
+        "word": "本",
+        "pinyin": "ben3",
+        "eng": "roots or stems of plants; origin; source; this; the current; root; foundation; basis; classifier for books"
+    },
+    {
+        "word": "本来",
+        "pinyin": "ben3 lai2",
+        "eng": "original; originally; at first; it goes without saying; of course"
+    },
+    {
+        "word": "笨",
+        "pinyin": "ben4",
+        "eng": "stupid; foolish; silly; slow-witted; clumsy"
+    },
+    {
+        "word": "鼻子",
+        "pinyin": "bi2 zi5",
+        "eng": "nose; CL:個|个[ge4]"
+    },
+    {
+        "word": "比",
+        "pinyin": "bi3 ",
+        "eng": "(particle used for comparison and -er than); to compare; to contrast; to gesture (with hands); ratio"
+    },
+    {
+        "word": "比较",
+        "pinyin": "bi3 jiao4",
+        "eng": "compare; contrast; fairly; comparatively; relatively; quite; rather"
+    },
+    {
+        "word": "比赛",
+        "pinyin": "bi3 sai4",
+        "eng": "competition (sports etc); match; CL:場|场[chang3]"
+    },
+    {
+        "word": "笔记本",
+        "pinyin": "bi3 ji4 ben3",
+        "eng": "notebook; CL:本[ben3]"
+    },
+    {
+        "word": "必须",
+        "pinyin": "bi4 xu1",
+        "eng": "to have to; must; compulsory; necessarily"
+    },
+    {
+        "word": "毕业",
+        "pinyin": "bi4 ye4",
+        "eng": "graduation; to graduate; to finish school"
+    },
+    {
+        "word": "遍",
+        "pinyin": "bian4",
+        "eng": "a time; everywhere; turn; all over; one time"
+    },
+    {
+        "word": "变化",
+        "pinyin": "bian4 hua4",
+        "eng": "change; variation; to change; to vary; CL:個|个[ge4]"
+    },
+    {
+        "word": "标准",
+        "pinyin": "biao1 zhun3",
+        "eng": "(an official) standard; norm; criterion; CL:個|个[ge4]"
+    },
+    {
+        "word": "表达",
+        "pinyin": "biao3 da2",
+        "eng": "to voice (an opinion); to express; to convey"
+    },
+    {
+        "word": "表格",
+        "pinyin": "biao3 ge2",
+        "eng": "form; table; CL:張|张[zhang1]"
+    },
+    {
+        "word": "表示",
+        "pinyin": "biao3 shi4",
+        "eng": "to express; to show; to say; to state; to indicate; to mean"
+    },
+    {
+        "word": "表演",
+        "pinyin": "biao3 yan3",
+        "eng": "play; show; performance; exhibition; to perform; to act; to demonstrate; CL:場|场[chang3]"
+    },
+    {
+        "word": "表扬",
+        "pinyin": "biao3 yang2",
+        "eng": "to praise; to commend"
+    },
+    {
+        "word": "别",
+        "pinyin": "bie2",
+        "eng": "to leave; to depart; to separate; to distinguish; to classify; other; another; do not; must not; to pin"
+    },
+    {
+        "word": "别人",
+        "pinyin": "bie2 ren2",
+        "eng": "other people; others; other person"
+    },
+    {
+        "word": "宾馆",
+        "pinyin": "bin1 guan3",
+        "eng": "guesthouse; CL:個|个[ge4]"
+    },
+    {
+        "word": "冰箱",
+        "pinyin": "bing1 xiang1",
+        "eng": "icebox; freezer cabinet; refrigerator; CL:臺|台[tai2]"
+    },
+    {
+        "word": "饼干",
+        "pinyin": "bing3 gan1",
+        "eng": "biscuit; cracker; cookie; CL:片[pian4]"
+    },
+    {
+        "word": "并且",
+        "pinyin": "bing4 qie3",
+        "eng": "and; besides; moreover; furthermore; in addition"
+    },
+    {
+        "word": "博士",
+        "pinyin": "bo2 shi4",
+        "eng": "doctor; court academician (in feudal China); Ph.D."
+    },
+    {
+        "word": "不但",
+        "pinyin": "bu4 dan4",
+        "eng": "not only (... but also...)"
+    },
+    {
+        "word": "不过",
+        "pinyin": "bu4 guo4",
+        "eng": "only; merely; no more than; but; however; anyway (to get back to a previous topic)"
+    },
+    {
+        "word": "不客气",
+        "pinyin": "bu4 ke4 qi5",
+        "eng": "you're welcome; impolite; rude; blunt; don't mention it"
+    },
+    {
+        "word": "不",
+        "pinyin": "bu4",
+        "eng": "(negative prefix); not; no"
+    },
+    {
+        "word": "不得不",
+        "pinyin": "bu4 de2 bu4",
+        "eng": "have no choice or option but to; cannot but; have to; can't help it; can't avoid"
+    },
+    {
+        "word": "不管",
+        "pinyin": "bu4 guan3",
+        "eng": "no matter (what"
+    },
+    {
+        "word": "不仅",
+        "pinyin": "bu4 jin3",
+        "eng": "not only (this one); not just (...) but also"
+    },
+    {
+        "word": "部分",
+        "pinyin": "bu4 fen4",
+        "eng": "part; share; section; piece; CL:個|个[ge4]"
+    },
+    {
+        "word": "擦",
+        "pinyin": "ca1",
+        "eng": "to wipe; to erase; rubbing (brush stroke in painting); to clean; to polish"
+    },
+    {
+        "word": "猜",
+        "pinyin": "cai1",
+        "eng": "to guess"
+    },
+    {
+        "word": "才",
+        "pinyin": "cai2",
+        "eng": "ability; talent; endowment; gift; an expert; only (then); only if; just"
+    },
+    {
+        "word": "材料",
+        "pinyin": "cai2 liao4",
+        "eng": "material; data; makings; stuff; CL:個|个[ge4]"
+    },
+    {
+        "word": "菜",
+        "pinyin": "cai4",
+        "eng": "dish (type of food); vegetables; vegetable; cuisine; CL:盤|盘[pan2]"
+    },
+    {
+        "word": "菜单",
+        "pinyin": "cai4 dan1",
+        "eng": "menu; CL:份[fen4]"
+    },
+    {
+        "word": "参观",
+        "pinyin": "can1 guan1",
+        "eng": "to look around; to inspect; visit and observe"
+    },
+    {
+        "word": "参加",
+        "pinyin": "can1 jia1",
+        "eng": "to participate; to take part; to join"
+    },
+    {
+        "word": "草",
+        "pinyin": "cao3",
+        "eng": "grass; straw; manuscript; draft (of a document); careless; rough; CL:棵[ke1]"
+    },
+    {
+        "word": "层",
+        "pinyin": "ceng2",
+        "eng": "layer; stratum; laminated; floor (of a building); storey; classifier for layers; repeated; sheaf (math.)"
+    },
+    {
+        "word": "茶",
+        "pinyin": "cha2",
+        "eng": "tea; tea plant; CL:杯[bei1]"
+    },
+    {
+        "word": "差",
+        "pinyin": "cha4",
+        "eng": "differ from; short of; to lack; poor"
+    },
+    {
+        "word": "差不多",
+        "pinyin": "cha4 bu5 duo1",
+        "eng": "almost; nearly; more or less"
+    },
+    {
+        "word": "尝",
+        "pinyin": "chang2",
+        "eng": "to taste; flavor; (past tense marker); already; formerly; ever; once; test"
+    },
+    {
+        "word": "长",
+        "pinyin": "chang2",
+        "eng": "length; long; forever; always; constantly"
+    },
+    {
+        "word": "长城",
+        "pinyin": "Chang2 cheng2",
+        "eng": "the Great Wall"
+    },
+    {
+        "word": "长江",
+        "pinyin": "Chang2 jiang1",
+        "eng": "Changjiang river; Yangtze river"
+    },
+    {
+        "word": "场",
+        "pinyin": "chang3",
+        "eng": "large place used for a specific purpose; stage; scene (of a play); classifier for sporting or recreational activities; classifier for number of exams "
+    },
+    {
+        "word": "唱歌",
+        "pinyin": "chang4 ge1",
+        "eng": "to sing a song"
+    },
+    {
+        "word": "超过",
+        "pinyin": "chao1 guo4",
+        "eng": "to surpass; to exceed; to outstrip"
+    },
+    {
+        "word": "超市",
+        "pinyin": "chao1 shi4",
+        "eng": "supermarket (abbr.); CL:家[jia1]"
+    },
+    {
+        "word": "吵",
+        "pinyin": "chao3",
+        "eng": "to quarrel; to make a noise; noisy; to disturb by making a noise"
+    },
+    {
+        "word": "衬衫",
+        "pinyin": "chen4 shan1",
+        "eng": "shirt; blouse; CL:件[jian4]"
+    },
+    {
+        "word": "成功",
+        "pinyin": "cheng2 gong1",
+        "eng": "success; to succeed; CL:次[ci4]"
+    },
+    {
+        "word": "成绩",
+        "pinyin": "cheng2 ji4",
+        "eng": "achievement; performance records; grades; CL:項|项[xiang4]"
+    },
+    {
+        "word": "成熟",
+        "pinyin": "cheng2 shu2",
+        "eng": "mature; ripe; Taiwan pr. cheng2 shou2"
+    },
+    {
+        "word": "成为",
+        "pinyin": "cheng2 wei2",
+        "eng": "to become; to turn into"
+    },
+    {
+        "word": "诚实",
+        "pinyin": "cheng2 shi2",
+        "eng": "honest; honesty; honorable; truthful"
+    },
+    {
+        "word": "城市",
+        "pinyin": "cheng2 shi4",
+        "eng": "city; town; CL:座[zuo4]"
+    },
+    {
+        "word": "乘坐",
+        "pinyin": "cheng2 zuo4",
+        "eng": "to ride (in a vehicle)"
+    },
+    {
+        "word": "吃",
+        "pinyin": "chi1",
+        "eng": "to eat; to have one's meal; to eradicate; to destroy; to absorb; to suffer; to exhaust"
+    },
+    {
+        "word": "吃惊",
+        "pinyin": "chi1 jing1",
+        "eng": "to be startled; to be shocked; to be amazed"
+    },
+    {
+        "word": "迟到",
+        "pinyin": "chi2 dao4",
+        "eng": "to arrive late"
+    },
+    {
+        "word": "重新",
+        "pinyin": "chong2 xin1",
+        "eng": "again; once more; re-"
+    },
+    {
+        "word": "抽烟",
+        "pinyin": "chou1 yan1",
+        "eng": "to smoke (a cigarette"
+    },
+    {
+        "word": "出",
+        "pinyin": "chu1",
+        "eng": "to go out; to come out; to occur; to produce; to go beyond; to rise; to put forth; to happen; classifier for dramas"
+    },
+    {
+        "word": "出差",
+        "pinyin": "chu1 chai1",
+        "eng": "to go on an official or business trip"
+    },
+    {
+        "word": "出发",
+        "pinyin": "chu1 fa1",
+        "eng": "to start out; to set off"
+    },
+    {
+        "word": "出生",
+        "pinyin": "chu1 sheng1",
+        "eng": "to be born"
+    },
+    {
+        "word": "出现",
+        "pinyin": "chu1 xian4",
+        "eng": "to appear; to arise; to emerge; to show up"
+    },
+    {
+        "word": "出租车",
+        "pinyin": "chu1 zu1 che1",
+        "eng": "taxi"
+    },
+    {
+        "word": "厨房",
+        "pinyin": "chu2 fang2",
+        "eng": "kitchen; CL:間|间[jian1]"
+    },
+    {
+        "word": "除了",
+        "pinyin": "chu2 le5",
+        "eng": "besides; apart from (... also...); in addition to; except (for)"
+    },
+    {
+        "word": "穿",
+        "pinyin": "chuan1",
+        "eng": "to bore through; pierce; perforate; penetrate; pass through; to dress; to wear; to put on; to thread"
+    },
+    {
+        "word": "船",
+        "pinyin": "chuan2",
+        "eng": "a boat; vessel; ship; CL:條|条[tiao2]"
+    },
+    {
+        "word": "传真",
+        "pinyin": "chuan2 zhen1",
+        "eng": "fax; facsimile"
+    },
+    {
+        "word": "窗户",
+        "pinyin": "chuang1 hu5",
+        "eng": "window; CL:個|个[ge4]"
+    },
+    {
+        "word": "春",
+        "pinyin": "chun1",
+        "eng": "spring (time); gay; joyful; youthful; love; lust; life"
+    },
+    {
+        "word": "词典",
+        "pinyin": "ci2 dian3",
+        "eng": "dictionary (of Chinese compound words); also written 辭典|辞典[ci2 dian3]; CL:部[bu4]"
+    },
+    {
+        "word": "词语",
+        "pinyin": "ci2 yu3",
+        "eng": "word (general term including monosyllables through to short phrases); term (e.g. technical term); expression"
+    },
+    {
+        "word": "次",
+        "pinyin": "ci4",
+        "eng": "next in sequence; second; the second (day"
+    },
+    {
+        "word": "聪明",
+        "pinyin": "cong1 ming5",
+        "eng": "acute (of sight and hearing); clever; intelligent; bright; smart"
+    },
+    {
+        "word": "从",
+        "pinyin": "cong2",
+        "eng": "from; via; passing through; through (a gap); past; ever (followed by negative"
+    },
+    {
+        "word": "从来",
+        "pinyin": "cong2 lai2",
+        "eng": "always; at all times; never (if used in negative sentence)"
+    },
+    {
+        "word": "粗心",
+        "pinyin": "cu1 xin1",
+        "eng": "careless; thoughtless"
+    },
+    {
+        "word": "错",
+        "pinyin": "cuo4",
+        "eng": "mistake; error; blunder; fault; cross; uneven; wrong; CL:個|个[ge4]"
+    },
+    {
+        "word": "答案",
+        "pinyin": "da2 an4",
+        "eng": "answer; solution; CL:個|个[ge4]"
+    },
+    {
+        "word": "打扮",
+        "pinyin": "da3 ban5",
+        "eng": "to decorate; to dress; to make up; to adorn; manner of dressing; style of dress"
+    },
+    {
+        "word": "打电话",
+        "pinyin": "da3 dian4 hua4",
+        "eng": "to make a telephone call"
+    },
+    {
+        "word": "打篮球",
+        "pinyin": "da3 lan2 qiu2",
+        "eng": "play basketball"
+    },
+    {
+        "word": "打扰",
+        "pinyin": "da3 rao3",
+        "eng": "to disturb; to bother; to trouble"
+    },
+    {
+        "word": "打扫",
+        "pinyin": "da3 sao3",
+        "eng": "to clean; to sweep"
+    },
+    {
+        "word": "打算",
+        "pinyin": "da3 suan4",
+        "eng": "to plan; to intend; to calculate; plan; intention; calculation; CL:個|个[ge4]"
+    },
+    {
+        "word": "打印",
+        "pinyin": "da3 yin4",
+        "eng": "to print; to seal; to stamp"
+    },
+    {
+        "word": "打折",
+        "pinyin": "da3 zhe2",
+        "eng": "to give a discount"
+    },
+    {
+        "word": "打针",
+        "pinyin": "da3 zhen1",
+        "eng": "to give or have an injection"
+    },
+    {
+        "word": "大",
+        "pinyin": "da4",
+        "eng": "big; huge; large; major; great; wide; deep; oldest; eldest"
+    },
+    {
+        "word": "大概",
+        "pinyin": "da4 gai4",
+        "eng": "roughly; probably; rough; approximate; about"
+    },
+    {
+        "word": "大家",
+        "pinyin": "da4 jia1",
+        "eng": "authority; everyone"
+    },
+    {
+        "word": "大使馆",
+        "pinyin": "da4 shi3 guan3",
+        "eng": "embassy; CL:座[zuo4]"
+    },
+    {
+        "word": "大约",
+        "pinyin": "da4 yue1",
+        "eng": "approximately; about"
+    },
+    {
+        "word": "带",
+        "pinyin": "dai4",
+        "eng": "band; belt; girdle; ribbon; tire; area; zone; region; CL:條|条[tiao2]; to wear; to carry; to lead; to bring; to look after; to raise"
+    },
+    {
+        "word": "戴",
+        "pinyin": "dai4",
+        "eng": "to put on or wear (glasses"
+    },
+    {
+        "word": "代表",
+        "pinyin": "dai4 biao3",
+        "eng": "representative; delegate; CL:位[wei4]"
+    },
+    {
+        "word": "代替",
+        "pinyin": "dai4 ti4",
+        "eng": "instead; to replace; to substitute (X for Y"
+    },
+    {
+        "word": "大夫",
+        "pinyin": "dai4 fu5",
+        "eng": "doctor; minister of state (in pre-Han states); CL:個|个[ge4]"
+    },
+    {
+        "word": "担心",
+        "pinyin": "dan1 xin1",
+        "eng": "anxious; worried; uneasy; to worry; to be anxious"
+    },
+    {
+        "word": "蛋糕",
+        "pinyin": "dan4 gao1",
+        "eng": "cake; CL:塊|块[kuai4]"
+    },
+    {
+        "word": "但是",
+        "pinyin": "dan4 shi4",
+        "eng": "but; however"
+    },
+    {
+        "word": "当",
+        "pinyin": "dang1",
+        "eng": "to be; to act as; manage; withstand; when; during; ought; should; match equally; equal; same; obstruct; just at (a time or place); on the spot; right; just at"
+    },
+    {
+        "word": "当地",
+        "pinyin": "dang1 di4",
+        "eng": "local"
+    },
+    {
+        "word": "当然",
+        "pinyin": "dang1 ran2",
+        "eng": "only natural; as it should be; certainly; of course; without doubt"
+    },
+    {
+        "word": "当时",
+        "pinyin": "dang1 shi2",
+        "eng": "then; at that time; while"
+    },
+    {
+        "word": "刀",
+        "pinyin": "dao1",
+        "eng": "knife; CL:把[ba3]"
+    },
+    {
+        "word": "导游",
+        "pinyin": "dao3 you2",
+        "eng": "tour guide; to conduct a tour; a guidebook"
+    },
+    {
+        "word": "到",
+        "pinyin": "dao4",
+        "eng": "to (a place); until (a time); up to; to go; to arrive"
+    },
+    {
+        "word": "到处",
+        "pinyin": "dao4 chu4",
+        "eng": "in all places; everywhere"
+    },
+    {
+        "word": "到底",
+        "pinyin": "dao4 di3",
+        "eng": "finally; in the end; when all is said and done; after all; to the end; to the last"
+    },
+    {
+        "word": "道歉",
+        "pinyin": "dao4 qian4",
+        "eng": "to apologize; to make an apology"
+    },
+    {
+        "word": "得意",
+        "pinyin": "de2 yi4",
+        "eng": "proud of oneself; pleased with oneself; complacent"
+    },
+    {
+        "word": "地",
+        "pinyin": "de5",
+        "eng": "-ly; structural particle: used before a verb or adjective"
+    },
+    {
+        "word": "的",
+        "pinyin": "de5",
+        "eng": "of; structural particle: used before a noun"
+    },
+    {
+        "word": "得",
+        "pinyin": "de5",
+        "eng": "structural particle: used after a verb (or adjective as main verb)"
+    },
+    {
+        "word": "得",
+        "pinyin": "dei3",
+        "eng": "to have to; must; ought to; to need to"
+    },
+    {
+        "word": "灯",
+        "pinyin": "deng1",
+        "eng": "lamp; light; lantern; CL:盞|盏[zhan3]"
+    },
+    {
+        "word": "等",
+        "pinyin": "deng3",
+        "eng": "wait for; await"
+    },
+    {
+        "word": "等",
+        "pinyin": "deng3",
+        "eng": "et cetera; and so on; et al. (and other authors); after; as soon as; once"
+    },
+    {
+        "word": "低",
+        "pinyin": "di1",
+        "eng": "low; beneath; to lower (one's head); to let droop; to hang down; to incline"
+    },
+    {
+        "word": "底",
+        "pinyin": "di3",
+        "eng": "background; bottom; base; the end of a period of time; towards the end of (last month)"
+    },
+    {
+        "word": "弟弟",
+        "pinyin": "di4 di5",
+        "eng": "younger brother; CL:個|个[ge4]"
+    },
+    {
+        "word": "地方",
+        "pinyin": "di4 fang1",
+        "eng": "region; regional (away from the central administration)"
+    },
+    {
+        "word": "地球",
+        "pinyin": "di4 qiu2",
+        "eng": "the Earth; planet; CL:個|个[ge4]"
+    },
+    {
+        "word": "地铁",
+        "pinyin": "di4 tie3",
+        "eng": "subway; metro"
+    },
+    {
+        "word": "地图",
+        "pinyin": "di4 tu2",
+        "eng": "map; CL:張|张[zhang1]"
+    },
+    {
+        "word": "地址",
+        "pinyin": "di4 zhi3",
+        "eng": "address; CL:個|个[ge4]"
+    },
+    {
+        "word": "第一",
+        "pinyin": "di4 yi1",
+        "eng": "first; number one"
+    },
+    {
+        "word": "点",
+        "pinyin": "dian3",
+        "eng": "drop (of liquid); stain; spot; speck; jot; dot stroke (in Chinese characters); decimal point; point; mark (of degree or level); a place (with certain characteristics); iron bell; o’clock; a little; a bit; some; (point) unit of measurement for type; to touch on briefly; to make clear; to light; to ignite; to kindle; period of time at night (24 minutes) (old); a drip; to dibble; classifier for small indeterminate quantities"
+    },
+    {
+        "word": "电脑",
+        "pinyin": "dian4 nao3",
+        "eng": "computer; CL:臺|台[tai2]"
+    },
+    {
+        "word": "电视",
+        "pinyin": "dian4 shi4",
+        "eng": "television; TV; CL:臺|台[tai2]"
+    },
+    {
+        "word": "电梯",
+        "pinyin": "dian4 ti1",
+        "eng": "elevator; CL:臺|台[tai2]"
+    },
+    {
+        "word": "电影",
+        "pinyin": "dian4 ying3",
+        "eng": "movie; film; CL:部[bu4]"
+    },
+    {
+        "word": "电子邮件",
+        "pinyin": "dian4 zi3 you2 jian4",
+        "eng": "electronic mail; email; CL:封[feng1]"
+    },
+    {
+        "word": "掉",
+        "pinyin": "diao4",
+        "eng": "to fall; to drop; to lag behind; to lose; to go missing; to reduce; fall (in prices); to lose (value"
+    },
+    {
+        "word": "调查",
+        "pinyin": "diao4 cha2",
+        "eng": "investigation; inquiry; to investigate; to survey; survey; (opinion) poll; CL:項|项[xiang4]"
+    },
+    {
+        "word": "丢",
+        "pinyin": "diu1",
+        "eng": "to lose; to put aside; to throw"
+    },
+    {
+        "word": "冬",
+        "pinyin": "dong1",
+        "eng": "winter"
+    },
+    {
+        "word": "东",
+        "pinyin": "dong1",
+        "eng": "east; host (i.e. sitting on east side of guest); landlord; surname Dong"
+    },
+    {
+        "word": "东西",
+        "pinyin": "dong1 xi5",
+        "eng": "thing; stuff; person; CL:個|个[ge4]"
+    },
+    {
+        "word": "懂",
+        "pinyin": "dong3",
+        "eng": "to understand; to know"
+    },
+    {
+        "word": "动物",
+        "pinyin": "dong4 wu4",
+        "eng": "animal; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "动作",
+        "pinyin": "dong4 zuo4",
+        "eng": "movement; motion; action; CL:個|个[ge4]"
+    },
+    {
+        "word": "都",
+        "pinyin": "dou1",
+        "eng": "all"
+    },
+    {
+        "word": "读",
+        "pinyin": "du2",
+        "eng": "to read; to study; reading of word (i.e. pronunciation)"
+    },
+    {
+        "word": "堵车",
+        "pinyin": "du3 che1",
+        "eng": "traffic jam; choking"
+    },
+    {
+        "word": "肚子",
+        "pinyin": "du4 zi5",
+        "eng": "belly; abdomen; stomach; CL:個|个[ge4]"
+    },
+    {
+        "word": "短",
+        "pinyin": "duan3",
+        "eng": "short or brief; to lack; weak point; fault"
+    },
+    {
+        "word": "段",
+        "pinyin": "duan4",
+        "eng": "paragraph; section; segment; stage (of a process); classifier for stories"
+    },
+    {
+        "word": "断",
+        "pinyin": "duan4",
+        "eng": "to break; to snap; to cut off; to give up or abstain from sth; to judge; (usu. used in the negative) absolutely"
+    },
+    {
+        "word": "锻炼",
+        "pinyin": "duan4 lian4",
+        "eng": "to engage in physical exercise; to toughen; to temper"
+    },
+    {
+        "word": "对",
+        "pinyin": "dui4",
+        "eng": "couple; pair; to be opposite; to oppose; to face; versus; for; to; correct (answer); to answer; to reply; to direct (towards sth); right"
+    },
+    {
+        "word": "对",
+        "pinyin": "dui4",
+        "eng": "(介词)to; for"
+    },
+    {
+        "word": "对不起",
+        "pinyin": "dui4 bu5 qi3",
+        "eng": "unworthy; to let down; I'm sorry; excuse me; pardon me; if you please; sorry? (please repeat)"
+    },
+    {
+        "word": "对话",
+        "pinyin": "dui4 hua4",
+        "eng": "dialog; CL:個|个[ge4]"
+    },
+    {
+        "word": "对面",
+        "pinyin": "dui4 mian4",
+        "eng": "opposite"
+    },
+    {
+        "word": "顿",
+        "pinyin": "dun4",
+        "eng": "stop; pause; to arrange; to lay out; to kowtow; to stamp; at once; classifier for meals"
+    },
+    {
+        "word": "多",
+        "pinyin": "duo1",
+        "eng": "many; much; a lot of; numerous; multi-"
+    },
+    {
+        "word": "多么",
+        "pinyin": "duo1 me5",
+        "eng": "how (wonderful etc); what (a great idea etc); however (difficult it may be etc)"
+    },
+    {
+        "word": "多少",
+        "pinyin": "duo1 shao3",
+        "eng": "number; amount; somewhat"
+    },
+    {
+        "word": "朵",
+        "pinyin": "duo3",
+        "eng": "flower; earlobe; fig. item on both sides; classifier for flowers"
+    },
+    {
+        "word": "饿",
+        "pinyin": "e4",
+        "eng": "to be hungry; hungry"
+    },
+    {
+        "word": "而",
+        "pinyin": "er2",
+        "eng": "and; as well as; and so; but (not); yet (not); (indicates causal relation); (indicates change of state); (indicates contrast)"
+    },
+    {
+        "word": "而且",
+        "pinyin": "er2 qie3",
+        "eng": "(not only ...) but also; moreover; in addition; furthermore"
+    },
+    {
+        "word": "儿童",
+        "pinyin": "er2 tong2",
+        "eng": "child; CL:個|个[ge4]"
+    },
+    {
+        "word": "儿子",
+        "pinyin": "er2 zi5",
+        "eng": "son"
+    },
+    {
+        "word": "耳朵",
+        "pinyin": "er3 duo5",
+        "eng": "ear; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "二",
+        "pinyin": "er4",
+        "eng": "two; 2; stupid (Beijing dialect)"
+    },
+    {
+        "word": "发",
+        "pinyin": "fa1",
+        "eng": "to send out; to show (one's feeling); to issue; to develop; classifier for gunshots (rounds)"
+    },
+    {
+        "word": "发烧",
+        "pinyin": "fa1 shao1",
+        "eng": "have a high temperature (from illness); have a fever"
+    },
+    {
+        "word": "发生",
+        "pinyin": "fa1 sheng1",
+        "eng": "to happen; to occur; to take place; to break out"
+    },
+    {
+        "word": "发现",
+        "pinyin": "fa1 xian4",
+        "eng": "to find; to discover"
+    },
+    {
+        "word": "发展",
+        "pinyin": "fa1 zhan3",
+        "eng": "development; growth; to develop; to grow; to expand"
+    },
+    {
+        "word": "法律",
+        "pinyin": "fa3 lv4",
+        "eng": "law; CL:條|条[tiao2]"
+    },
+    {
+        "word": "翻译",
+        "pinyin": "fan1 yi4",
+        "eng": "to translate; to interpret; translator; interpreter; translation; interpretation; CL:個|个[ge4]"
+    },
+    {
+        "word": "烦恼",
+        "pinyin": "fan2 nao3",
+        "eng": "agonize; agony; annoyance; upset; vexation; worries"
+    },
+    {
+        "word": "反对",
+        "pinyin": "fan3 dui4",
+        "eng": "to fight against; to oppose; to be opposed to; opposition"
+    },
+    {
+        "word": "反应",
+        "pinyin": "fan3 ying4",
+        "eng": "to mirror; to reflect; mirror image; reflection; fig. to report; to make known; to render; used erroneously for 反應|反应"
+    },
+    {
+        "word": "饭馆",
+        "pinyin": "fan4 guan3",
+        "eng": "restaurant; CL:家[jia1]"
+    },
+    {
+        "word": "范围",
+        "pinyin": "fan4 wei2",
+        "eng": "range; scope; limit; extent; CL:個|个[ge4]"
+    },
+    {
+        "word": "方便",
+        "pinyin": "fang1 bian4",
+        "eng": "convenient; to help out; to make things easy for people; convenience; suitable; having money to spare; (euphemism) to go to the toilet"
+    },
+    {
+        "word": "方法",
+        "pinyin": "fang1 fa3",
+        "eng": "method; way; means; CL:個|个[ge4]"
+    },
+    {
+        "word": "方面",
+        "pinyin": "fang1 mian4",
+        "eng": "respect; aspect; field; side; CL:個|个[ge4]"
+    },
+    {
+        "word": "方向",
+        "pinyin": "fang1 xiang4",
+        "eng": "direction; orientation; path to follow; CL:個|个[ge4]"
+    },
+    {
+        "word": "房间",
+        "pinyin": "fang2 jian1",
+        "eng": "room; CL:間|间[jian1]"
+    },
+    {
+        "word": "访问",
+        "pinyin": "fang3 wen4",
+        "eng": "to visit; to call on; to interview; CL:次[ci4]"
+    },
+    {
+        "word": "放",
+        "pinyin": "fang4",
+        "eng": "to release; to free; to let go; to put; to place; to let out; to set off (fireworks)"
+    },
+    {
+        "word": "放弃",
+        "pinyin": "fang4 qi4",
+        "eng": "to renounce; to abandon; to give up"
+    },
+    {
+        "word": "放暑假",
+        "pinyin": "fang4 shu3 jia4",
+        "eng": "take summer vacation"
+    },
+    {
+        "word": "放心",
+        "pinyin": "fang4 xin1",
+        "eng": "to set one's mind at rest; to be at ease; to rest"
+    },
+    {
+        "word": "非常",
+        "pinyin": "fei1 chang2",
+        "eng": "unusual; extraordinary; extreme; very; exceptional"
+    },
+    {
+        "word": "飞机",
+        "pinyin": "fei1 ji1",
+        "eng": "airplane; CL: 架[jia4]"
+    },
+    {
+        "word": "分",
+        "pinyin": "fen1",
+        "eng": "to divide; to separate; to allocate; to distinguish (good and bad); part or subdivision; fraction; one tenth (of certain units); unit of length equivalent to 0.33 cm; minute; a point (in sports or games); 0.01 yuan (unit of money)"
+    },
+    {
+        "word": "分之",
+        "pinyin": "fen1 zhi1",
+        "eng": "used for fractions and percentages"
+    },
+    {
+        "word": "分钟",
+        "pinyin": "fen1 zhong1",
+        "eng": "minute"
+    },
+    {
+        "word": "份",
+        "pinyin": "fen4",
+        "eng": "part; share; portion; copy; classifier for gifts"
+    },
+    {
+        "word": "丰富",
+        "pinyin": "feng1 fu4",
+        "eng": "rich; plentiful; abundant"
+    },
+    {
+        "word": "风景",
+        "pinyin": "feng1 jing3",
+        "eng": "scenery; landscape; CL:個|个[ge4]"
+    },
+    {
+        "word": "否则",
+        "pinyin": "fou3 ze2",
+        "eng": "if not; otherwise; else; or else"
+    },
+    {
+        "word": "符合",
+        "pinyin": "fu2 he2",
+        "eng": "in keeping with; in accordance with; tallying with; in line with; to agree with; to accord with; to conform to; to correspond with; to manage; to handle"
+    },
+    {
+        "word": "服务员",
+        "pinyin": "fu2 wu4 yuan2",
+        "eng": "waiter; waitress; attendant; customer service personnel; CL:個|个[ge4]"
+    },
+    {
+        "word": "富",
+        "pinyin": "fu4",
+        "eng": "rich; surname Fu"
+    },
+    {
+        "word": "附近",
+        "pinyin": "fu4 jin4",
+        "eng": "(in the) vicinity; nearby; neighboring; next to"
+    },
+    {
+        "word": "父亲",
+        "pinyin": "fu4 qin1",
+        "eng": "father; also pr. with light tone [fu4 qin5]; CL:個|个[ge4]"
+    },
+    {
+        "word": "复习",
+        "pinyin": "fu4 xi2",
+        "eng": "to revise; to review; revision; CL:次[ci4]"
+    },
+    {
+        "word": "复印",
+        "pinyin": "fu4 yin4",
+        "eng": "to photocopy; to duplicate a document"
+    },
+    {
+        "word": "复杂",
+        "pinyin": "fu4 za2",
+        "eng": "complicated; complex"
+    },
+    {
+        "word": "负责",
+        "pinyin": "fu4 ze2",
+        "eng": "to be in charge of; to take responsibility for; to be to blame; conscientious"
+    },
+    {
+        "word": "改变",
+        "pinyin": "gai3 bian4",
+        "eng": "to change; to alter; to transform"
+    },
+    {
+        "word": "干杯",
+        "pinyin": "gan1 bei1",
+        "eng": "to drink a toast; Cheers! (proposing a toast); Here's to you!; Bottoms up!; lit. dry cup"
+    },
+    {
+        "word": "干净",
+        "pinyin": "gan1 jing4",
+        "eng": "clean; neat"
+    },
+    {
+        "word": "干燥",
+        "pinyin": "gan1 zao4",
+        "eng": "to dry (of weather"
+    },
+    {
+        "word": "敢",
+        "pinyin": "gan3",
+        "eng": "to dare; daring; (polite) may I venture"
+    },
+    {
+        "word": "感动",
+        "pinyin": "gan3 dong4",
+        "eng": "to move (sb); to touch (sb emotionally); moving"
+    },
+    {
+        "word": "感觉",
+        "pinyin": "gan3 jue2",
+        "eng": "to feel; to become aware of; feeling; sense; perception; CL:個|个[ge4]"
+    },
+    {
+        "word": "感冒",
+        "pinyin": "gan3 mao4",
+        "eng": "to catch cold; (common) cold; CL:場|场[chang2]"
+    },
+    {
+        "word": "感情",
+        "pinyin": "gan3 qing2",
+        "eng": "feeling; emotion; sensation; likes and dislikes; deep affection for sb or sth; relationship (i.e. love affair); CL:個|个[ge4]"
+    },
+    {
+        "word": "感谢",
+        "pinyin": "gan3 xie4",
+        "eng": "(express) thanks; gratitude; grateful; thankful; thanks"
+    },
+    {
+        "word": "干",
+        "pinyin": "gan1",
+        "eng": "to work; to do; to manage"
+    },
+    {
+        "word": "刚才",
+        "pinyin": "gang1 cai2",
+        "eng": "just now; a moment ago"
+    },
+    {
+        "word": "刚刚",
+        "pinyin": "gang1 gang5",
+        "eng": "just recently; just a moment ago"
+    },
+    {
+        "word": "高",
+        "pinyin": "gao1",
+        "eng": "high; tall; above average; loud; your (honorific); surname Gao"
+    },
+    {
+        "word": "高级",
+        "pinyin": "gao1 ji2",
+        "eng": "high level; high grade; advanced; high-ranking"
+    },
+    {
+        "word": "高兴",
+        "pinyin": "gao1 xing4",
+        "eng": "happy; glad; willing (to do sth); in a cheerful mood"
+    },
+    {
+        "word": "告诉",
+        "pinyin": "gao4 su5",
+        "eng": "to tell; to inform; to let know"
+    },
+    {
+        "word": "哥哥",
+        "pinyin": "ge1 ge5",
+        "eng": "older brother; CL:個|个[ge4]"
+    },
+    {
+        "word": "各",
+        "pinyin": "ge4",
+        "eng": "each; every"
+    },
+    {
+        "word": "个",
+        "pinyin": "ge4",
+        "eng": "individual; this; that; size; classifier for people or objects in general"
+    },
+    {
+        "word": "个子",
+        "pinyin": "ge4 zi5",
+        "eng": "height; stature; build; size"
+    },
+    {
+        "word": "给",
+        "pinyin": "gei3",
+        "eng": "to; for; for the benefit of; to give; to allow; to do sth (for sb); (passive particle)"
+    },
+    {
+        "word": "跟",
+        "pinyin": "gen1",
+        "eng": "heel; to follow closely; to go with; to marry sb (of woman); with; towards; as (compared to); from (different from); and (in addition to)"
+    },
+    {
+        "word": "根据",
+        "pinyin": "gen1 ju4",
+        "eng": "according to; based on; basis; foundation; CL:個|个[ge4]"
+    },
+    {
+        "word": "更",
+        "pinyin": "geng1",
+        "eng": "to change or replace; to experience; one of the five two hour periods into which the night was formerly divided; watch (eg of a sentry or guard)"
+    },
+    {
+        "word": "公共汽车",
+        "pinyin": "gong1 gong4 qi4 che1",
+        "eng": "bus; CL:輛|辆[liang4]"
+    },
+    {
+        "word": "公斤",
+        "pinyin": "gong1 jin1",
+        "eng": "kilogram (kg)"
+    },
+    {
+        "word": "公里",
+        "pinyin": "gong1 li3",
+        "eng": "kilometer"
+    },
+    {
+        "word": "公司",
+        "pinyin": "gong1 si1",
+        "eng": "(business) company; company; firm; corporation; incorporated; CL:家[jia1]"
+    },
+    {
+        "word": "公园",
+        "pinyin": "gong1 yuan2",
+        "eng": "public park; CL:場|场[chang3]"
+    },
+    {
+        "word": "工具",
+        "pinyin": "gong1 ju4",
+        "eng": "tool; instrument; utensil; means (to achieve a goal etc)"
+    },
+    {
+        "word": "工资",
+        "pinyin": "gong1 zi1",
+        "eng": "wages; pay; CL:個|个[ge4]"
+    },
+    {
+        "word": "工作",
+        "pinyin": "gong1 zuo4",
+        "eng": "job; work; construction; task; CL:個|个[ge4]"
+    },
+    {
+        "word": "共同",
+        "pinyin": "gong4 tong2",
+        "eng": "common; joint; jointly; together; collaborative"
+    },
+    {
+        "word": "狗",
+        "pinyin": "gou3",
+        "eng": "dog; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "够",
+        "pinyin": "gou4",
+        "eng": "to reach; to be enough"
+    },
+    {
+        "word": "购物",
+        "pinyin": "gou4 wu4",
+        "eng": "shopping"
+    },
+    {
+        "word": "孤单",
+        "pinyin": "gu1 dan1",
+        "eng": "lone; lonely; loneliness"
+    },
+    {
+        "word": "估计",
+        "pinyin": "gu1 ji4",
+        "eng": "to estimate; to reckon; CL:個|个[ge4]"
+    },
+    {
+        "word": "鼓励",
+        "pinyin": "gu3 li4",
+        "eng": "to encourage"
+    },
+    {
+        "word": "鼓掌",
+        "pinyin": "gu3 zhang3",
+        "eng": "to applaud; to clap"
+    },
+    {
+        "word": "顾客",
+        "pinyin": "gu4 ke4",
+        "eng": "client; customer; CL:位[wei4]"
+    },
+    {
+        "word": "故事",
+        "pinyin": "gu4 shi4",
+        "eng": "old practice; CL:個|个[ge4]"
+    },
+    {
+        "word": "故意",
+        "pinyin": "gu4 yi4",
+        "eng": "deliberately; on purpose"
+    },
+    {
+        "word": "刮风",
+        "pinyin": "gua1 feng1",
+        "eng": "to be windy"
+    },
+    {
+        "word": "挂",
+        "pinyin": "gua4",
+        "eng": "to hang or suspend (from a hook etc); (of a telephone call) to hang up; to be worried or concerned; to make a phone call (topolect); to register or record; to hitch; classifier for sets or clusters of objects"
+    },
+    {
+        "word": "关",
+        "pinyin": "guan1",
+        "eng": "mountain pass; to close; to shut; to turn off; to concern; to involve"
+    },
+    {
+        "word": "关键",
+        "pinyin": "guan1 jian4",
+        "eng": "crucial point; crux; CL:個|个[ge4]; key; crucial; pivotal"
+    },
+    {
+        "word": "关系",
+        "pinyin": "guan1 xi4",
+        "eng": "relation; relationship; to concern; to affect; to have to do with; guanxi; CL:個|个[ge4]"
+    },
+    {
+        "word": "关心",
+        "pinyin": "guan1 xin1",
+        "eng": "to care for sth; caring; concerned"
+    },
+    {
+        "word": "关于",
+        "pinyin": "guan1 yu2",
+        "eng": "pertaining to; concerning; regarding; with regards to; about; a matter of"
+    },
+    {
+        "word": "观众",
+        "pinyin": "guan1 zhong4",
+        "eng": "spectators; audience; visitors (to an exhibition etc)"
+    },
+    {
+        "word": "管理",
+        "pinyin": "guan3 li3",
+        "eng": "to supervise; to manage; to administer; management; administration; CL:個|个[ge4]"
+    },
+    {
+        "word": "光",
+        "pinyin": "guang1",
+        "eng": "light; ray; CL:道[dao4]; bright; only; merely; to use up"
+    },
+    {
+        "word": "广播",
+        "pinyin": "guang3 bo1",
+        "eng": "broadcast; widely spread; CL:個|个[ge4]"
+    },
+    {
+        "word": "广告",
+        "pinyin": "guang3 gao4",
+        "eng": "to advertise; a commercial; advertisement; CL:項|项[xiang4]"
+    },
+    {
+        "word": "逛",
+        "pinyin": "guang4",
+        "eng": "to stroll; to visit"
+    },
+    {
+        "word": "规定",
+        "pinyin": "gui1 ding4",
+        "eng": "provision; to fix; to set; to formulate; to stipulate; to provide; regulation; rule; CL:個|个[ge4]"
+    },
+    {
+        "word": "贵",
+        "pinyin": "gui4",
+        "eng": "expensive; noble; your (name); precious"
+    },
+    {
+        "word": "国际",
+        "pinyin": "guo2 ji4",
+        "eng": "international"
+    },
+    {
+        "word": "国家",
+        "pinyin": "guo2 jia1",
+        "eng": "country; nation; state; CL:個|个[ge4]"
+    },
+    {
+        "word": "果然",
+        "pinyin": "guo3 ran2",
+        "eng": "really; sure enough; as expected"
+    },
+    {
+        "word": "果汁",
+        "pinyin": "guo3 zhi1",
+        "eng": "fruit juice"
+    },
+    {
+        "word": "过",
+        "pinyin": "guo4",
+        "eng": "to cross; to go over; to pass (time); to celebrate (a holiday); to live; to get along; excessively; too-; surname Guo"
+    },
+    {
+        "word": "过",
+        "pinyin": "guo4",
+        "eng": "助词 (indicates a past action or state"
+    },
+    {
+        "word": "过程",
+        "pinyin": "guo4 cheng2",
+        "eng": "course of events; process; CL:個|个[ge4]"
+    },
+    {
+        "word": "过去",
+        "pinyin": "guo4 qu5",
+        "eng": "(in the) past; former; previous; to go over; to pass by"
+    },
+    {
+        "word": "还",
+        "pinyin": "hai2",
+        "eng": "still; still in progress; still more; yet; even more; in addition; fairly; passably (good); as early as; even; also; else"
+    },
+    {
+        "word": "还是",
+        "pinyin": "hai2 shi4",
+        "eng": "or; still; nevertheless"
+    },
+    {
+        "word": "孩子",
+        "pinyin": "hai2 zi5",
+        "eng": "child"
+    },
+    {
+        "word": "海洋",
+        "pinyin": "hai3 yang2",
+        "eng": "ocean; CL:個|个[ge4]"
+    },
+    {
+        "word": "害怕",
+        "pinyin": "hai4 pa4",
+        "eng": "to be afraid; to be scared"
+    },
+    {
+        "word": "害羞",
+        "pinyin": "hai4 xiu1",
+        "eng": "blush; shy"
+    },
+    {
+        "word": "寒假",
+        "pinyin": "han2 jia4",
+        "eng": "winter vacation"
+    },
+    {
+        "word": "汗",
+        "pinyin": "han4",
+        "eng": "perspiration; sweat; CL:滴[di1]"
+    },
+    {
+        "word": "汉语",
+        "pinyin": "Han4 yu3",
+        "eng": "Chinese language; CL:門|门[men2]"
+    },
+    {
+        "word": "航班",
+        "pinyin": "hang2 ban1",
+        "eng": "scheduled flight; flight number; plane; scheduled sailing; sailing number; passenger ship"
+    },
+    {
+        "word": "好",
+        "pinyin": "hao3",
+        "eng": "good; well; proper; good to; easy to; very; so; (suffix indicating completion or readiness)"
+    },
+    {
+        "word": "好吃",
+        "pinyin": "hao3 chi1",
+        "eng": "tasty; delicious"
+    },
+    {
+        "word": "好处",
+        "pinyin": "hao3 chu5",
+        "eng": "benefit; advantage; gain; profit; also pronounced hao3 chu4; CL:個|个[ge4]"
+    },
+    {
+        "word": "好像",
+        "pinyin": "hao3 xiang4",
+        "eng": "as if; to seem like"
+    },
+    {
+        "word": "号",
+        "pinyin": "hao4",
+        "eng": "day of a month; (suffix used after) name of a ship; (ordinal) number"
+    },
+    {
+        "word": "号码",
+        "pinyin": "hao4 ma3",
+        "eng": "number; CL:堆[dui1]"
+    },
+    {
+        "word": "喝",
+        "pinyin": "he1",
+        "eng": "to drink; to shout (a command); My goodness!"
+    },
+    {
+        "word": "和",
+        "pinyin": "he2",
+        "eng": "and; together with; with; sum; union; peace; harmony; surname He; Japanese related; Taiwan pr.  han4"
+    },
+    {
+        "word": "河",
+        "pinyin": "he2",
+        "eng": "river; CL:條|条[tiao2]"
+    },
+    {
+        "word": "合格",
+        "pinyin": "he2 ge2",
+        "eng": "qualified; meeting a standard; eligible (voter)"
+    },
+    {
+        "word": "合适",
+        "pinyin": "he2 shi4",
+        "eng": "suitable; fitting; decent; to fit"
+    },
+    {
+        "word": "盒子",
+        "pinyin": "he2 zi5",
+        "eng": "case"
+    },
+    {
+        "word": "黑",
+        "pinyin": "hei1",
+        "eng": "black; dark; abbr. for Heilongjiang 黑龍江|黑龙江 province in northeast China"
+    },
+    {
+        "word": "黑板",
+        "pinyin": "hei1 ban3",
+        "eng": "blackboard; CL:塊|块[kuai4]"
+    },
+    {
+        "word": "很",
+        "pinyin": "hen3",
+        "eng": "(adverb of degree); quite; very; awfully"
+    },
+    {
+        "word": "红",
+        "pinyin": "hong2",
+        "eng": "bonus; popular; red; revolutionary"
+    },
+    {
+        "word": "猴子",
+        "pinyin": "hou2 zi5",
+        "eng": "monkey; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "厚",
+        "pinyin": "hou4",
+        "eng": "thick; deep or profound; kind; generous; rich or strong in flavor; to favor; to stress"
+    },
+    {
+        "word": "后悔",
+        "pinyin": "hou4 hui3",
+        "eng": "to regret; to repent"
+    },
+    {
+        "word": "后来",
+        "pinyin": "hou4 lai2",
+        "eng": "afterwards; later"
+    },
+    {
+        "word": "后面",
+        "pinyin": "hou4 mian5",
+        "eng": "rear; back; behind; later; afterwards"
+    },
+    {
+        "word": "忽然",
+        "pinyin": "hu1 ran2",
+        "eng": "suddenly; all of a sudden"
+    },
+    {
+        "word": "护士",
+        "pinyin": "hu4 shi5",
+        "eng": "nurse; CL:個|个[ge4]"
+    },
+    {
+        "word": "护照",
+        "pinyin": "hu4 zhao4",
+        "eng": "passport; CL:本[ben3]"
+    },
+    {
+        "word": "互相",
+        "pinyin": "hu4 xiang1",
+        "eng": "each other; mutually; mutual"
+    },
+    {
+        "word": "花",
+        "pinyin": "hua1",
+        "eng": "flower; blossom; fancy pattern; CL:朵[duo3]"
+    },
+    {
+        "word": "花园",
+        "pinyin": "hua1 yuan2",
+        "eng": "garden; CL:座[zuo4]"
+    },
+    {
+        "word": "画",
+        "pinyin": "hua4",
+        "eng": "to draw; picture; painting; CL:幅[fu2]"
+    },
+    {
+        "word": "怀疑",
+        "pinyin": "huai2 yi2",
+        "eng": "to doubt; to suspect; doubt; suspicion; skeptical"
+    },
+    {
+        "word": "坏",
+        "pinyin": "huai4",
+        "eng": "bad; spoiled; broken; to break down"
+    },
+    {
+        "word": "欢迎",
+        "pinyin": "huan1 ying2",
+        "eng": "to welcome; welcome"
+    },
+    {
+        "word": "还",
+        "pinyin": "huan2",
+        "eng": "to pay back; to return; surname Huan"
+    },
+    {
+        "word": "环境",
+        "pinyin": "huan2 jing4",
+        "eng": "environment; circumstances; surroundings; CL:個|个[ge4]; ambient"
+    },
+    {
+        "word": "换",
+        "pinyin": "huan4",
+        "eng": "change; exchange"
+    },
+    {
+        "word": "黄",
+        "pinyin": "huang2",
+        "eng": "yellow; pornographic; to fall through"
+    },
+    {
+        "word": "回",
+        "pinyin": "hui2",
+        "eng": "to circle; to go back; to turn around; to answer; to return; to revolve; Hui ethnic group (Chinese Muslims); time; classifier for acts of a play; section or chapter (of a classic book)"
+    },
+    {
+        "word": "回答",
+        "pinyin": "hui2 da2",
+        "eng": "to reply; to answer; the answer; CL:個|个[ge4]"
+    },
+    {
+        "word": "回忆",
+        "pinyin": "hui2 yi4",
+        "eng": "to recall; recollection; CL:個|个[ge4]"
+    },
+    {
+        "word": "会",
+        "pinyin": "hui4",
+        "eng": "can; be possible; be able to; will; be likely to; be sure to; to assemble; to meet; to gather; to see; union; group; association; CL:個|个[ge4]; a moment (Taiwan pr. for this sense is hui3)"
+    },
+    {
+        "word": "会议",
+        "pinyin": "hui4 yi4",
+        "eng": "meeting; conference; CL:場|场[chang3]"
+    },
+    {
+        "word": "活动",
+        "pinyin": "huo2 dong4",
+        "eng": "to exercise; to move about; to operate; activity; loose; shaky; active; movable; maneuver; to use connections; CL:項|项[xiang4]"
+    },
+    {
+        "word": "活泼",
+        "pinyin": "huo2 po5",
+        "eng": "lively; vivacious; brisk; active"
+    },
+    {
+        "word": "火",
+        "pinyin": "huo3",
+        "eng": "fire; CL:把[ba3]"
+    },
+    {
+        "word": "火车站",
+        "pinyin": "huo3 che1 zhan4",
+        "eng": "train station"
+    },
+    {
+        "word": "获得",
+        "pinyin": "huo4 de2",
+        "eng": "to obtain; to receive; to get"
+    },
+    {
+        "word": "或者",
+        "pinyin": "huo4 zhe3",
+        "eng": "or; possibly; maybe; perhaps"
+    },
+    {
+        "word": "机场",
+        "pinyin": "ji1 chang3",
+        "eng": "airport; airfield; CL:家[jia1]"
+    },
+    {
+        "word": "机会",
+        "pinyin": "ji1 hui4",
+        "eng": "opportunity; chance; occasion; CL:個|个[ge4]"
+    },
+    {
+        "word": "基础",
+        "pinyin": "ji1 chu3",
+        "eng": "base; foundation; basis; underlying; CL:個|个[ge4]"
+    },
+    {
+        "word": "鸡蛋",
+        "pinyin": "ji1 dan4",
+        "eng": "(chicken) egg; hen's egg; CL:個|个[ge4]"
+    },
+    {
+        "word": "激动",
+        "pinyin": "ji1 dong4",
+        "eng": "to excite; to agitate; exciting"
+    },
+    {
+        "word": "几乎",
+        "pinyin": "ji1 hu1",
+        "eng": "almost; nearly; practically"
+    },
+    {
+        "word": "积极",
+        "pinyin": "ji1 ji2",
+        "eng": "active; energetic; vigorous; positive (outlook); proactive"
+    },
+    {
+        "word": "积累",
+        "pinyin": "ji1 lei3",
+        "eng": "to accumulate; accumulation; cumulative; cumulatively"
+    },
+    {
+        "word": "极",
+        "pinyin": "ji2",
+        "eng": "extremely; pole (geography"
+    },
+    {
+        "word": "极其",
+        "pinyin": "ji2 qi2",
+        "eng": "extremely"
+    },
+    {
+        "word": "集合",
+        "pinyin": "ji2 he2",
+        "eng": "a congregation; to gather; a set"
+    },
+    {
+        "word": "及时",
+        "pinyin": "ji2 shi2",
+        "eng": "in time; promptly; without delay; timely"
+    },
+    {
+        "word": "即使",
+        "pinyin": "ji2 shi3",
+        "eng": "even if; even though; given that"
+    },
+    {
+        "word": "几",
+        "pinyin": "ji3",
+        "eng": "how much; how many; several; a few"
+    },
+    {
+        "word": "寄",
+        "pinyin": "ji4",
+        "eng": "to live (in a house); to lodge; to mail; to send; to entrust; to depend"
+    },
+    {
+        "word": "记得",
+        "pinyin": "ji4 de5",
+        "eng": "to remember"
+    },
+    {
+        "word": "记者",
+        "pinyin": "ji4 zhe3",
+        "eng": "reporter; journalist; CL:個|个[ge4]"
+    },
+    {
+        "word": "计划",
+        "pinyin": "ji4 hua4",
+        "eng": "plan; project; program; to plan; to map out; CL:個|个[ge4]"
+    },
+    {
+        "word": "季节",
+        "pinyin": "ji4 jie2",
+        "eng": "time; season; period; CL:個|个[ge4]"
+    },
+    {
+        "word": "既然",
+        "pinyin": "ji4 ran2",
+        "eng": "since; as; this being the case"
+    },
+    {
+        "word": "技术",
+        "pinyin": "ji4 shu4",
+        "eng": "technology; technique; skill; CL:門|门[men2]"
+    },
+    {
+        "word": "继续",
+        "pinyin": "ji4 xu4",
+        "eng": "to continue; to proceed with; to go on with"
+    },
+    {
+        "word": "家",
+        "pinyin": "jia1",
+        "eng": "home; family; classifier for families or businesses; refers to the philosophical schools of pre-Han China; noun suffix for specialists in some activity such as musician or revolutionary"
+    },
+    {
+        "word": "家具",
+        "pinyin": "jia1 ju4",
+        "eng": "furniture; CL:件[jian4]"
+    },
+    {
+        "word": "加班",
+        "pinyin": "jia1 ban1",
+        "eng": "to work overtime"
+    },
+    {
+        "word": "加油站",
+        "pinyin": "jia1 you2 zhan4",
+        "eng": "gas station"
+    },
+    {
+        "word": "假",
+        "pinyin": "jia3",
+        "eng": "fake; false; artificial; to borrow; if; suppose"
+    },
+    {
+        "word": "价格",
+        "pinyin": "jia4 ge2",
+        "eng": "price; CL:個|个[ge4]"
+    },
+    {
+        "word": "坚持",
+        "pinyin": "jian1 chi2",
+        "eng": "to continue upholding; to remain committed to; persistence; to persist; to uphold; to insist on; persevere"
+    },
+    {
+        "word": "检查",
+        "pinyin": "jian3 cha2",
+        "eng": "inspection; to examine; to inspect; CL:次[ci4]"
+    },
+    {
+        "word": "简单",
+        "pinyin": "jian3 dan1",
+        "eng": "simple; not complicated"
+    },
+    {
+        "word": "减肥",
+        "pinyin": "jian3 fei2",
+        "eng": "to lose weight"
+    },
+    {
+        "word": "减少",
+        "pinyin": "jian3 shao3",
+        "eng": "to lessen; to decrease; to reduce; to lower"
+    },
+    {
+        "word": "件",
+        "pinyin": "jian4",
+        "eng": "item; component; classifier for events"
+    },
+    {
+        "word": "健康",
+        "pinyin": "jian4 kang1",
+        "eng": "health; healthy"
+    },
+    {
+        "word": "见面",
+        "pinyin": "jian4 mian4",
+        "eng": "to meet; to see sb; CL:次[ci4]"
+    },
+    {
+        "word": "将来",
+        "pinyin": "jiang1 lai2",
+        "eng": "in the future; future; the future; CL:個|个[ge4]"
+    },
+    {
+        "word": "讲",
+        "pinyin": "jiang3",
+        "eng": "to speak; to explain; to negotiate; to emphasise; to be particular about; as far as sth is concerned; speech; lecture"
+    },
+    {
+        "word": "奖金",
+        "pinyin": "jiang3 jin1",
+        "eng": "premium; award money; a bonus"
+    },
+    {
+        "word": "降低",
+        "pinyin": "jiang4 di1",
+        "eng": "to reduce; to lower; to bring down"
+    },
+    {
+        "word": "教",
+        "pinyin": "jiao1",
+        "eng": "to teach"
+    },
+    {
+        "word": "交",
+        "pinyin": "jiao1",
+        "eng": "to hand over; to deliver; to pay (money); to turn over; to make friends; to intersect (lines)"
+    },
+    {
+        "word": "交流",
+        "pinyin": "jiao1 liu2",
+        "eng": "exchange; give-and-take; to exchange; to alternate; communication; alternating current (electricity)"
+    },
+    {
+        "word": "交通",
+        "pinyin": "jiao1 tong1",
+        "eng": "to be connected; traffic; communications; liaison"
+    },
+    {
+        "word": "骄傲",
+        "pinyin": "jiao1 ao4",
+        "eng": "arrogant; full of oneself; conceited; proud of sth; CL:個|个[ge4]"
+    },
+    {
+        "word": "角",
+        "pinyin": "jiao3",
+        "eng": "angle; corner; horn; horn-shaped; unit of money equal to 0.1 yuan; CL:個|个[ge4]"
+    },
+    {
+        "word": "脚",
+        "pinyin": "jiao3",
+        "eng": "foot; leg; base; kick; CL:雙|双[shuang1]"
+    },
+    {
+        "word": "饺子",
+        "pinyin": "jiao3 zi5",
+        "eng": "dumpling; pot-sticker; CL:個|个[ge4]"
+    },
+    {
+        "word": "叫",
+        "pinyin": "jiao4",
+        "eng": "to shout; to call; to order; to ask; to be called; by (indicates agent in the passive mood)"
+    },
+    {
+        "word": "教室",
+        "pinyin": "jiao4 shi4",
+        "eng": "classroom; CL:間|间[jian1]"
+    },
+    {
+        "word": "教授",
+        "pinyin": "jiao4 shou4",
+        "eng": "professor; to instruct; to lecture on; CL:個|个[ge4]"
+    },
+    {
+        "word": "教育",
+        "pinyin": "jiao4 yu4",
+        "eng": "to educate; to teach; education"
+    },
+    {
+        "word": "接",
+        "pinyin": "jie1",
+        "eng": "to receive; to answer (the phone); to meet or welcome sb; to connect; to catch; to join; to extend; to take one's turn on duty; take over for sb"
+    },
+    {
+        "word": "接受",
+        "pinyin": "jie1 shou4",
+        "eng": "to accept; to receive"
+    },
+    {
+        "word": "街道",
+        "pinyin": "jie1 dao4",
+        "eng": "street; CL:條|条[tiao2]"
+    },
+    {
+        "word": "结果",
+        "pinyin": "jie1 guo3",
+        "eng": "to bear fruit; CL:個|个[ge4]"
+    },
+    {
+        "word": "结婚",
+        "pinyin": "jie2 hun1",
+        "eng": "to marry; to get married; CL:次[ci4]"
+    },
+    {
+        "word": "结束",
+        "pinyin": "jie2 shu4",
+        "eng": "termination; to finish; to end; to conclude; to close"
+    },
+    {
+        "word": "节目",
+        "pinyin": "jie2 mu4",
+        "eng": "program; item (on a program); CL:臺|台[tai2]"
+    },
+    {
+        "word": "节日",
+        "pinyin": "jie2 ri4",
+        "eng": "holiday; festival; CL:個|个[ge4]"
+    },
+    {
+        "word": "节约",
+        "pinyin": "jie2 yue1",
+        "eng": "to economize; to conserve (resources); economy; frugal"
+    },
+    {
+        "word": "姐姐",
+        "pinyin": "jie3 jie5",
+        "eng": "older sister; CL:個|个[ge4]"
+    },
+    {
+        "word": "解决",
+        "pinyin": "jie3 jue2",
+        "eng": "to settle (a dispute); to resolve; to solve"
+    },
+    {
+        "word": "解释",
+        "pinyin": "jie3 shi4",
+        "eng": "explanation; to explain; to interpret; to resolve; CL:個|个[ge4]"
+    },
+    {
+        "word": "借",
+        "pinyin": "jie4",
+        "eng": "to lend; to borrow; excuse; pretext; by means of; to seize (an opportunity); to take (an opportunity)"
+    },
+    {
+        "word": "介绍",
+        "pinyin": "jie4 shao4",
+        "eng": "to present; to introduce; to recommend; to suggest; to let know; to brief"
+    },
+    {
+        "word": "今天",
+        "pinyin": "jin1 tian1",
+        "eng": "today; at the present; now"
+    },
+    {
+        "word": "尽管",
+        "pinyin": "jin3 guan3",
+        "eng": "despite; although; even though; in spite of; unhesitatingly; do not hesitate (to ask"
+    },
+    {
+        "word": "紧张",
+        "pinyin": "jin3 zhang1",
+        "eng": "nervous; keyed up; intense; tense; strained; in short supply; scarce; CL:陣|阵[zhen4]"
+    },
+    {
+        "word": "近",
+        "pinyin": "jin4",
+        "eng": "near; close to; approximately"
+    },
+    {
+        "word": "进",
+        "pinyin": "jin4",
+        "eng": "to advance; to enter; to come (or go) into; to receive or admit; to eat or drink; to submit or present; (used after a verb) into"
+    },
+    {
+        "word": "进行",
+        "pinyin": "jin4 xing2",
+        "eng": "to advance; to conduct; underway; in progress; to do; to carry out; to carry on; to execute"
+    },
+    {
+        "word": "禁止",
+        "pinyin": "jin4 zhi3",
+        "eng": "to prohibit; to forbid; to ban"
+    },
+    {
+        "word": "精彩",
+        "pinyin": "jing1 cai3",
+        "eng": "brilliant; splendid"
+    },
+    {
+        "word": "精神",
+        "pinyin": "jing1 shen2",
+        "eng": "spirit; mind; consciousness; thought; mental; psychological; essence; gist; CL:個|个[ge4]"
+    },
+    {
+        "word": "经常",
+        "pinyin": "jing1 chang2",
+        "eng": "day to day; everyday; daily; frequently; constantly; regularly; often"
+    },
+    {
+        "word": "经过",
+        "pinyin": "jing1 guo4",
+        "eng": "to pass; to go through; process; course; CL:個|个[ge4]"
+    },
+    {
+        "word": "经济",
+        "pinyin": "jing1 ji4",
+        "eng": "economy; economic"
+    },
+    {
+        "word": "经理",
+        "pinyin": "jing1 li3",
+        "eng": "manager; director; CL:個|个[ge4]"
+    },
+    {
+        "word": "经历",
+        "pinyin": "jing1 li4",
+        "eng": "experience; CL:個|个[ge4]"
+    },
+    {
+        "word": "经验",
+        "pinyin": "jing1 yan4",
+        "eng": "to experience; experience"
+    },
+    {
+        "word": "京剧",
+        "pinyin": "Jing1 ju4",
+        "eng": "Beijing opera; CL:場|场[chang3]"
+    },
+    {
+        "word": "警察",
+        "pinyin": "jing3 cha2",
+        "eng": "police; policeman; policewoman; CL:個|个[ge4]"
+    },
+    {
+        "word": "竟然",
+        "pinyin": "jing4 ran2",
+        "eng": "unexpectedly; to one's surprise; in spite of everything; in that crazy way; actually; to go as far as to"
+    },
+    {
+        "word": "竞争",
+        "pinyin": "jing4 zheng1",
+        "eng": "to compete; competition"
+    },
+    {
+        "word": "镜子",
+        "pinyin": "jing4 zi5",
+        "eng": "mirror; CL:面[mian4]"
+    },
+    {
+        "word": "究竟",
+        "pinyin": "jiu1 jing4",
+        "eng": "after all (when all is said and done); actually; outcome; result"
+    },
+    {
+        "word": "九",
+        "pinyin": "jiu3",
+        "eng": "nine; 9"
+    },
+    {
+        "word": "久",
+        "pinyin": "jiu3",
+        "eng": "(long) time; (long) duration of time"
+    },
+    {
+        "word": "旧",
+        "pinyin": "jiu4",
+        "eng": "old; opposite: new 新; former; worn (with age)"
+    },
+    {
+        "word": "就",
+        "pinyin": "jiu4",
+        "eng": "at once; right away; only; just (emphasis); as early as; already; as soon as; then; in that case; as many as; even if; to approach; to move towards; to undertake; to engage in; to suffer; subjected to; to accomplish; to take advantage of; to go with (of foods); with regard to; concerning"
+    },
+    {
+        "word": "举办",
+        "pinyin": "ju3 ban4",
+        "eng": "to conduct; to hold"
+    },
+    {
+        "word": "举行",
+        "pinyin": "ju3 xing2",
+        "eng": "to hold (a meeting"
+    },
+    {
+        "word": "拒绝",
+        "pinyin": "ju4 jue2",
+        "eng": "to refuse; to decline; to reject"
+    },
+    {
+        "word": "距离",
+        "pinyin": "ju4 li2",
+        "eng": "distance; to be apart; CL:個|个[ge4]"
+    },
+    {
+        "word": "句子",
+        "pinyin": "ju4 zi5",
+        "eng": "sentence; CL:個|个[ge4]"
+    },
+    {
+        "word": "觉得",
+        "pinyin": "jue2 de5",
+        "eng": "to think; to feel"
+    },
+    {
+        "word": "决定",
+        "pinyin": "jue2 ding4",
+        "eng": "to decide (to do something); to resolve; decision; CL:個|个[ge4]"
+    },
+    {
+        "word": "咖啡",
+        "pinyin": "ka1 fei1",
+        "eng": "coffee; CL:杯[bei1]"
+    },
+    {
+        "word": "开",
+        "pinyin": "kai1",
+        "eng": "to open; to start; to turn on; to boil; to write out (a medical prescription); to operate (vehicle); abbr. for 開爾文|开尔文 degrees Kelvin"
+    },
+    {
+        "word": "开始",
+        "pinyin": "kai1 shi3",
+        "eng": "to begin; beginning; to start; initial; CL:個|个[ge4]"
+    },
+    {
+        "word": "开玩笑",
+        "pinyin": "kai1 wan2 xiao4",
+        "eng": "to play a joke; to make fun of; to joke"
+    },
+    {
+        "word": "看",
+        "pinyin": "kan4",
+        "eng": "to see; to look at; to read; to watch; to consider; to regard as; to view as; to treat as; to judge; (after repeated verb) to give it a try; depending on (how you're judging); to visit; to call on; to treat (an illness); to look after; Watch out! (for a danger)"
+    },
+    {
+        "word": "看法",
+        "pinyin": "kan4 fa3",
+        "eng": "way of looking at a thing; view; opinion; CL:個|个[ge4]"
+    },
+    {
+        "word": "看见",
+        "pinyin": "kan4 jian4",
+        "eng": "to see; to catch sight of"
+    },
+    {
+        "word": "考虑",
+        "pinyin": "kao3 lv4",
+        "eng": "to think over; to consider; consideration"
+    },
+    {
+        "word": "考试",
+        "pinyin": "kao3 shi4",
+        "eng": "exam; CL:次[ci4]"
+    },
+    {
+        "word": "棵",
+        "pinyin": "ke1",
+        "eng": "classifier for trees"
+    },
+    {
+        "word": "科学",
+        "pinyin": "ke1 xue2",
+        "eng": "science; scientific knowledge; scientific; CL:門|门[men2]"
+    },
+    {
+        "word": "咳嗽",
+        "pinyin": "ke2 sou5",
+        "eng": "to cough; CL:陣|阵[zhen4]"
+    },
+    {
+        "word": "渴",
+        "pinyin": "ke3",
+        "eng": "thirsty"
+    },
+    {
+        "word": "可爱",
+        "pinyin": "ke3 ai4",
+        "eng": "amiable; cute; lovely"
+    },
+    {
+        "word": "可怜",
+        "pinyin": "ke3 lian2",
+        "eng": "pitiful; pathetic"
+    },
+    {
+        "word": "可能",
+        "pinyin": "ke3 neng2",
+        "eng": "might (happen); possible; probable; possibility; probability; maybe; perhaps; CL:個|个[ge4]"
+    },
+    {
+        "word": "可是",
+        "pinyin": "ke3 shi4",
+        "eng": "but; however"
+    },
+    {
+        "word": "可惜",
+        "pinyin": "ke3 xi1",
+        "eng": "it is a pity; what a pity; (it's) too bad"
+    },
+    {
+        "word": "可以",
+        "pinyin": "ke3 yi3",
+        "eng": "can; may; possible; able to"
+    },
+    {
+        "word": "刻",
+        "pinyin": "ke4",
+        "eng": "quarter (hour); moment; to carve; to engrave; to cut; oppressive; classifier for short time intervals"
+    },
+    {
+        "word": "课",
+        "pinyin": "ke4",
+        "eng": "subject; course; class; lesson; CL:堂[tang2]"
+    },
+    {
+        "word": "客人",
+        "pinyin": "ke4 ren2",
+        "eng": "visitor; guest; customer; client; CL:位[wei4]"
+    },
+    {
+        "word": "肯定",
+        "pinyin": "ken3 ding4",
+        "eng": "to be sure; to be certain; sure; certain; definite; to confirm; to affirm; affirmative"
+    },
+    {
+        "word": "空气",
+        "pinyin": "kong1 qi4",
+        "eng": "air; atmosphere"
+    },
+    {
+        "word": "空调",
+        "pinyin": "kong1 tiao2",
+        "eng": "air conditioning"
+    },
+    {
+        "word": "恐怕",
+        "pinyin": "kong3 pa4",
+        "eng": "fear; to dread; I'm afraid that...; perhaps; maybe"
+    },
+    {
+        "word": "口",
+        "pinyin": "kou3",
+        "eng": "mouth; classifier for things with mouths (people"
+    },
+    {
+        "word": "哭",
+        "pinyin": "ku1",
+        "eng": "to cry; to weep"
+    },
+    {
+        "word": "苦",
+        "pinyin": "ku3",
+        "eng": "bitter; hardship; pain; to suffer; painstaking"
+    },
+    {
+        "word": "裤子",
+        "pinyin": "ku4 zi5",
+        "eng": "trousers; pants; CL:條|条[tiao2]"
+    },
+    {
+        "word": "块",
+        "pinyin": "kuai4",
+        "eng": "lump (of earth); chunk; piece; classifier for pieces of cloth"
+    },
+    {
+        "word": "快",
+        "pinyin": "kuai4",
+        "eng": "rapid; quick; speed; rate; soon; almost; to make haste; clever; sharp (of knives or wits); forthright; plain-spoken; gratified; pleased; pleasant"
+    },
+    {
+        "word": "快乐",
+        "pinyin": "kuai4 le4",
+        "eng": "happy; merry"
+    },
+    {
+        "word": "筷子",
+        "pinyin": "kuai4 zi5",
+        "eng": "chopsticks; CL:對|对[dui4]"
+    },
+    {
+        "word": "宽",
+        "pinyin": "kuan1",
+        "eng": "lenient; wide; broad"
+    },
+    {
+        "word": "困",
+        "pinyin": "kun4",
+        "eng": "to trap; to surround; hard-pressed; stranded; destitute"
+    },
+    {
+        "word": "困难",
+        "pinyin": "kun4 nan5",
+        "eng": "(financial etc) difficulty; problem; issue; CL:個|个[ge4]"
+    },
+    {
+        "word": "扩大",
+        "pinyin": "kuo4 da4",
+        "eng": "to expand; to enlarge; to broaden one's scope"
+    },
+    {
+        "word": "拉",
+        "pinyin": "la1",
+        "eng": "to pull; to play (string instruments); to drag; to draw"
+    },
+    {
+        "word": "垃圾桶",
+        "pinyin": "la1 ji1 tong3",
+        "eng": "rubbish bin"
+    },
+    {
+        "word": "辣",
+        "pinyin": "la4",
+        "eng": "hot (spicy); pungent"
+    },
+    {
+        "word": "来",
+        "pinyin": "lai2",
+        "eng": "to come; to arrive; to come round; ever since; next"
+    },
+    {
+        "word": "来不及",
+        "pinyin": "lai2 bu5 ji2",
+        "eng": "there's not enough time (to do sth); it's too late (to do sth)"
+    },
+    {
+        "word": "来得及",
+        "pinyin": "lai2 de5 ji2",
+        "eng": "there's still time; able to do sth in time"
+    },
+    {
+        "word": "蓝",
+        "pinyin": "lan2",
+        "eng": "blue; indigo plant"
+    },
+    {
+        "word": "懒",
+        "pinyin": "lan3",
+        "eng": "lazy"
+    },
+    {
+        "word": "浪费",
+        "pinyin": "lang4 fei4",
+        "eng": "to waste; to squander"
+    },
+    {
+        "word": "浪漫",
+        "pinyin": "lang4 man4",
+        "eng": "romantic"
+    },
+    {
+        "word": "老",
+        "pinyin": "lao3",
+        "eng": "prefix used before the surname of a person or a numeral indicating the order of birth of the children in a family or to indicate affection or familiarity; old (of people); venerable (person); experienced; of long standing; always; all the time; of the past; very; outdated; (of meat etc) tough"
+    },
+    {
+        "word": "老虎",
+        "pinyin": "lao3 hu3",
+        "eng": "tiger; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "老师",
+        "pinyin": "lao3 shi1",
+        "eng": "teacher; CL:個|个[ge4]"
+    },
+    {
+        "word": "了",
+        "pinyin": "le5",
+        "eng": "(modal particle intensifying preceding clause); (completed action marker)"
+    },
+    {
+        "word": "累",
+        "pinyin": "lei4",
+        "eng": "tired; weary; to strain; to wear out; to work hard"
+    },
+    {
+        "word": "冷",
+        "pinyin": "leng3",
+        "eng": "cold"
+    },
+    {
+        "word": "冷静",
+        "pinyin": "leng3 jing4",
+        "eng": "calm; cool-headed"
+    },
+    {
+        "word": "离",
+        "pinyin": "li2",
+        "eng": "to leave; to part from; to be away from; (in giving distances) from; without (sth); independent of; one of the eight trigrams of the Book of Changes representing fire (old)"
+    },
+    {
+        "word": "离开",
+        "pinyin": "li2 kai1",
+        "eng": "to depart; to leave"
+    },
+    {
+        "word": "里",
+        "pinyin": "li3",
+        "eng": "lining; interior; inside; internal; also written 裡|里 [li3]"
+    },
+    {
+        "word": "理发",
+        "pinyin": "li3 fa4",
+        "eng": "a barber; hairdressing"
+    },
+    {
+        "word": "理解",
+        "pinyin": "li3 jie3",
+        "eng": "to comprehend; to understand; comprehension; understanding"
+    },
+    {
+        "word": "理想",
+        "pinyin": "li3 xiang3",
+        "eng": "a dream; an ideal; perfection; ideal; perfect; desirable; CL:個|个[ge4]"
+    },
+    {
+        "word": "礼貌",
+        "pinyin": "li3 mao4",
+        "eng": "courtesy; manners"
+    },
+    {
+        "word": "礼物",
+        "pinyin": "li3 wu4",
+        "eng": "gift; present; CL:件[jian4]"
+    },
+    {
+        "word": "厉害",
+        "pinyin": "li4 hai5",
+        "eng": "difficult to deal with; difficult to endure; ferocious; radical; serious; terrible; violent; tremendous; awesome"
+    },
+    {
+        "word": "力气",
+        "pinyin": "li4 qi5",
+        "eng": "strength; CL:把[ba3]"
+    },
+    {
+        "word": "例如",
+        "pinyin": "li4 ru2",
+        "eng": "for example; for instance; such as"
+    },
+    {
+        "word": "历史",
+        "pinyin": "li4 shi3",
+        "eng": "history; CL:門|门[men2]"
+    },
+    {
+        "word": "俩",
+        "pinyin": "lia3",
+        "eng": "two (colloquial equivalent of 兩個|两个); both; some"
+    },
+    {
+        "word": "连",
+        "pinyin": "lian2",
+        "eng": "to link; to join; to connect; continuously; in succession; including; (used with 也"
+    },
+    {
+        "word": "联系",
+        "pinyin": "lian2 xi4",
+        "eng": "connection; contact; relation; in touch with; to integrate; to link; to touch"
+    },
+    {
+        "word": "脸",
+        "pinyin": "lian3",
+        "eng": "face; CL:張|张[zhang1]"
+    },
+    {
+        "word": "练习",
+        "pinyin": "lian4 xi2",
+        "eng": "exercise; drill; practice; CL:個|个[ge4]"
+    },
+    {
+        "word": "凉快",
+        "pinyin": "liang2 kuai5",
+        "eng": "nice and cold; pleasantly cool"
+    },
+    {
+        "word": "两",
+        "pinyin": "liang3",
+        "eng": "both; two; ounce; some; a few; tael; weight equal to 50 grams"
+    },
+    {
+        "word": "亮",
+        "pinyin": "liang4",
+        "eng": "bright; clear; resonant; to shine; to show; to reveal"
+    },
+    {
+        "word": "辆",
+        "pinyin": "liang4",
+        "eng": "classifier for vehicles"
+    },
+    {
+        "word": "聊天",
+        "pinyin": "liao2 tian1",
+        "eng": "to chat; to gossip"
+    },
+    {
+        "word": "了解",
+        "pinyin": "liao3 jie3",
+        "eng": "to understand; to realize; to find out"
+    },
+    {
+        "word": "邻居",
+        "pinyin": "lin2 ju1",
+        "eng": "neighbor; next door; CL:個|个[ge4]"
+    },
+    {
+        "word": "零",
+        "pinyin": "ling2",
+        "eng": "zero; nought; zero sign; fractional; fragmentary; odd (of numbers); (placed between two numbers to indicate a smaller quantity followed by a larger one); fraction; (in mathematics) remainder (after division); extra; to wither and fall; to wither"
+    },
+    {
+        "word": "另外",
+        "pinyin": "ling4 wai4",
+        "eng": "additional; in addition; besides; separate; other; moreover; furthermore"
+    },
+    {
+        "word": "留",
+        "pinyin": "liu2",
+        "eng": "to leave (eg a message); to retain; to stay; to remain; to keep; to preserve"
+    },
+    {
+        "word": "留学",
+        "pinyin": "liu2 xue2",
+        "eng": "to study abroad"
+    },
+    {
+        "word": "流泪",
+        "pinyin": "liu2 lei4",
+        "eng": "to shed tears"
+    },
+    {
+        "word": "流利",
+        "pinyin": "liu2 li4",
+        "eng": "fluent"
+    },
+    {
+        "word": "流行",
+        "pinyin": "liu2 xing2",
+        "eng": "to spread; to rage (of contagious disease); popular; fashionable; prevalent; (math.) manifold"
+    },
+    {
+        "word": "六",
+        "pinyin": "liu4",
+        "eng": "six; 6"
+    },
+    {
+        "word": "楼",
+        "pinyin": "lou2",
+        "eng": "house with more than 1 story; storied building; floor; CL:層|层[ceng2]"
+    },
+    {
+        "word": "路",
+        "pinyin": "lu4",
+        "eng": "road; path; way; CL:條|条[tiao2]"
+    },
+    {
+        "word": "乱",
+        "pinyin": "luan4",
+        "eng": "in confusion or disorder; in a confused state of mind; disorder; upheaval; riot; illicit sexual relations; to throw into disorder; to mix up; indiscriminate; random; arbitrary"
+    },
+    {
+        "word": "旅游",
+        "pinyin": "lv3 you2",
+        "eng": "trip; journey; tourism; travel; tour"
+    },
+    {
+        "word": "绿",
+        "pinyin": "lv4",
+        "eng": "green"
+    },
+    {
+        "word": "律师",
+        "pinyin": "lv4 shi1",
+        "eng": "lawyer"
+    },
+    {
+        "word": "妈妈",
+        "pinyin": "ma1 ma5",
+        "eng": "mama; mommy; mother; CL:個|个[ge4]"
+    },
+    {
+        "word": "麻烦",
+        "pinyin": "ma2 fan5",
+        "eng": "inconvenient; troublesome; to trouble or bother sb; to put sb to trouble"
+    },
+    {
+        "word": "马",
+        "pinyin": "ma3",
+        "eng": "horse; abbr. for Malaysia 馬來西亞|马来西亚"
+    },
+    {
+        "word": "马虎",
+        "pinyin": "ma3 hu5",
+        "eng": "careless; sloppy; negligent; skimpy"
+    },
+    {
+        "word": "马上",
+        "pinyin": "ma3 shang4",
+        "eng": "at once"
+    },
+    {
+        "word": "吗",
+        "pinyin": "ma5",
+        "eng": "(question tag)"
+    },
+    {
+        "word": "买",
+        "pinyin": "mai3",
+        "eng": "to buy; to purchase"
+    },
+    {
+        "word": "卖",
+        "pinyin": "mai4",
+        "eng": "to sell; to betray; to spare no effort; to show off or flaunt"
+    },
+    {
+        "word": "满",
+        "pinyin": "man3",
+        "eng": "full; filled; packed; fully; completely; quite; to reach the limit; to satisfy; satisfied; contented; to fill; abbr. for Manchurian"
+    },
+    {
+        "word": "满意",
+        "pinyin": "man3 yi4",
+        "eng": "satisfied; pleased; to one's satisfaction"
+    },
+    {
+        "word": "慢",
+        "pinyin": "man4",
+        "eng": "slow"
+    },
+    {
+        "word": "忙",
+        "pinyin": "mang2",
+        "eng": "busy; hurriedly"
+    },
+    {
+        "word": "猫",
+        "pinyin": "mao1",
+        "eng": "cat; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "毛巾",
+        "pinyin": "mao2 jin1",
+        "eng": "towel; CL:條|条[tiao2]"
+    },
+    {
+        "word": "帽子",
+        "pinyin": "mao4 zi5",
+        "eng": "hat; cap; CL:頂|顶[ding3]"
+    },
+    {
+        "word": "没",
+        "pinyin": "mei2",
+        "eng": "(negative prefix for verbs); have not; not"
+    },
+    {
+        "word": "没关系",
+        "pinyin": "mei2 guan1 xi5",
+        "eng": "it doesn't matter"
+    },
+    {
+        "word": "每",
+        "pinyin": "mei3",
+        "eng": "each; every"
+    },
+    {
+        "word": "美丽",
+        "pinyin": "mei3 li4",
+        "eng": "beautiful"
+    },
+    {
+        "word": "妹妹",
+        "pinyin": "mei4 mei5",
+        "eng": "younger sister; fig. younger woman (esp. girl friend or rival); CL:個|个[ge4]"
+    },
+    {
+        "word": "门",
+        "pinyin": "men2",
+        "eng": "gate; door; CL:扇[shan4]; gateway; doorway; CL:個|个[ge4]; opening; valve; switch; way to do something; knack; family; house; (religious) sect; school (of thought); class; category; phylum or division (taxonomy); classifier for large guns; classifier for lessons"
+    },
+    {
+        "word": "梦",
+        "pinyin": "meng4",
+        "eng": "dream; CL:場|场[chang2]"
+    },
+    {
+        "word": "米",
+        "pinyin": "mi3",
+        "eng": "rice; CL:粒[li4]; meter (classifier)"
+    },
+    {
+        "word": "米饭",
+        "pinyin": "mi3 fan4",
+        "eng": "(cooked) rice"
+    },
+    {
+        "word": "密码",
+        "pinyin": "mi4 ma3",
+        "eng": "code; secret code; password; pin number"
+    },
+    {
+        "word": "免费",
+        "pinyin": "mian3 fei4",
+        "eng": "free (of charge)"
+    },
+    {
+        "word": "面包",
+        "pinyin": "mian4 bao1",
+        "eng": "bread; CL:片[pian4]"
+    },
+    {
+        "word": "面条",
+        "pinyin": "mian4 tiao2",
+        "eng": "noodles"
+    },
+    {
+        "word": "民族",
+        "pinyin": "min2 zu2",
+        "eng": "nationality; ethnic group; CL:個|个[ge4]"
+    },
+    {
+        "word": "明白",
+        "pinyin": "ming2 bai5",
+        "eng": "clear; obvious; unequivocal; to understand; to realize"
+    },
+    {
+        "word": "明天",
+        "pinyin": "ming2 tian1",
+        "eng": "tomorrow"
+    },
+    {
+        "word": "名字",
+        "pinyin": "ming2 zi5",
+        "eng": "name (of a person or thing); CL:個|个[ge4]"
+    },
+    {
+        "word": "母亲",
+        "pinyin": "mu3 qin1",
+        "eng": "mother; also pr. with light tone [mu3 qin5]; CL:個|个[ge4]"
+    },
+    {
+        "word": "目的",
+        "pinyin": "mu4 di4",
+        "eng": "purpose; aim; goal; target; objective; CL:個|个[ge4]"
+    },
+    {
+        "word": "拿",
+        "pinyin": "na2",
+        "eng": "to hold; to seize; to catch; to apprehend; to take"
+    },
+    {
+        "word": "哪",
+        "pinyin": "na3",
+        "eng": "how; which"
+    },
+    {
+        "word": "哪儿",
+        "pinyin": "na3 r5",
+        "eng": "where?; wherever; anywhere"
+    },
+    {
+        "word": "那",
+        "pinyin": "na4",
+        "eng": "that; those; then (in that case); commonly pr. nei4 before a classifier"
+    },
+    {
+        "word": "那儿",
+        "pinyin": "na4 r5",
+        "eng": "there"
+    },
+    {
+        "word": "奶奶",
+        "pinyin": "nai3 nai5",
+        "eng": "(informal) father's mother; paternal grandmother; CL:位[wei4]"
+    },
+    {
+        "word": "耐心",
+        "pinyin": "nai4 xin1",
+        "eng": "patient (adjective)"
+    },
+    {
+        "word": "南",
+        "pinyin": "nan2",
+        "eng": "south"
+    },
+    {
+        "word": "难",
+        "pinyin": "nan2",
+        "eng": "difficult (to...); problem; difficulty; difficult; not good"
+    },
+    {
+        "word": "难道",
+        "pinyin": "nan2 dao4",
+        "eng": "don't tell me ...; could it be that...?"
+    },
+    {
+        "word": "难过",
+        "pinyin": "nan2 guo4",
+        "eng": "feel sorry; be grieved"
+    },
+    {
+        "word": "难受",
+        "pinyin": "nan2 shou4",
+        "eng": "to feel unwell; to suffer pain; to be difficult to bear"
+    },
+    {
+        "word": "男人",
+        "pinyin": "nan2 ren2",
+        "eng": "a man; a male; men; CL:個|个[ge4]"
+    },
+    {
+        "word": "呢",
+        "pinyin": "ne5",
+        "eng": "(question particle for subjects already mentioned)"
+    },
+    {
+        "word": "内",
+        "pinyin": "nei4",
+        "eng": "inside; inner; internal; within; interior"
+    },
+    {
+        "word": "内容",
+        "pinyin": "nei4 rong2",
+        "eng": "content; substance; details; CL:個|个[ge4]"
+    },
+    {
+        "word": "能",
+        "pinyin": "neng2",
+        "eng": "to be able to; to be capable of; ability; capability; able; capable; can possibly; (usually used in the negative) to have the possibility of"
+    },
+    {
+        "word": "能力",
+        "pinyin": "neng2 li4",
+        "eng": "capability; capable; able; ability; CL:個|个[ge4]"
+    },
+    {
+        "word": "你",
+        "pinyin": "ni3",
+        "eng": "you (informal"
+    },
+    {
+        "word": "年",
+        "pinyin": "nian2",
+        "eng": "year; CL:個|个[ge4]"
+    },
+    {
+        "word": "年级",
+        "pinyin": "nian2 ji2",
+        "eng": "grade; CL:個|个[ge4]"
+    },
+    {
+        "word": "年龄",
+        "pinyin": "nian2 ling2",
+        "eng": "(a person's) age; CL:把[ba3]"
+    },
+    {
+        "word": "年轻",
+        "pinyin": "nian2 qing1",
+        "eng": "young"
+    },
+    {
+        "word": "鸟",
+        "pinyin": "niao3",
+        "eng": "bird; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "您",
+        "pinyin": "nin2",
+        "eng": "you (polite"
+    },
+    {
+        "word": "牛奶",
+        "pinyin": "niu2 nai3",
+        "eng": "cow's milk; CL:瓶[ping2]"
+    },
+    {
+        "word": "农村",
+        "pinyin": "nong2 cun1",
+        "eng": "rural area; village; CL:個|个[ge4]"
+    },
+    {
+        "word": "弄",
+        "pinyin": "nong4",
+        "eng": "to do; to manage; to handle; to play with; to fool with; to mess with; to fix; to toy with"
+    },
+    {
+        "word": "努力",
+        "pinyin": "nu3 li4",
+        "eng": "great effort; to strive; to try hard"
+    },
+    {
+        "word": "暖和",
+        "pinyin": "nuan3 huo5",
+        "eng": "warm; nice and warm"
+    },
+    {
+        "word": "女儿",
+        "pinyin": "nv3 er2",
+        "eng": "daughter"
+    },
+    {
+        "word": "女人",
+        "pinyin": "nv3 ren2",
+        "eng": "woman"
+    },
+    {
+        "word": "偶尔",
+        "pinyin": "ou3 er3",
+        "eng": "occasionally; once in a while; sometimes"
+    },
+    {
+        "word": "爬山",
+        "pinyin": "pa2 shan1",
+        "eng": "to climb a mountain; to mountaineer; hiking; mountaineering"
+    },
+    {
+        "word": "排列",
+        "pinyin": "pai2 lie4",
+        "eng": "array; arrangement; permutation (i.e. ordered choice of n elements out of m)"
+    },
+    {
+        "word": "盘子",
+        "pinyin": "pan2 zi5",
+        "eng": "tray; plate; dish; CL:個|个[ge4]"
+    },
+    {
+        "word": "判断",
+        "pinyin": "pan4 duan4",
+        "eng": "to decide; to determine; CL:個|个[ge4]"
+    },
+    {
+        "word": "旁边",
+        "pinyin": "pang2 bian1",
+        "eng": "lateral; side; to the side; beside"
+    },
+    {
+        "word": "胖",
+        "pinyin": "pang4",
+        "eng": "fat; plump"
+    },
+    {
+        "word": "跑步",
+        "pinyin": "pao3 bu4",
+        "eng": "to walk quickly; to march; to run"
+    },
+    {
+        "word": "陪",
+        "pinyin": "pei2",
+        "eng": "to accompany; to keep sb company"
+    },
+    {
+        "word": "朋友",
+        "pinyin": "peng2 you5",
+        "eng": "friend; CL:個|个[ge4]"
+    },
+    {
+        "word": "批评",
+        "pinyin": "pi1 ping2",
+        "eng": "to criticize; criticism; CL:個|个[ge4]"
+    },
+    {
+        "word": "皮肤",
+        "pinyin": "pi2 fu1",
+        "eng": "skin; CL:種|种[zhong3]"
+    },
+    {
+        "word": "啤酒",
+        "pinyin": "pi2 jiu3",
+        "eng": "beer; CL:杯[bei1]"
+    },
+    {
+        "word": "脾气",
+        "pinyin": "pi2 qi4",
+        "eng": "temperament; disposition; temper; CL:個|个[ge4]"
+    },
+    {
+        "word": "篇",
+        "pinyin": "pian1",
+        "eng": "sheet; piece of writing; bound set of bamboo slips used for record keeping (old); classifier for written items: chapter"
+    },
+    {
+        "word": "便宜",
+        "pinyin": "pian2 yi5",
+        "eng": "small advantages; to let sb off lightly; cheap; inexpensive"
+    },
+    {
+        "word": "骗",
+        "pinyin": "pian4",
+        "eng": "to cheat; to swindle; to deceive; to fool; to hoodwink; to trick"
+    },
+    {
+        "word": "票",
+        "pinyin": "piao4",
+        "eng": "ticket; ballot; bank note; CL:張|张[zhang1]; person held for ransom; amateur performance of Chinese opera; classifier for shipments and business transactions (topolect)"
+    },
+    {
+        "word": "漂亮",
+        "pinyin": "piao4 liang5",
+        "eng": "pretty; beautiful"
+    },
+    {
+        "word": "乒乓球",
+        "pinyin": "ping1 pang1 qiu2",
+        "eng": "table tennis; ping-pong; ping pong; table tennis ball; CL:個|个[ge4]"
+    },
+    {
+        "word": "苹果",
+        "pinyin": "ping2 guo3",
+        "eng": "apple; CL:個|个[ge4]"
+    },
+    {
+        "word": "平时",
+        "pinyin": "ping2 shi2",
+        "eng": "in normal times; in peacetime"
+    },
+    {
+        "word": "瓶子",
+        "pinyin": "ping2 zi5",
+        "eng": "bottle; CL:個|个[ge4]"
+    },
+    {
+        "word": "破",
+        "pinyin": "po4",
+        "eng": "broken; damaged; worn out; to break"
+    },
+    {
+        "word": "葡萄",
+        "pinyin": "pu2 tao5",
+        "eng": "grape"
+    },
+    {
+        "word": "普遍",
+        "pinyin": "pu3 bian4",
+        "eng": "universal; general; widespread; common"
+    },
+    {
+        "word": "普通话",
+        "pinyin": "pu3 tong1 hua4",
+        "eng": "Mandarin (common language); Putonghua (common speech of the Chinese language); ordinary speech"
+    },
+    {
+        "word": "七",
+        "pinyin": "qi1",
+        "eng": "seven; 7"
+    },
+    {
+        "word": "妻子",
+        "pinyin": "qi1 zi5",
+        "eng": "wife; CL:個|个[ge4]"
+    },
+    {
+        "word": "骑",
+        "pinyin": "qi2",
+        "eng": "to ride (an animal or bike); to sit astride"
+    },
+    {
+        "word": "其次",
+        "pinyin": "qi2 ci4",
+        "eng": "next; secondly"
+    },
+    {
+        "word": "其实",
+        "pinyin": "qi2 shi2",
+        "eng": "actually"
+    },
+    {
+        "word": "其他",
+        "pinyin": "qi2 ta1",
+        "eng": "other; the others; else; other than (that person); in addition to the person mentioned above"
+    },
+    {
+        "word": "其中",
+        "pinyin": "qi2 zhong1",
+        "eng": "among; in; included among these"
+    },
+    {
+        "word": "奇怪",
+        "pinyin": "qi2 guai4",
+        "eng": "strange; odd"
+    },
+    {
+        "word": "起床",
+        "pinyin": "qi3 chuang2",
+        "eng": "to get up"
+    },
+    {
+        "word": "起飞",
+        "pinyin": "qi3 fei1",
+        "eng": "to take off (in an airplane)"
+    },
+    {
+        "word": "起来",
+        "pinyin": "qi3 lai5",
+        "eng": "beginning or continuing an action; upward movement; stand up"
+    },
+    {
+        "word": "气候",
+        "pinyin": "qi4 hou4",
+        "eng": "climate; atmosphere; situation; CL:種|种[zhong3]"
+    },
+    {
+        "word": "千",
+        "pinyin": "qian1",
+        "eng": "thousand"
+    },
+    {
+        "word": "千万",
+        "pinyin": "qian1 wan4",
+        "eng": "ten million; countless; many; one must by all means"
+    },
+    {
+        "word": "铅笔",
+        "pinyin": "qian1 bi3",
+        "eng": "(lead) pencil; CL:支[zhi1]"
+    },
+    {
+        "word": "签证",
+        "pinyin": "qian1 zheng4",
+        "eng": "visa; certificate; to certify; CL:個|个[ge4]"
+    },
+    {
+        "word": "钱",
+        "pinyin": "qian2",
+        "eng": "coin; money; CL:筆|笔[bi3]"
+    },
+    {
+        "word": "前面",
+        "pinyin": "qian2 mian4",
+        "eng": "ahead; in front; preceding; above"
+    },
+    {
+        "word": "墙",
+        "pinyin": "qiang2",
+        "eng": "wall; CL:面[mian4]"
+    },
+    {
+        "word": "敲",
+        "pinyin": "qiao1",
+        "eng": "extort; knock; to strike; to knock (at a door); to hit"
+    },
+    {
+        "word": "桥",
+        "pinyin": "qiao2",
+        "eng": "bridge; CL:座[zuo4]"
+    },
+    {
+        "word": "巧克力",
+        "pinyin": "qiao3 ke4 li4",
+        "eng": "chocolate (loanword); CL:塊|块[kuai4]"
+    },
+    {
+        "word": "亲戚",
+        "pinyin": "qin1 qi5",
+        "eng": "a relative (i.e. family relation); CL:門|门[men2]"
+    },
+    {
+        "word": "轻",
+        "pinyin": "qing1",
+        "eng": "light; easy; gentle; soft; reckless; unimportant; frivolous; small in number; unstressed; neutral"
+    },
+    {
+        "word": "轻松",
+        "pinyin": "qing1 song1",
+        "eng": "gentle; relaxed"
+    },
+    {
+        "word": "清楚",
+        "pinyin": "qing1 chu5",
+        "eng": "clear; clearly understood; distinct"
+    },
+    {
+        "word": "晴",
+        "pinyin": "qing2",
+        "eng": "clear; fine (weather)"
+    },
+    {
+        "word": "情况",
+        "pinyin": "qing2 kuang4",
+        "eng": "circumstances; state of affairs; situation; CL:個|个[ge4]"
+    },
+    {
+        "word": "请",
+        "pinyin": "qing3",
+        "eng": "to ask; to invite; please (do sth); to treat (to a meal etc); to request"
+    },
+    {
+        "word": "请假",
+        "pinyin": "qing3 jia4",
+        "eng": "ask for time off"
+    },
+    {
+        "word": "请客",
+        "pinyin": "qing3 ke4",
+        "eng": "give a dinner party; entertain guests; invite to dinner"
+    },
+    {
+        "word": "穷",
+        "pinyin": "qiong2",
+        "eng": "exhausted; poor"
+    },
+    {
+        "word": "秋",
+        "pinyin": "qiu1",
+        "eng": "autumn; fall; harvest time; a swing; surname Qiu"
+    },
+    {
+        "word": "区别",
+        "pinyin": "qu1 bie2",
+        "eng": "difference; to distinguish; to discriminate; to make a distinction; CL:個|个[ge4]"
+    },
+    {
+        "word": "取",
+        "pinyin": "qu3",
+        "eng": "to take; to get; to choose; to fetch"
+    },
+    {
+        "word": "去",
+        "pinyin": "qu4",
+        "eng": "to go; to go to (a place); to cause to go or send (sb); to remove; to get rid of; (when used either before or after a verb) to go in order to do sth; to be apart from in space or time; (after a verb of motion indicates movement away from the speaker); (used after certain verbs to indicate detachment or separation); (of a time or an event etc) just passed or elapsed"
+    },
+    {
+        "word": "去年",
+        "pinyin": "qu4 nian2",
+        "eng": "last year"
+    },
+    {
+        "word": "全部",
+        "pinyin": "quan2 bu4",
+        "eng": "whole; entire; complete"
+    },
+    {
+        "word": "缺点",
+        "pinyin": "que1 dian3",
+        "eng": "weak point; fault; shortcoming; CL:個|个[ge4]"
+    },
+    {
+        "word": "缺少",
+        "pinyin": "que1 shao3",
+        "eng": "lack; shortage of; shortfall; to be short (of); to lack"
+    },
+    {
+        "word": "却",
+        "pinyin": "que4",
+        "eng": "but; yet; however; while; to go back; to decline; to retreat; nevertheless; even though"
+    },
+    {
+        "word": "确实",
+        "pinyin": "que4 shi2",
+        "eng": "indeed; really; reliable; real; true"
+    },
+    {
+        "word": "群",
+        "pinyin": "qun2",
+        "eng": "group; crowd; flock"
+    },
+    {
+        "word": "裙子",
+        "pinyin": "qun2 zi5",
+        "eng": "skirt; CL:條|条[tiao2]"
+    },
+    {
+        "word": "然而",
+        "pinyin": "ran2 er2",
+        "eng": "however; yet; but"
+    },
+    {
+        "word": "然后",
+        "pinyin": "ran2 hou4",
+        "eng": "after; then (afterwards); after that; afterwards"
+    },
+    {
+        "word": "让",
+        "pinyin": "rang4",
+        "eng": "to yield; to permit; to let sb do sth; to have sb do sth"
+    },
+    {
+        "word": "热",
+        "pinyin": "re4",
+        "eng": "heat; to heat up; fervent; hot (of weather); warm up"
+    },
+    {
+        "word": "热闹",
+        "pinyin": "re4 nao5",
+        "eng": "bustling with noise and excitement; lively"
+    },
+    {
+        "word": "热情 ",
+        "pinyin": "re4 qing2",
+        "eng": "cordial; enthusiastic; passion; passionate; passionately"
+    },
+    {
+        "word": "人",
+        "pinyin": "ren2",
+        "eng": "man; person; people; CL:個|个[ge4]"
+    },
+    {
+        "word": "人民币",
+        "pinyin": "ren2 min2 bi4",
+        "eng": "Renminbi (RMB); Chinese Yuan (CNY)"
+    },
+    {
+        "word": "任何",
+        "pinyin": "ren4 he2",
+        "eng": "any; whatever; whichever; whatsoever"
+    },
+    {
+        "word": "任务",
+        "pinyin": "ren4 wu5",
+        "eng": "mission; assignment; task; duty; role; CL:項|项[xiang4]"
+    },
+    {
+        "word": "认识",
+        "pinyin": "ren4 shi5",
+        "eng": "to know; to recognize; to be familiar with; acquainted with sth; knowledge; understanding; awareness; cognition"
+    },
+    {
+        "word": "认为",
+        "pinyin": "ren4 wei2",
+        "eng": "to believe; to think; to consider; to feel"
+    },
+    {
+        "word": "认真",
+        "pinyin": "ren4 zhen1",
+        "eng": "conscientious; earnest; serious; to take seriously; to take to heart"
+    },
+    {
+        "word": "扔",
+        "pinyin": "reng1",
+        "eng": "to throw; to throw away"
+    },
+    {
+        "word": "仍然",
+        "pinyin": "reng2 ran2",
+        "eng": "still; yet"
+    },
+    {
+        "word": "日",
+        "pinyin": "ri4",
+        "eng": "sun; day; date"
+    },
+    {
+        "word": "日记",
+        "pinyin": "ri4 ji4",
+        "eng": "diary; CL:則|则[ze2]"
+    },
+    {
+        "word": "容易",
+        "pinyin": "rong2 yi4",
+        "eng": "easy; likely; liable (to)"
+    },
+    {
+        "word": "如果",
+        "pinyin": "ru2 guo3",
+        "eng": "if; in case; in the event that"
+    },
+    {
+        "word": "入口",
+        "pinyin": "ru4 kou3",
+        "eng": "entrance"
+    },
+    {
+        "word": "软",
+        "pinyin": "ruan3",
+        "eng": "soft; flexible"
+    },
+    {
+        "word": "三",
+        "pinyin": "san1",
+        "eng": "three; 3"
+    },
+    {
+        "word": "伞",
+        "pinyin": "san3",
+        "eng": "umbrella; parasol; CL:把[ba3]"
+    },
+    {
+        "word": "散步",
+        "pinyin": "san4 bu4",
+        "eng": "to take a walk; to go for a walk"
+    },
+    {
+        "word": "森林",
+        "pinyin": "sen1 lin2",
+        "eng": "forest; CL:片[pian4]"
+    },
+    {
+        "word": "沙发",
+        "pinyin": "sha1 fa1",
+        "eng": "sofa; CL:條|条[tiao2]"
+    },
+    {
+        "word": "商店",
+        "pinyin": "shang1 dian4",
+        "eng": "store; shop; CL:家[jia1]"
+    },
+    {
+        "word": "商量",
+        "pinyin": "shang1 liang5",
+        "eng": "to consult; to talk over; to discuss"
+    },
+    {
+        "word": "伤心",
+        "pinyin": "shang1 xin1",
+        "eng": "to grieve; broken-hearted"
+    },
+    {
+        "word": "上",
+        "pinyin": "shang4",
+        "eng": "on; on top; upon; first (of multiple parts); previous; last; upper; higher; above; to climb; to go into; to go up; to attend (class or university)"
+    },
+    {
+        "word": "上班",
+        "pinyin": "shang4 ban1",
+        "eng": "to go to work; to be on duty; to start work; to go to the office"
+    },
+    {
+        "word": "上网",
+        "pinyin": "shang4 wang3",
+        "eng": "to be on the internet; to stretch a net (in a sports game or for covering sth); to be netted (of fish)"
+    },
+    {
+        "word": "上午",
+        "pinyin": "shang4 wu3",
+        "eng": "morning; CL:個|个[ge4]"
+    },
+    {
+        "word": "稍微",
+        "pinyin": "shao1 wei1",
+        "eng": "a little bit"
+    },
+    {
+        "word": "少",
+        "pinyin": "shao3",
+        "eng": "few; little; lack"
+    },
+    {
+        "word": "社会",
+        "pinyin": "she4 hui4",
+        "eng": "society; CL:個|个[ge4]"
+    },
+    {
+        "word": "谁",
+        "pinyin": "shei2",
+        "eng": "who; also pronounced shui2"
+    },
+    {
+        "word": "深",
+        "pinyin": "shen1",
+        "eng": "close; deep; late; profound; dark (of color"
+    },
+    {
+        "word": "申请",
+        "pinyin": "shen1 qing3",
+        "eng": "to apply for sth; application (form etc); CL:份[fen4]"
+    },
+    {
+        "word": "身体",
+        "pinyin": "shen1 ti3",
+        "eng": "(human) body; health; CL:個|个[ge4]"
+    },
+    {
+        "word": "什么",
+        "pinyin": "shen2 me5",
+        "eng": "what?; who?; something; anything"
+    },
+    {
+        "word": "甚至",
+        "pinyin": "shen4 zhi4",
+        "eng": "even; so much so that"
+    },
+    {
+        "word": "生病",
+        "pinyin": "sheng1 bing4",
+        "eng": "to fall ill; to sicken"
+    },
+    {
+        "word": "生活",
+        "pinyin": "sheng1 huo2",
+        "eng": "life; activity; to live; livelihood"
+    },
+    {
+        "word": "生命",
+        "pinyin": "sheng1 ming4",
+        "eng": "life; living; biological; CL:個|个[ge4]"
+    },
+    {
+        "word": "生气",
+        "pinyin": "sheng1 qi4",
+        "eng": "angry; mad; offended; animated; to get angry; to be enraged; to take offense; animation"
+    },
+    {
+        "word": "生日",
+        "pinyin": "sheng1 ri4",
+        "eng": "birthday; CL:個|个[ge4]"
+    },
+    {
+        "word": "声音",
+        "pinyin": "sheng1 yin1",
+        "eng": "voice; sound; CL:個|个[ge4]"
+    },
+    {
+        "word": "省",
+        "pinyin": "sheng3",
+        "eng": "to save; to economize; to do without; to omit; to leave out; province; CL:個|个[ge4]"
+    },
+    {
+        "word": "剩",
+        "pinyin": "sheng4",
+        "eng": "to remain; to be left; to have as remainder"
+    },
+    {
+        "word": "失败",
+        "pinyin": "shi1 bai4",
+        "eng": "to be defeated; to lose; to fail (e.g. experiments); failure; defeat; CL:次[ci4]"
+    },
+    {
+        "word": "失望",
+        "pinyin": "shi1 wang4",
+        "eng": "disappointed; to lose hope; to despair"
+    },
+    {
+        "word": "师傅",
+        "pinyin": "shi1 fu5",
+        "eng": "master; qualified worker; respectful form of address for older men; CL:個|个[ge4]"
+    },
+    {
+        "word": "湿润",
+        "pinyin": "shi1 run4",
+        "eng": "moist"
+    },
+    {
+        "word": "狮子",
+        "pinyin": "shi1 zi5",
+        "eng": "lion; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "十",
+        "pinyin": "shi2",
+        "eng": "ten; 10"
+    },
+    {
+        "word": "十分",
+        "pinyin": "shi2 fen1",
+        "eng": "to divide into ten equal parts; very; hundred percent; completely; extremely; utterly; absolutely"
+    },
+    {
+        "word": "时候",
+        "pinyin": "shi2 hou5",
+        "eng": "time; length of time; moment; period"
+    },
+    {
+        "word": "时间",
+        "pinyin": "shi2 jian1",
+        "eng": "time; period; CL:段[duan4]"
+    },
+    {
+        "word": "实际",
+        "pinyin": "shi2 ji4",
+        "eng": "actual; reality; practice"
+    },
+    {
+        "word": "实在",
+        "pinyin": "shi2 zai4",
+        "eng": "in reality; honestly; really; verily; concrete"
+    },
+    {
+        "word": "食品",
+        "pinyin": "shi2 pin3",
+        "eng": "foodstuff; food; provisions; CL:種|种[zhong3]"
+    },
+    {
+        "word": "使",
+        "pinyin": "shi3",
+        "eng": "to make; to cause; to enable; to use; to employ; to send; to instruct sb to do sth; envoy; messenger"
+    },
+    {
+        "word": "使用",
+        "pinyin": "shi3 yong4",
+        "eng": "to use; to employ; to apply; to make use of"
+    },
+    {
+        "word": "是",
+        "pinyin": "shi4",
+        "eng": "is; are; am; yes; to be"
+    },
+    {
+        "word": "试",
+        "pinyin": "shi4",
+        "eng": "to test; to try; experiment; examination; test"
+    },
+    {
+        "word": "市场",
+        "pinyin": "shi4 chang3",
+        "eng": "market place; market (also in abstract); abbr. for 超級市場|超级市场 supermarket; CL:個|个[ge4]"
+    },
+    {
+        "word": "适合",
+        "pinyin": "shi4 he2",
+        "eng": "to fit; to suit"
+    },
+    {
+        "word": "适应",
+        "pinyin": "shi4 ying4",
+        "eng": "to suit; to fit; to be suitable; to adapt; to get used to sth"
+    },
+    {
+        "word": "世纪",
+        "pinyin": "shi4 ji4",
+        "eng": "century; CL:個|个[ge4]"
+    },
+    {
+        "word": "世界",
+        "pinyin": "shi4 jie4",
+        "eng": "world; CL:個|个[ge4]"
+    },
+    {
+        "word": "事情",
+        "pinyin": "shi4 qing2",
+        "eng": "affair; matter; thing; business; CL:件[jian4]"
+    },
+    {
+        "word": "收",
+        "pinyin": "shou1",
+        "eng": "to receive; to accept; to collect; in care of (used on address line after name)"
+    },
+    {
+        "word": "收入",
+        "pinyin": "shou1 ru4",
+        "eng": "to take in; income; revenue; CL:筆|笔[bi3]"
+    },
+    {
+        "word": "收拾",
+        "pinyin": "shou1 shi5",
+        "eng": "to put in order; to tidy up; to pack; to repair; to punish (colloquial); to manage"
+    },
+    {
+        "word": "手表",
+        "pinyin": "shou3 biao3",
+        "eng": "wrist watch; CL:塊|块[kuai4]"
+    },
+    {
+        "word": "手机",
+        "pinyin": "shou3 ji1",
+        "eng": "cell phone; cellular phone; mobile phone; CL:部[bu4]"
+    },
+    {
+        "word": "首都",
+        "pinyin": "shou3 du1",
+        "eng": "capital (city); CL:個|个[ge4]"
+    },
+    {
+        "word": "首先",
+        "pinyin": "shou3 xian1",
+        "eng": "first (of all); in the first place"
+    },
+    {
+        "word": "瘦",
+        "pinyin": "shou4",
+        "eng": "tight; thin; lean"
+    },
+    {
+        "word": "受不了",
+        "pinyin": "shou4 bu4 liao3",
+        "eng": "unbearable; unable to endure; can't stand"
+    },
+    {
+        "word": "受到",
+        "pinyin": "shou4 dao4",
+        "eng": "to receive; to suffer; obtained; given "
+    },
+    {
+        "word": "售货员",
+        "pinyin": "shou4 huo4 yuan2",
+        "eng": "salesperson; CL:個|个[ge4]"
+    },
+    {
+        "word": "书",
+        "pinyin": "shu1",
+        "eng": "book; letter; CL:本[ben3]"
+    },
+    {
+        "word": "输",
+        "pinyin": "shu1",
+        "eng": "to lose; to transport; to donate; to enter (a password)"
+    },
+    {
+        "word": "舒服",
+        "pinyin": "shu1 fu5",
+        "eng": "comfortable; feeling well"
+    },
+    {
+        "word": "叔叔",
+        "pinyin": "shu1 shu5",
+        "eng": "father's younger brother; uncle; Taiwan pr. shu2 shu5; CL:個|个[ge4]"
+    },
+    {
+        "word": "熟悉",
+        "pinyin": "shu2 xi1",
+        "eng": "to be familiar with; to know well"
+    },
+    {
+        "word": "树",
+        "pinyin": "shu4",
+        "eng": "tree; CL:棵[ke1]"
+    },
+    {
+        "word": "数量",
+        "pinyin": "shu4 liang4",
+        "eng": "amount; quantity; CL:個|个[ge4]"
+    },
+    {
+        "word": "数学",
+        "pinyin": "shu4 xue2",
+        "eng": "mathematics; mathematical"
+    },
+    {
+        "word": "数字",
+        "pinyin": "shu4 zi4",
+        "eng": "numeral; digit; number; figure; amount; digital (electronics etc); CL:個|个[ge4]"
+    },
+    {
+        "word": "刷牙",
+        "pinyin": "shua1 ya2",
+        "eng": "to brush teeth"
+    },
+    {
+        "word": "帅",
+        "pinyin": "shuai4",
+        "eng": "handsome; graceful; smart; commander in chief"
+    },
+    {
+        "word": "双",
+        "pinyin": "shuang1",
+        "eng": "two; double; pair; both"
+    },
+    {
+        "word": "水",
+        "pinyin": "shui3",
+        "eng": "water; river; liquid; beverage; additional charges or income; (of clothes) classifier for number of washes"
+    },
+    {
+        "word": "水果",
+        "pinyin": "shui3 guo3",
+        "eng": "fruit; CL:個|个[ge4]"
+    },
+    {
+        "word": "水平",
+        "pinyin": "shui3 ping2",
+        "eng": "level (of achievement etc); standard; horizontal"
+    },
+    {
+        "word": "睡觉",
+        "pinyin": "shui4 jiao4",
+        "eng": "to go to bed; to go to sleep"
+    },
+    {
+        "word": "顺便",
+        "pinyin": "shun4 bian4",
+        "eng": "conveniently; in passing; without much extra effort"
+    },
+    {
+        "word": "顺利",
+        "pinyin": "shun4 li4",
+        "eng": "smoothly; without a hitch"
+    },
+    {
+        "word": "顺序",
+        "pinyin": "shun4 xu4",
+        "eng": "sequence; order"
+    },
+    {
+        "word": "说话",
+        "pinyin": "shuo1 hua4",
+        "eng": "to speak; to say; to talk; to gossip; to tell stories; talk; word"
+    },
+    {
+        "word": "说明",
+        "pinyin": "shuo1 ming2",
+        "eng": "to explain; to illustrate; explanation; directions; caption; CL:個|个[ge4]"
+    },
+    {
+        "word": "硕士",
+        "pinyin": "shuo4 shi4",
+        "eng": "master's degree; learned person"
+    },
+    {
+        "word": "司机",
+        "pinyin": "si1 ji1",
+        "eng": "chauffeur; driver; CL:個|个[ge4]"
+    },
+    {
+        "word": "死",
+        "pinyin": "si3",
+        "eng": "to die; impassable; uncrossable; inflexible; rigid; extremely"
+    },
+    {
+        "word": "四",
+        "pinyin": "si4",
+        "eng": "four; 4"
+    },
+    {
+        "word": "送",
+        "pinyin": "song4",
+        "eng": "to deliver; to carry; to give (as a present); to present (with); to see off; to send"
+    },
+    {
+        "word": "速度",
+        "pinyin": "su4 du4",
+        "eng": "speed; rate; velocity; CL:個|个[ge4]"
+    },
+    {
+        "word": "塑料袋",
+        "pinyin": "su4 liao4 dai4",
+        "eng": "plastic bag"
+    },
+    {
+        "word": "酸",
+        "pinyin": "suan1",
+        "eng": "sour; sore; ache; acid"
+    },
+    {
+        "word": "算",
+        "pinyin": "suan4",
+        "eng": "regard as; to figure; to calculate; to compute"
+    },
+    {
+        "word": "虽然",
+        "pinyin": "sui1 ran2",
+        "eng": "although; even though; even if"
+    },
+    {
+        "word": "随便",
+        "pinyin": "sui2 bian4",
+        "eng": "as one wishes; as one pleases; at random; negligent; casual; wanton"
+    },
+    {
+        "word": "随着",
+        "pinyin": "sui2 zhe5",
+        "eng": "along with; in the wake of; following"
+    },
+    {
+        "word": "岁",
+        "pinyin": "sui4",
+        "eng": "classifier for years (of age); year; year (of crop harvests)"
+    },
+    {
+        "word": "孙子",
+        "pinyin": "sun1 zi5",
+        "eng": "grandson; son's son"
+    },
+    {
+        "word": "所以",
+        "pinyin": "suo3 yi3",
+        "eng": "therefore; as a result; so"
+    },
+    {
+        "word": "所有",
+        "pinyin": "suo3 you3",
+        "eng": "all; to have; to possess; to own"
+    },
+    {
+        "word": "他",
+        "pinyin": "ta1",
+        "eng": "he or him; (used for either sex when the sex is unknown or unimportant); (used before sb's name for emphasis); (used as a meaningless mock object); other; another"
+    },
+    {
+        "word": "她",
+        "pinyin": "ta1",
+        "eng": "she"
+    },
+    {
+        "word": "它",
+        "pinyin": "ta1",
+        "eng": "it"
+    },
+    {
+        "word": "台",
+        "pinyin": "tai2",
+        "eng": "desk; platform; stage; terrace; stand; support; desk; station; broadcasting station; classifier for vehicles or machines; Taiwan (abbr.)"
+    },
+    {
+        "word": "抬",
+        "pinyin": "tai2",
+        "eng": "to lift; to raise; (of two or more persons) to carry"
+    },
+    {
+        "word": "太",
+        "pinyin": "tai4",
+        "eng": "highest; greatest; too (much); very; extremely"
+    },
+    {
+        "word": "太阳",
+        "pinyin": "tai4 yang2",
+        "eng": "sun; CL:個|个[ge4]"
+    },
+    {
+        "word": "态度",
+        "pinyin": "tai4 du5",
+        "eng": "manner; bearing; attitude; approach; CL:個|个[ge4]"
+    },
+    {
+        "word": "谈",
+        "pinyin": "tan2",
+        "eng": "to speak; to talk; to converse; to chat; to discuss"
+    },
+    {
+        "word": "弹钢琴",
+        "pinyin": "tan2 gang1 qin2",
+        "eng": "play the piano"
+    },
+    {
+        "word": "汤",
+        "pinyin": "tang1",
+        "eng": "soup; hot or boiling water; decoction of medicinal herbs; water in which sth has been boiled"
+    },
+    {
+        "word": "趟",
+        "pinyin": "tang1",
+        "eng": "to wade; to trample; to turn the soil"
+    },
+    {
+        "word": "糖",
+        "pinyin": "tang2",
+        "eng": "sugar; sweets; candy; CL:顆|颗[ke1]"
+    },
+    {
+        "word": "躺",
+        "pinyin": "tang3",
+        "eng": "to recline; to lie down"
+    },
+    {
+        "word": "讨论",
+        "pinyin": "tao3 lun4",
+        "eng": "to discuss; to talk over; CL:個|个[ge4]"
+    },
+    {
+        "word": "讨厌",
+        "pinyin": "tao3 yan4",
+        "eng": "disgusting; troublesome; nuisance; nasty; to hate doing sth"
+    },
+    {
+        "word": "特别",
+        "pinyin": "te4 bie2",
+        "eng": "especially; special; particular; unusual"
+    },
+    {
+        "word": "特点",
+        "pinyin": "te4 dian3",
+        "eng": "characteristic (feature); trait; feature; CL:個|个[ge4]"
+    },
+    {
+        "word": "疼",
+        "pinyin": "teng2",
+        "eng": "(it) hurts; love fondly; ache; pain; sore"
+    },
+    {
+        "word": "踢足球",
+        "pinyin": "ti1 zu2 qiu2",
+        "eng": "play soccer(football)"
+    },
+    {
+        "word": "题",
+        "pinyin": "ti2",
+        "eng": "topic; problem for discussion; exam question; subject; to inscribe; to mention; surname Ti; CL:個|个[ge4]"
+    },
+    {
+        "word": "提高",
+        "pinyin": "ti2 gao1",
+        "eng": "to raise; to increase"
+    },
+    {
+        "word": "提供",
+        "pinyin": "ti2 gong1",
+        "eng": "to offer; to supply; to provide; to furnish"
+    },
+    {
+        "word": "提前",
+        "pinyin": "ti2 qian2",
+        "eng": "to shift to an earlier date; to bring forward; to advance"
+    },
+    {
+        "word": "提醒",
+        "pinyin": "ti2 xing3",
+        "eng": "to remind; to call attention to; to warn of"
+    },
+    {
+        "word": "体育",
+        "pinyin": "ti3 yu4",
+        "eng": "sports; physical education"
+    },
+    {
+        "word": "天气",
+        "pinyin": "tian1 qi4",
+        "eng": "weather"
+    },
+    {
+        "word": "甜",
+        "pinyin": "tian2",
+        "eng": "sweet"
+    },
+    {
+        "word": "填空",
+        "pinyin": "tian2 kong4",
+        "eng": "to fill a job vacancy; to fill in a blank (e.g. on questionnaire or exam paper)"
+    },
+    {
+        "word": "条",
+        "pinyin": "tiao2",
+        "eng": "strip; item; article; clause (of law or treaty); classifier for long thin things (ribbon"
+    },
+    {
+        "word": "条件",
+        "pinyin": "tiao2 jian4",
+        "eng": "condition; circumstances; term; factor; requirement; prerequisite; qualification; CL:個|个[ge4]"
+    },
+    {
+        "word": "跳舞",
+        "pinyin": "tiao4 wu3",
+        "eng": "to dance"
+    },
+    {
+        "word": "听",
+        "pinyin": "ting1",
+        "eng": "to listen; to hear; to obey; a can (loanword from English tin); classifier for canned beverages"
+    },
+    {
+        "word": "停止",
+        "pinyin": "ting2 zhi3",
+        "eng": "to stop; to halt; to cease"
+    },
+    {
+        "word": "挺",
+        "pinyin": "ting3",
+        "eng": "to stick out; to (physically) straighten up; to endure or hold out; straight; stiff; outstanding; extraordinary; rather; quite; very; classifier for machine guns"
+    },
+    {
+        "word": "通过",
+        "pinyin": "tong1 guo4",
+        "eng": "by means of; through; via; to pass through; to get through; to adopt; to pass (a bill); to switch over"
+    },
+    {
+        "word": "通知",
+        "pinyin": "tong1 zhi1",
+        "eng": "to notify; to inform; notice; notification; CL:個|个[ge4]"
+    },
+    {
+        "word": "同情",
+        "pinyin": "tong2 qing2",
+        "eng": "compassion; relent; sympathize; sympathy"
+    },
+    {
+        "word": "同事",
+        "pinyin": "tong2 shi4",
+        "eng": "colleague; co-worker; CL:個|个[ge4]"
+    },
+    {
+        "word": "同学",
+        "pinyin": "tong2 xue2",
+        "eng": "(fellow) classmate; CL:位[wei4]"
+    },
+    {
+        "word": "同意",
+        "pinyin": "tong2 yi4",
+        "eng": "to agree; to consent; to approve"
+    },
+    {
+        "word": "头发",
+        "pinyin": "tou2 fa5",
+        "eng": "hair (on the head)"
+    },
+    {
+        "word": "突然",
+        "pinyin": "tu1 ran2",
+        "eng": "sudden; abrupt; unexpected"
+    },
+    {
+        "word": "图书馆",
+        "pinyin": "tu2 shu1 guan3",
+        "eng": "library; CL:家[jia1]"
+    },
+    {
+        "word": "推",
+        "pinyin": "tui1",
+        "eng": "to push; to cut; to refuse; to reject; to decline; to shirk (responsibility); to put off; to delay; to push forward; to nominate; to elect"
+    },
+    {
+        "word": "推迟",
+        "pinyin": "tui1 chi2",
+        "eng": "to postpone; to put off; to defer"
+    },
+    {
+        "word": "腿",
+        "pinyin": "tui3",
+        "eng": "leg; CL:條|条[tiao2]"
+    },
+    {
+        "word": "脱",
+        "pinyin": "tuo1",
+        "eng": "to shed; to take off; to escape; to get away from"
+    },
+    {
+        "word": "袜子",
+        "pinyin": "wa4 zi5",
+        "eng": "socks; stockings; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "外",
+        "pinyin": "wai4",
+        "eng": "outside; in addition; foreign; external"
+    },
+    {
+        "word": "玩",
+        "pinyin": "wan2",
+        "eng": "toy; sth used for amusement; curio or antique (Taiwan pr. wan4); to play; to have fun; to trifle with; to keep sth for entertainment"
+    },
+    {
+        "word": "完",
+        "pinyin": "wan2",
+        "eng": "to finish; to be over; whole; complete; entire"
+    },
+    {
+        "word": "完成",
+        "pinyin": "wan2 cheng2",
+        "eng": "complete; accomplish; perfect tense (grammar)"
+    },
+    {
+        "word": "完全",
+        "pinyin": "wan2 quan2",
+        "eng": "complete; whole; totally; entirely"
+    },
+    {
+        "word": "碗",
+        "pinyin": "wan3",
+        "eng": "bowl; cup; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "晚上",
+        "pinyin": "wan3 shang5",
+        "eng": "in the evening; CL:個|个[ge4]"
+    },
+    {
+        "word": "万",
+        "pinyin": "wan4",
+        "eng": "ten thousand; a great number"
+    },
+    {
+        "word": "往",
+        "pinyin": "wang3",
+        "eng": "to go (in a direction); to; towards; (of a train) bound for; past; previous"
+    },
+    {
+        "word": "往往",
+        "pinyin": "wang3 wang3",
+        "eng": "often; frequently"
+    },
+    {
+        "word": "网球",
+        "pinyin": "wang3 qiu2",
+        "eng": "tennis; CL:個|个[ge4]"
+    },
+    {
+        "word": "网站",
+        "pinyin": "wang3 zhan4",
+        "eng": "website; network station; node"
+    },
+    {
+        "word": "忘记",
+        "pinyin": "wang4 ji4",
+        "eng": "to forget"
+    },
+    {
+        "word": "危险",
+        "pinyin": "wei1 xian3",
+        "eng": "danger; dangerous"
+    },
+    {
+        "word": "喂",
+        "pinyin": "wei4",
+        "eng": "hello (interj."
+    },
+    {
+        "word": "位",
+        "pinyin": "wei4",
+        "eng": "position; location; place; seat; classifier for people (honorific); classifier for binary bits (e.g. 十六位 16-bit or 2 bytes)"
+    },
+    {
+        "word": "为",
+        "pinyin": "wei4",
+        "eng": "because of; for; to"
+    },
+    {
+        "word": "为了",
+        "pinyin": "wei4 le5",
+        "eng": "in order to; for the purpose of; so as to"
+    },
+    {
+        "word": "为什么",
+        "pinyin": "wei4 shen2 me5",
+        "eng": "why?; for what reason?"
+    },
+    {
+        "word": "味道",
+        "pinyin": "wei4 dao4",
+        "eng": "flavor; smell; hint of"
+    },
+    {
+        "word": "温度",
+        "pinyin": "wen1 du4",
+        "eng": "temperature; CL:個|个[ge4]"
+    },
+    {
+        "word": "文化",
+        "pinyin": "wen2 hua4",
+        "eng": "culture; civilization; cultural; CL:個|个[ge4]"
+    },
+    {
+        "word": "文章",
+        "pinyin": "wen2 zhang1",
+        "eng": "article; essay; literary works; writings; hidden meaning; CL:篇[pian1]"
+    },
+    {
+        "word": "问",
+        "pinyin": "wen4",
+        "eng": "to ask"
+    },
+    {
+        "word": "问题",
+        "pinyin": "wen4 ti2",
+        "eng": "question; problem; issue; topic; CL:個|个[ge4]"
+    },
+    {
+        "word": "我",
+        "pinyin": "wo3",
+        "eng": "I; me; my"
+    },
+    {
+        "word": "我们",
+        "pinyin": "wo3 men5",
+        "eng": "we; us; ourselves; our"
+    },
+    {
+        "word": "握手",
+        "pinyin": "wo4 shou3",
+        "eng": "to shake hands"
+    },
+    {
+        "word": "污染",
+        "pinyin": "wu1 ran3",
+        "eng": "pollution; contamination; CL:個|个[ge4]"
+    },
+    {
+        "word": "无",
+        "pinyin": "wu2",
+        "eng": "-less; not to have; no; none; not; to lack; un-"
+    },
+    {
+        "word": "无聊",
+        "pinyin": "wu2 liao2",
+        "eng": "nonsense; bored"
+    },
+    {
+        "word": "无论",
+        "pinyin": "wu2 lun4",
+        "eng": "no matter what or how; regardless of whether..."
+    },
+    {
+        "word": "五",
+        "pinyin": "wu3",
+        "eng": "five; 5"
+    },
+    {
+        "word": "误会",
+        "pinyin": "wu4 hui4",
+        "eng": "to misunderstand; to mistake; misunderstanding; CL:個|个[ge4]"
+    },
+    {
+        "word": "西",
+        "pinyin": "xi1",
+        "eng": "west"
+    },
+    {
+        "word": "西瓜",
+        "pinyin": "xi1 gua1",
+        "eng": "watermelon; CL:條|条[tiao2]"
+    },
+    {
+        "word": "西红柿",
+        "pinyin": "xi1 hong2 shi4",
+        "eng": "tomato; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "希望",
+        "pinyin": "xi1 wang4",
+        "eng": "to wish for; to desire; hope CL:個|个[ge4]"
+    },
+    {
+        "word": "吸引",
+        "pinyin": "xi1 yin3",
+        "eng": "to attract (interest"
+    },
+    {
+        "word": "习惯",
+        "pinyin": "xi2 guan4",
+        "eng": "habit; custom; usual practice; to be used to; CL:個|个[ge4]"
+    },
+    {
+        "word": "洗",
+        "pinyin": "xi3",
+        "eng": "to wash; to bathe"
+    },
+    {
+        "word": "洗手间",
+        "pinyin": "xi3 shou3 jian1",
+        "eng": "toilet; lavatory; washroom"
+    },
+    {
+        "word": "洗衣机",
+        "pinyin": "xi3 yi1 ji1",
+        "eng": "washer; washing machine; CL:臺|台[tai2]"
+    },
+    {
+        "word": "洗澡",
+        "pinyin": "xi3 zao3",
+        "eng": "to bathe; to take a shower"
+    },
+    {
+        "word": "喜欢",
+        "pinyin": "xi3 huan5",
+        "eng": "to like; to be fond of"
+    },
+    {
+        "word": "夏",
+        "pinyin": "xia4",
+        "eng": "summer"
+    },
+    {
+        "word": "下",
+        "pinyin": "xia4",
+        "eng": "down; downwards; below; lower; later; next (week etc); second (of two parts); to decline; to go down"
+    },
+    {
+        "word": "下午",
+        "pinyin": "xia4 wu3",
+        "eng": "afternoon; p.m.; CL:個|个[ge4]"
+    },
+    {
+        "word": "下雨",
+        "pinyin": "xia4 yu3",
+        "eng": "to rain; rainy"
+    },
+    {
+        "word": "先",
+        "pinyin": "xian1",
+        "eng": "early; prior; former; in advance; first"
+    },
+    {
+        "word": "先生",
+        "pinyin": "xian1 sheng5",
+        "eng": "teacher; Mister (Mr.); husband; doctor (topolect); CL:個|个[ge4]"
+    },
+    {
+        "word": "咸",
+        "pinyin": "xian2",
+        "eng": "salted; salty; stingy; miserly"
+    },
+    {
+        "word": "现代",
+        "pinyin": "xian4 dai4",
+        "eng": "modern times; modern age; modern era"
+    },
+    {
+        "word": "现在",
+        "pinyin": "xian4 zai4",
+        "eng": "now; at present; at the moment; modern; current; nowadays"
+    },
+    {
+        "word": "羡慕",
+        "pinyin": "xian4 mu4",
+        "eng": "envious; envy; to admire"
+    },
+    {
+        "word": "限制",
+        "pinyin": "xian4 zhi4",
+        "eng": "to restrict; to limit; to confine; restriction; limit; CL:個|个[ge4]"
+    },
+    {
+        "word": "香",
+        "pinyin": "xiang1",
+        "eng": "fragrant; sweet smelling; aromatic; savory or appetizing; (to eat) with relish; (of sleep) sound; perfume or spice; joss or incense stick; CL:根[gen1]"
+    },
+    {
+        "word": "香蕉",
+        "pinyin": "xiang1 jiao1",
+        "eng": "banana; CL:枝[zhi1]"
+    },
+    {
+        "word": "相反",
+        "pinyin": "xiang1 fan3",
+        "eng": "opposite; contrary"
+    },
+    {
+        "word": "相同",
+        "pinyin": "xiang1 tong2",
+        "eng": "identical; same"
+    },
+    {
+        "word": "相信",
+        "pinyin": "xiang1 xin4",
+        "eng": "be convinced (that something is true); believe; to accept sth as true"
+    },
+    {
+        "word": "详细",
+        "pinyin": "xiang2 xi4",
+        "eng": "detailed; in detail; minute"
+    },
+    {
+        "word": "响",
+        "pinyin": "xiang3",
+        "eng": "to make a sound; to sound; to ring; loud; classifier for noises"
+    },
+    {
+        "word": "想",
+        "pinyin": "xiang3",
+        "eng": "to think; to believe; to suppose; to wish; to want; to miss"
+    },
+    {
+        "word": "向",
+        "pinyin": "xiang4",
+        "eng": "direction; orientation; to face; to turn toward; to; towards; shortly before; formerly; to side with; to be partial to; all along (previously); surname Xiang"
+    },
+    {
+        "word": "像",
+        "pinyin": "xiang4",
+        "eng": "(look) like; similar (to); appearance; to appear; to seem; image; portrait; resemble; seem"
+    },
+    {
+        "word": "消息",
+        "pinyin": "xiao1 xi5",
+        "eng": "news; information; CL:條|条[tiao2]"
+    },
+    {
+        "word": "小",
+        "pinyin": "xiao3",
+        "eng": "small; tiny; few; young"
+    },
+    {
+        "word": "小姐",
+        "pinyin": "xiao3 jie5",
+        "eng": "young lady; miss; CL:個|个[ge4]"
+    },
+    {
+        "word": "小时",
+        "pinyin": "xiao3 shi2",
+        "eng": "hour; CL:個|个[ge4]"
+    },
+    {
+        "word": "小说",
+        "pinyin": "xiao3 shuo1",
+        "eng": "novel; fiction; CL:本[ben3]"
+    },
+    {
+        "word": "小心",
+        "pinyin": "xiao3 xin1",
+        "eng": "to be careful; to take care"
+    },
+    {
+        "word": "笑",
+        "pinyin": "xiao4",
+        "eng": "laugh; smile; CL:個|个[ge4]"
+    },
+    {
+        "word": "笑话",
+        "pinyin": "xiao4 hua4",
+        "eng": "joke; jest; CL:個|个[ge4]"
+    },
+    {
+        "word": "效果",
+        "pinyin": "xiao4 guo3",
+        "eng": "result; effect; quality; CL:個|个[ge4]"
+    },
+    {
+        "word": "校长",
+        "pinyin": "xiao4 zhang3",
+        "eng": "(college"
+    },
+    {
+        "word": "些",
+        "pinyin": "xie1",
+        "eng": "some; few; several; (a measure word)"
+    },
+    {
+        "word": "鞋",
+        "pinyin": "xie2",
+        "eng": "shoe; CL:雙|双[shuang1]"
+    },
+    {
+        "word": "写",
+        "pinyin": "xie3",
+        "eng": "to write"
+    },
+    {
+        "word": "谢谢",
+        "pinyin": "xie4 xie5",
+        "eng": "to thank; thanks"
+    },
+    {
+        "word": "新",
+        "pinyin": "xin1",
+        "eng": "new; newly; meso- (chemistry)"
+    },
+    {
+        "word": "新闻",
+        "pinyin": "xin1 wen2",
+        "eng": "news; CL:條|条[tiao2]"
+    },
+    {
+        "word": "新鲜",
+        "pinyin": "xin1 xian1",
+        "eng": "fresh (experience"
+    },
+    {
+        "word": "辛苦",
+        "pinyin": "xin1 ku3",
+        "eng": "hard; exhausting; with much toil; thanks for your trouble"
+    },
+    {
+        "word": "心情",
+        "pinyin": "xin1 qing2",
+        "eng": "mood; frame of mind; CL:個|个[ge4]"
+    },
+    {
+        "word": "信",
+        "pinyin": "xin4",
+        "eng": "letter; mail; to trust; to believe; to profess faith in; truthful; confidence; trust; at will; at random"
+    },
+    {
+        "word": "信任",
+        "pinyin": "xin4 ren4",
+        "eng": "to trust; to have confidence in"
+    },
+    {
+        "word": "信心",
+        "pinyin": "xin4 xin1",
+        "eng": "confidence; faith (in sb or sth); CL:個|个[ge4]"
+    },
+    {
+        "word": "信用卡",
+        "pinyin": "xin4 yong4 ka3",
+        "eng": "credit card"
+    },
+    {
+        "word": "兴奋",
+        "pinyin": "xing1 fen4",
+        "eng": "excited; excitement"
+    },
+    {
+        "word": "星期",
+        "pinyin": "xing1 qi1",
+        "eng": "week; CL:個|个[ge4]"
+    },
+    {
+        "word": "行",
+        "pinyin": "xing2",
+        "eng": "to walk; to go; to travel; a visit; temporary; makeshift; current; in circulation; to do; to perform; capable; competent; effective; all right; OK!; will do"
+    },
+    {
+        "word": "行李箱",
+        "pinyin": "xing2 li5 xiang1",
+        "eng": "suitcase"
+    },
+    {
+        "word": "醒",
+        "pinyin": "xing3",
+        "eng": "to wake up; to awaken; to be awake"
+    },
+    {
+        "word": "姓",
+        "pinyin": "xing4",
+        "eng": "family name; surname; name; CL:個|个[ge4]"
+    },
+    {
+        "word": "性别",
+        "pinyin": "xing4 bie2",
+        "eng": "gender; sex; distinguishing between the sexes"
+    },
+    {
+        "word": "性格",
+        "pinyin": "xing4 ge2",
+        "eng": "nature; disposition; temperament; character; CL:個|个[ge4]"
+    },
+    {
+        "word": "幸福",
+        "pinyin": "xing4 fu2",
+        "eng": "blessed; happiness; happy"
+    },
+    {
+        "word": "兴趣",
+        "pinyin": "xing4 qu5",
+        "eng": "interest in (something); CL:個|个[ge4]"
+    },
+    {
+        "word": "熊猫",
+        "pinyin": "xiong2 mao1",
+        "eng": "panda; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "修",
+        "pinyin": "xiu1",
+        "eng": "to decorate; to embellish; to repair; to build; to study; to write; to cultivate"
+    },
+    {
+        "word": "休息",
+        "pinyin": "xiu1 xi5",
+        "eng": "rest; to rest"
+    },
+    {
+        "word": "需要",
+        "pinyin": "xu1 yao4",
+        "eng": "to need; to want; to demand; needs; to require"
+    },
+    {
+        "word": "许多",
+        "pinyin": "xu3 duo1",
+        "eng": "many; a lot of; much"
+    },
+    {
+        "word": "选择",
+        "pinyin": "xuan3 ze2",
+        "eng": "to select; to pick; choice; option; alternative"
+    },
+    {
+        "word": "学生",
+        "pinyin": "xue2 sheng5",
+        "eng": "student; school child"
+    },
+    {
+        "word": "学习",
+        "pinyin": "xue2 xi2",
+        "eng": "to learn; to study"
+    },
+    {
+        "word": "学校",
+        "pinyin": "xue2 xiao4",
+        "eng": "school; CL:所[suo3]"
+    },
+    {
+        "word": "雪",
+        "pinyin": "xue3",
+        "eng": "snow; snowfall; CL:場|场[chang2]; to have the appearance of snow; to wipe away"
+    },
+    {
+        "word": "血",
+        "pinyin": "xue4",
+        "eng": "blood; informal colloquial and Taiwan pr. xie3; also pr. xue3; CL:滴[di1]"
+    },
+    {
+        "word": "压力",
+        "pinyin": "ya1 li4",
+        "eng": "pressure"
+    },
+    {
+        "word": "牙膏",
+        "pinyin": "ya2 gao1",
+        "eng": "toothpaste; CL:管[guan3]"
+    },
+    {
+        "word": "亚洲",
+        "pinyin": "Ya4 zhou1",
+        "eng": "Asia; Asian"
+    },
+    {
+        "word": "呀",
+        "pinyin": "ya5",
+        "eng": "(particle equivalent to 啊 after a vowel"
+    },
+    {
+        "word": "盐",
+        "pinyin": "yan2",
+        "eng": "salt; CL:粒[li4]"
+    },
+    {
+        "word": "严格",
+        "pinyin": "yan2 ge2",
+        "eng": "strict; stringent; tight; rigorous"
+    },
+    {
+        "word": "严重",
+        "pinyin": "yan2 zhong4",
+        "eng": "grave; serious; severe; critical"
+    },
+    {
+        "word": "研究生",
+        "pinyin": "yan2 jiu1 sheng1",
+        "eng": "graduate student; postgraduate student; research student"
+    },
+    {
+        "word": "颜色",
+        "pinyin": "yan2 se4",
+        "eng": "color; CL:個|个[ge4]"
+    },
+    {
+        "word": "演出",
+        "pinyin": "yan3 chu1",
+        "eng": "to act (in a play); to perform; to put on (a performance); performance; concert; show; CL:場|场[chang2]"
+    },
+    {
+        "word": "演员",
+        "pinyin": "yan3 yuan2",
+        "eng": "actor or actress; performer; CL:個|个[ge4]"
+    },
+    {
+        "word": "眼镜",
+        "pinyin": "yan3 jing4",
+        "eng": "spectacles; eyeglasses; CL:副[fu4]"
+    },
+    {
+        "word": "眼睛",
+        "pinyin": "yan3 jing5",
+        "eng": "eye; CL:隻|只[zhi1]"
+    },
+    {
+        "word": "阳光",
+        "pinyin": "yang2 guang1",
+        "eng": "sunshine; CL:線|线[xian4]"
+    },
+    {
+        "word": "羊肉",
+        "pinyin": "yang2 rou4",
+        "eng": "mutton"
+    },
+    {
+        "word": "养成",
+        "pinyin": "yang3 cheng2",
+        "eng": "to cultivate; to raise; to form (a habit); to acquire"
+    },
+    {
+        "word": "样子",
+        "pinyin": "yang4 zi5",
+        "eng": "manner; air; looks; aspect"
+    },
+    {
+        "word": "邀请",
+        "pinyin": "yao1 qing3",
+        "eng": "to invite; invitation; CL:個|个[ge4]"
+    },
+    {
+        "word": "要求",
+        "pinyin": "yao1 qiu2",
+        "eng": "to request; to require; to stake a claim; to ask; to demand; CL:點|点[dian3]"
+    },
+    {
+        "word": "要",
+        "pinyin": "yao4",
+        "eng": "important; vital; to want; will; going to (as future auxiliary); may; must"
+    },
+    {
+        "word": "药",
+        "pinyin": "yao4",
+        "eng": "medicine; drug; cure; CL:種|种[zhong3]"
+    },
+    {
+        "word": "钥匙",
+        "pinyin": "yao4 shi5",
+        "eng": "key; CL:把[ba3]"
+    },
+    {
+        "word": "爷爷",
+        "pinyin": "ye2 ye5",
+        "eng": "(informal) father's father; paternal grandfather; CL:個|个[ge4]"
+    },
+    {
+        "word": "也",
+        "pinyin": "ye3",
+        "eng": "also; too; (in classical Chinese) final particle serving as copula"
+    },
+    {
+        "word": "也许",
+        "pinyin": "ye3 xu3",
+        "eng": "perhaps; maybe"
+    },
+    {
+        "word": "页",
+        "pinyin": "ye4",
+        "eng": "page; leaf"
+    },
+    {
+        "word": "叶子",
+        "pinyin": "ye4 zi5",
+        "eng": "foliage; leaf; CL:片[pian4]"
+    },
+    {
+        "word": "一",
+        "pinyin": "yi1",
+        "eng": "one; 1; single; a (article); as soon as; entire; whole; all; throughout; one radical in Chinese characters (Kangxi radical 1)"
+    },
+    {
+        "word": "衣服",
+        "pinyin": "yi1 fu5",
+        "eng": "clothes; CL:件[jian4]"
+    },
+    {
+        "word": "医生",
+        "pinyin": "yi1 sheng1",
+        "eng": "doctor; CL:個|个[ge4]"
+    },
+    {
+        "word": "医院",
+        "pinyin": "yi1 yuan4",
+        "eng": "hospital; CL:所[suo3]"
+    },
+    {
+        "word": "一定",
+        "pinyin": "yi2 ding4",
+        "eng": "surely; certainly; necessarily; fixed; a certain (extent etc); given; particular; must"
+    },
+    {
+        "word": "一共",
+        "pinyin": "yi2 gong4",
+        "eng": "altogether"
+    },
+    {
+        "word": "一会儿",
+        "pinyin": "yi2 hui4 r5",
+        "eng": "a while"
+    },
+    {
+        "word": "一切",
+        "pinyin": "yi2 qie4",
+        "eng": "everything; every; all"
+    },
+    {
+        "word": "一样",
+        "pinyin": "yi2 yang4",
+        "eng": "same; like; equal to; the same as; just like"
+    },
+    {
+        "word": "以",
+        "pinyin": "yi3",
+        "eng": "to use; according to; so as to; by means of; in order to; by; with; because"
+    },
+    {
+        "word": "以后",
+        "pinyin": "yi3 hou4",
+        "eng": "after; later; afterwards; following; later on; in the future"
+    },
+    {
+        "word": "以前",
+        "pinyin": "yi3 qian2",
+        "eng": "before; formerly; previous; ago"
+    },
+    {
+        "word": "以为",
+        "pinyin": "yi3 wei2",
+        "eng": "to believe; to think; to consider; to be under the impression"
+    },
+    {
+        "word": "已经",
+        "pinyin": "yi3 jing1",
+        "eng": "already"
+    },
+    {
+        "word": "椅子",
+        "pinyin": "yi3 zi5",
+        "eng": "chair; CL:把[ba3]"
+    },
+    {
+        "word": "亿",
+        "pinyin": "yi4",
+        "eng": "a hundred million; calculate"
+    },
+    {
+        "word": "一般",
+        "pinyin": "yi4 ban1",
+        "eng": "same; ordinary; common; general; generally; in general"
+    },
+    {
+        "word": "一边",
+        "pinyin": "yi4 bian1",
+        "eng": "one side; either side; on the one hand; on the other hand; doing while"
+    },
+    {
+        "word": "一起",
+        "pinyin": "yi4 qi3",
+        "eng": "in the same place; together; with; altogether (in total)"
+    },
+    {
+        "word": "一直",
+        "pinyin": "yi4 zhi2",
+        "eng": "straight (in a straight line); continuously; always; from the beginning of ... up to ...; all along"
+    },
+    {
+        "word": "意见",
+        "pinyin": "yi4 jian4",
+        "eng": "idea; opinion; suggestion; objection; complaint; CL:點|点[dian3]"
+    },
+    {
+        "word": "意思",
+        "pinyin": "yi4 si5",
+        "eng": "idea; opinion; meaning; wish; desire; CL:個|个[ge4]"
+    },
+    {
+        "word": "艺术",
+        "pinyin": "yi4 shu4",
+        "eng": "art; CL:種|种[zhong3]"
+    },
+    {
+        "word": "阴",
+        "pinyin": "yin1",
+        "eng": "overcast (weather); cloudy; shady; Yin (the negative principle of Yin and Yang); negative (electric.); feminine; moon; implicit; hidden; genitalia"
+    },
+    {
+        "word": "因此",
+        "pinyin": "yin1 ci3",
+        "eng": "thus; consequently; as a result"
+    },
+    {
+        "word": "因为",
+        "pinyin": "yin1 wei4",
+        "eng": "because; owing to; on account of"
+    },
+    {
+        "word": "音乐",
+        "pinyin": "yin1 yue4",
+        "eng": "music; CL:張|张[zhang1]"
+    },
+    {
+        "word": "银行",
+        "pinyin": "yin2 hang2",
+        "eng": "bank; CL:家[jia1]"
+    },
+    {
+        "word": "饮料",
+        "pinyin": "yin3 liao4",
+        "eng": "drink; beverage"
+    },
+    {
+        "word": "引起",
+        "pinyin": "yin3 qi3",
+        "eng": "to give rise to; to lead to; to cause; to arouse"
+    },
+    {
+        "word": "印象",
+        "pinyin": "yin4 xiang4",
+        "eng": "impression; reflection; perception; CL:個|个[ge4]"
+    },
+    {
+        "word": "应该",
+        "pinyin": "ying1 gai1",
+        "eng": "ought to; should; must"
+    },
+    {
+        "word": "赢",
+        "pinyin": "ying2",
+        "eng": "to beat; to win; to profit"
+    },
+    {
+        "word": "影响",
+        "pinyin": "ying3 xiang3",
+        "eng": "an influence; an effect; to influence; to affect (usually adversely); to disturb; CL:股[gu3]"
+    },
+    {
+        "word": "硬",
+        "pinyin": "ying4",
+        "eng": "hard; stiff; strong; firm; to manage to do sth with difficulty; good (quality); able (person)"
+    },
+    {
+        "word": "勇敢",
+        "pinyin": "yong3 gan3",
+        "eng": "brave; courageous"
+    },
+    {
+        "word": "永远",
+        "pinyin": "yong3 yuan3",
+        "eng": "forever; eternal"
+    },
+    {
+        "word": "用",
+        "pinyin": "yong4",
+        "eng": "to use; to employ; to have to; to eat or drink; expense or outlay; usefulness; hence; therefore"
+    },
+    {
+        "word": "优点",
+        "pinyin": "you1 dian3",
+        "eng": "merit; benefit; strong point; advantage; CL:個|个[ge4]"
+    },
+    {
+        "word": "优秀",
+        "pinyin": "you1 xiu4",
+        "eng": "outstanding; excellent"
+    },
+    {
+        "word": "幽默",
+        "pinyin": "you1 mo4",
+        "eng": "humor; humorous"
+    },
+    {
+        "word": "由",
+        "pinyin": "you2",
+        "eng": "to follow; from; it is for...to; reason; cause; because of; due to; to; to leave it (to sb); by (introduces passive verb)"
+    },
+    {
+        "word": "由于",
+        "pinyin": "you2 yu2",
+        "eng": "due to; as a result of; thanks to; owing to; since; because"
+    },
+    {
+        "word": "尤其",
+        "pinyin": "you2 qi2",
+        "eng": "especially; particularly"
+    },
+    {
+        "word": "游戏",
+        "pinyin": "you2 xi4",
+        "eng": "game; play; CL:場|场[chang3]"
+    },
+    {
+        "word": "游泳",
+        "pinyin": "you2 yong3",
+        "eng": "swim"
+    },
+    {
+        "word": "有",
+        "pinyin": "you3",
+        "eng": "to have; there is; there are; to exist; to be"
+    },
+    {
+        "word": "有名",
+        "pinyin": "you3 ming2",
+        "eng": "famous; well-known"
+    },
+    {
+        "word": "有趣",
+        "pinyin": "you3 qu4",
+        "eng": "interesting; fascinating; amusing"
+    },
+    {
+        "word": "友好",
+        "pinyin": "you3 hao3",
+        "eng": "friendly (relations)"
+    },
+    {
+        "word": "友谊",
+        "pinyin": "you3 yi4",
+        "eng": "companionship; fellowship; friendship"
+    },
+    {
+        "word": "又",
+        "pinyin": "you4",
+        "eng": "(once) again; also; both... and...; again"
+    },
+    {
+        "word": "右边",
+        "pinyin": "you4 bian5",
+        "eng": "right side; right"
+    },
+    {
+        "word": "鱼",
+        "pinyin": "yu2",
+        "eng": "fish; CL:條|条[tiao2]"
+    },
+    {
+        "word": "愉快",
+        "pinyin": "yu2 kuai4",
+        "eng": "cheerful; cheerily; delightful; pleasant; pleasantly; pleasing; happy; delighted"
+    },
+    {
+        "word": "于是",
+        "pinyin": "yu2 shi4",
+        "eng": "thereupon; as a result; consequently; thus; hence"
+    },
+    {
+        "word": "与",
+        "pinyin": "yu2",
+        "eng": "(same as 歟|欤"
+    },
+    {
+        "word": "语法",
+        "pinyin": "yu3 fa3",
+        "eng": "grammar"
+    },
+    {
+        "word": "语言",
+        "pinyin": "yu3 yan2",
+        "eng": "language; CL:門|门[men2]"
+    },
+    {
+        "word": "羽毛球",
+        "pinyin": "yu3 mao2 qiu2",
+        "eng": "shuttlecock; badminton; CL:個|个[ge4]"
+    },
+    {
+        "word": "遇到",
+        "pinyin": "yu4 dao4",
+        "eng": "to meet; to run into; to come across"
+    },
+    {
+        "word": "预习",
+        "pinyin": "yu4 xi2",
+        "eng": "to prepare a lesson"
+    },
+    {
+        "word": "元",
+        "pinyin": "yuan2",
+        "eng": "Chinese monetary unit; dollar; primary; first; the Yuan or Mongol dynasty (1279-1368); surname Yuan"
+    },
+    {
+        "word": "圆",
+        "pinyin": "yuan2",
+        "eng": "circle; round; circular; spherical; (of the moon) full; unit of Chinese currency (Yuan); tactful; to justify"
+    },
+    {
+        "word": "原来",
+        "pinyin": "yuan2 lai2",
+        "eng": "original; former; originally; formerly; at first; so... actually"
+    },
+    {
+        "word": "原谅",
+        "pinyin": "yuan2 liang4",
+        "eng": "to excuse; to forgive; to pardon"
+    },
+    {
+        "word": "原因",
+        "pinyin": "yuan2 yin1",
+        "eng": "cause; origin; root cause; reason; CL:個|个[ge4]"
+    },
+    {
+        "word": "远",
+        "pinyin": "yuan3",
+        "eng": "far; distant; remote"
+    },
+    {
+        "word": "愿意",
+        "pinyin": "yuan4 yi4",
+        "eng": "to wish; to want; ready; willing (to do sth)"
+    },
+    {
+        "word": "约会",
+        "pinyin": "yue1 hui4",
+        "eng": "appointment; engagement; date; CL:次[ci4]"
+    },
+    {
+        "word": "越",
+        "pinyin": "yue4",
+        "eng": "to exceed; to climb over; to surpass; the more... the more"
+    },
+    {
+        "word": "月",
+        "pinyin": "yue4",
+        "eng": "moon; month; CL:個|个[ge4]"
+    },
+    {
+        "word": "月亮",
+        "pinyin": "yue4 liang5",
+        "eng": "moon"
+    },
+    {
+        "word": "阅读",
+        "pinyin": "yue4 du2",
+        "eng": "to read; reading"
+    },
+    {
+        "word": "云",
+        "pinyin": "yun2",
+        "eng": "(classical) to say"
+    },
+    {
+        "word": "允许",
+        "pinyin": "yun3 xu3",
+        "eng": "to permit; to allow"
+    },
+    {
+        "word": "运动",
+        "pinyin": "yun4 dong4",
+        "eng": "movement; campaign; CL: 場|场[chang3]; sports"
+    },
+    {
+        "word": "杂志",
+        "pinyin": "za2 zhi4",
+        "eng": "magazine; CL:本[ben3]"
+    },
+    {
+        "word": "在",
+        "pinyin": "zai4",
+        "eng": "(located) at; (to be) in; to exist; in the middle of doing sth; (indicating an action in progress)"
+    },
+    {
+        "word": "再",
+        "pinyin": "zai4",
+        "eng": "again; once more; re-; second; another; then (after sth"
+    },
+    {
+        "word": "再见",
+        "pinyin": "zai4 jian4",
+        "eng": "goodbye; see you again later"
+    },
+    {
+        "word": "咱们",
+        "pinyin": "zan2 men5 ",
+        "eng": "we or us (including both the speaker and the person(s) spoken to); I or me; you"
+    },
+    {
+        "word": "暂时",
+        "pinyin": "zan4 shi2",
+        "eng": "temporary; provisional; for the time being"
+    },
+    {
+        "word": "脏",
+        "pinyin": "zang4",
+        "eng": "viscera; (anatomy) organ"
+    },
+    {
+        "word": "早上",
+        "pinyin": "zao3 shang5",
+        "eng": "early morning; CL:個|个[ge4]; Good morning!"
+    },
+    {
+        "word": "责任",
+        "pinyin": "ze2 ren4",
+        "eng": "responsibility; blame; duty; CL:個|个[ge4]"
+    },
+    {
+        "word": "怎么",
+        "pinyin": "zen3 me5",
+        "eng": "how?; what?; why?"
+    },
+    {
+        "word": "怎么样",
+        "pinyin": "zen3 me5 yang4",
+        "eng": "how?; how about?; how was it?; how are things?"
+    },
+    {
+        "word": "增加",
+        "pinyin": "zeng1 jia1",
+        "eng": "to raise; to increase"
+    },
+    {
+        "word": "增长",
+        "pinyin": "zeng1 zhang3",
+        "eng": "to grow; to increase"
+    },
+    {
+        "word": "窄",
+        "pinyin": "zhai3",
+        "eng": "narrow; narrow-minded; badly off"
+    },
+    {
+        "word": "站",
+        "pinyin": "zhan4",
+        "eng": "station; to stand; to halt; to stop; branch of a company or organisation"
+    },
+    {
+        "word": "张",
+        "pinyin": "zhang1",
+        "eng": "to open up; to spread; sheet of paper; classifier for flat objects"
+    },
+    {
+        "word": "长",
+        "pinyin": "zhang3",
+        "eng": "chief; head; elder; to grow; to develop"
+    },
+    {
+        "word": "丈夫",
+        "pinyin": "zhang4 fu5",
+        "eng": "husband; CL:個|个[ge4]"
+    },
+    {
+        "word": "招聘",
+        "pinyin": "zhao1 pin4",
+        "eng": "recruitment; to invite applications for a job"
+    },
+    {
+        "word": "着急",
+        "pinyin": "zhao2 ji2",
+        "eng": "to worry; to feel anxious"
+    },
+    {
+        "word": "找",
+        "pinyin": "zhao3",
+        "eng": "to try to find; to look for; to call on sb; to find; to seek; to return; to give change"
+    },
+    {
+        "word": "照顾",
+        "pinyin": "zhao4 gu5",
+        "eng": "to take care of; to show consideration; to attend to; to look after"
+    },
+    {
+        "word": "照片",
+        "pinyin": "zhao4 pian4",
+        "eng": "photo; photograph; picture; CL:張|张[zhang1]"
+    },
+    {
+        "word": "照相机",
+        "pinyin": "zhao4 xiang4 ji1",
+        "eng": "camera; CL:個|个[ge4]"
+    },
+    {
+        "word": "这",
+        "pinyin": "zhe4",
+        "eng": "this; these; (commonly pr. zhei4 before a classifier"
+    },
+    {
+        "word": "这儿",
+        "pinyin": "zhe4 r5",
+        "eng": "here"
+    },
+    {
+        "word": "着",
+        "pinyin": "zhe5",
+        "eng": "particle attached after verb to indicate action in progress"
+    },
+    {
+        "word": "真",
+        "pinyin": "zhen1",
+        "eng": "really; truly; indeed; real; true; genuine"
+    },
+    {
+        "word": "真正",
+        "pinyin": "zhen1 zheng4",
+        "eng": "genuine; real; true; genuinely"
+    },
+    {
+        "word": "整理",
+        "pinyin": "zheng3 li3",
+        "eng": "to arrange; to tidy up; to sort out; to straighten out; to list systematically; to collate (data"
+    },
+    {
+        "word": "整齐",
+        "pinyin": "zheng3 qi2",
+        "eng": "orderly; neat; even; tidy"
+    },
+    {
+        "word": "正常",
+        "pinyin": "zheng4 chang2",
+        "eng": "regular; normal; ordinary"
+    },
+    {
+        "word": "正好",
+        "pinyin": "zheng4 hao3",
+        "eng": "just (in time); just right; just enough; to happen to; to chance to; by chance; it just so happens that"
+    },
+    {
+        "word": "正确",
+        "pinyin": "zheng4 que4",
+        "eng": "correct; proper"
+    },
+    {
+        "word": "正式",
+        "pinyin": "zheng4 shi4",
+        "eng": "formal; official"
+    },
+    {
+        "word": "正在",
+        "pinyin": "zheng4 zai4",
+        "eng": "in the process of (doing something or happening); while (doing)"
+    },
+    {
+        "word": "证明",
+        "pinyin": "zheng4 ming2",
+        "eng": "proof; certificate; identification; testimonial; CL:個|个[ge4]; to prove; to testify; to confirm the truth of"
+    },
+    {
+        "word": "之",
+        "pinyin": "zhi1",
+        "eng": "(possessive particle"
+    },
+    {
+        "word": "只",
+        "pinyin": "zhi1",
+        "eng": "classifier for birds and certain animals"
+    },
+    {
+        "word": "支持",
+        "pinyin": "zhi1 chi2",
+        "eng": "to be in favor of; to support; to back; support; backing; to stand by; CL:個|个[ge4]"
+    },
+    {
+        "word": "知道",
+        "pinyin": "zhi1 dao5",
+        "eng": "to know; to be aware of"
+    },
+    {
+        "word": "知识",
+        "pinyin": "zhi1 shi5",
+        "eng": "intellectual; knowledge-related; knowledge; CL:門|门[men2]"
+    },
+    {
+        "word": "值得",
+        "pinyin": "zhi2 de5",
+        "eng": "to be worth; to deserve"
+    },
+    {
+        "word": "直接",
+        "pinyin": "zhi2 jie1",
+        "eng": "direct; opposite: indirect 間接|间接; immediate; directly; straightforward"
+    },
+    {
+        "word": "植物",
+        "pinyin": "zhi2 wu4",
+        "eng": "botanical; plant; vegetation; CL:種|种[zhong3]"
+    },
+    {
+        "word": "职业",
+        "pinyin": "zhi2 ye4",
+        "eng": "occupation; profession; vocation; professional"
+    },
+    {
+        "word": "指",
+        "pinyin": "zhi3",
+        "eng": "finger; to point at or to; to indicate or refer to; to depend on; to count on; (of hair) to stand on end"
+    },
+    {
+        "word": "只",
+        "pinyin": "zhi3",
+        "eng": "only; merely; just; but"
+    },
+    {
+        "word": "只好",
+        "pinyin": "zhi3 hao3",
+        "eng": "without any better option; to have to; to be forced to"
+    },
+    {
+        "word": "只要",
+        "pinyin": "zhi3 yao4",
+        "eng": "if only; so long as"
+    },
+    {
+        "word": "质量",
+        "pinyin": "zhi4 liang4",
+        "eng": "quality; mass (in physics); CL:個|个[ge4]"
+    },
+    {
+        "word": "至少",
+        "pinyin": "zhi4 shao3",
+        "eng": "at least; (to say the) least"
+    },
+    {
+        "word": "制造",
+        "pinyin": "zhi4 zao4",
+        "eng": "to manufacture; to make"
+    },
+    {
+        "word": "中国",
+        "pinyin": "Zhong1 guo2",
+        "eng": "China; Middle Kingdom"
+    },
+    {
+        "word": "中间",
+        "pinyin": "zhong1 jian1",
+        "eng": "between; intermediate; mid; middle"
+    },
+    {
+        "word": "中文",
+        "pinyin": "Zhong1 wen2",
+        "eng": "Chinese; Chinese written language; Chinese writing"
+    },
+    {
+        "word": "中午",
+        "pinyin": "zhong1 wu3",
+        "eng": "noon; midday; CL:個|个[ge4]"
+    },
+    {
+        "word": "终于",
+        "pinyin": "zhong1 yu2",
+        "eng": "at last; in the end; finally; eventually"
+    },
+    {
+        "word": "种",
+        "pinyin": "zhong3",
+        "eng": "abbr. for 物種|物种"
+    },
+    {
+        "word": "重点",
+        "pinyin": "zhong4 dian3",
+        "eng": "emphasis; focal point; priority; key; with the emphasis on; focusing on"
+    },
+    {
+        "word": "重视",
+        "pinyin": "zhong4 shi4",
+        "eng": "to attach importance to sth; to value"
+    },
+    {
+        "word": "重要",
+        "pinyin": "zhong4 yao4",
+        "eng": "important; significant; major"
+    },
+    {
+        "word": "周末",
+        "pinyin": "zhou1 mo4",
+        "eng": "weekend"
+    },
+    {
+        "word": "周围",
+        "pinyin": "zhou1 wei2",
+        "eng": "surroundings; environment; to encompass"
+    },
+    {
+        "word": "猪",
+        "pinyin": "zhu1",
+        "eng": "hog; pig; swine; CL:口[kou3]"
+    },
+    {
+        "word": "逐渐",
+        "pinyin": "zhu2 jian4",
+        "eng": "gradually"
+    },
+    {
+        "word": "主动",
+        "pinyin": "zhu3 dong4",
+        "eng": "to take the initiative; to do sth of one's own accord; active; opposite: passive 被動|被动[bei4 dong4]; drive (of gears and shafts etc)"
+    },
+    {
+        "word": "主要",
+        "pinyin": "zhu3 yao4",
+        "eng": "main; principal; major; primary"
+    },
+    {
+        "word": "主意",
+        "pinyin": "zhu3 yi5",
+        "eng": "plan; idea; decision; CL:個|个[ge4]"
+    },
+    {
+        "word": "住",
+        "pinyin": "zhu4",
+        "eng": "to live; to dwell; to stay; to reside; to stop"
+    },
+    {
+        "word": "祝",
+        "pinyin": "zhu4",
+        "eng": "invoke; pray to; wish; to express good wishes; surname Zhu"
+    },
+    {
+        "word": "祝贺",
+        "pinyin": "zhu4 he4",
+        "eng": "to congratulate; congratulations; CL:個|个[ge4]"
+    },
+    {
+        "word": "著名",
+        "pinyin": "zhu4 ming2",
+        "eng": "famous; noted; well-known; celebrated"
+    },
+    {
+        "word": "注意",
+        "pinyin": "zhu4 yi4",
+        "eng": "to take note of; to pay attention to"
+    },
+    {
+        "word": "专门",
+        "pinyin": "zhuan1 men2",
+        "eng": "specialist; specialized; customized"
+    },
+    {
+        "word": "专业",
+        "pinyin": "zhuan1 ye4",
+        "eng": "specialty; specialized field; main field of study (at university); major; CL:門|门[men2]"
+    },
+    {
+        "word": "赚",
+        "pinyin": "zhuan4",
+        "eng": "earn; make a profit"
+    },
+    {
+        "word": "撞",
+        "pinyin": "zhuang4",
+        "eng": "to hit; to strike; to meet by accident; to run into; to bump against; to bump into"
+    },
+    {
+        "word": "准备",
+        "pinyin": "zhun3 bei4",
+        "eng": "preparation; prepare"
+    },
+    {
+        "word": "准确",
+        "pinyin": "zhun3 que4",
+        "eng": "accurate; exact; precise"
+    },
+    {
+        "word": "准时",
+        "pinyin": "zhun3 shi2",
+        "eng": "on time; punctual; on schedule"
+    },
+    {
+        "word": "桌子",
+        "pinyin": "zhuo1 zi5",
+        "eng": "table; desk; CL:張|张[zhang1]"
+    },
+    {
+        "word": "仔细",
+        "pinyin": "zi3 xi4",
+        "eng": "careful; attentive; cautious"
+    },
+    {
+        "word": "字",
+        "pinyin": "zi4",
+        "eng": "letter; symbol; character; word; CL:個|个[ge4]; courtesy or style name traditionally given to males aged 20 in dynastic China"
+    },
+    {
+        "word": "字典",
+        "pinyin": "zi4 dian3",
+        "eng": "dictionary; character dictionary; CL:本[ben3]"
+    },
+    {
+        "word": "自己",
+        "pinyin": "zi4 ji3",
+        "eng": "self; (reflexive pronoun); own"
+    },
+    {
+        "word": "自然",
+        "pinyin": "zi4 ran2",
+        "eng": "nature; natural; naturally"
+    },
+    {
+        "word": "自行车",
+        "pinyin": "zi4 xing2 che1",
+        "eng": "bicycle; bike; CL:輛|辆[liang4]"
+    },
+    {
+        "word": "总结",
+        "pinyin": "zong3 jie2",
+        "eng": "to sum up; to conclude; summary; resume; CL:個|个[ge4]"
+    },
+    {
+        "word": "总是",
+        "pinyin": "zong3 shi4",
+        "eng": "always"
+    },
+    {
+        "word": "走",
+        "pinyin": "zou3",
+        "eng": "to walk; to go; to run; to move (of vehicle); to visit; to leave; to go away; to die (euph.); from; through; away (in compound verbs"
+    },
+    {
+        "word": "租",
+        "pinyin": "zu1",
+        "eng": "to hire; to rent; to charter; to rent out; to lease out; rent; land tax"
+    },
+    {
+        "word": "组成",
+        "pinyin": "zu3 cheng2",
+        "eng": "component; part; element; constitute; make up"
+    },
+    {
+        "word": "组织",
+        "pinyin": "zu3 zhi1",
+        "eng": "to organize; organization; organized system; nerve; tissue; CL:個|个[ge4]"
+    },
+    {
+        "word": "嘴",
+        "pinyin": "zui3",
+        "eng": "mouth; beak; spout (of teapot etc); CL:張|张[zhang1]"
+    },
+    {
+        "word": "最",
+        "pinyin": "zui4",
+        "eng": "most; the most; -est"
+    },
+    {
+        "word": "最好",
+        "pinyin": "zui4 hao3",
+        "eng": "best; (you) had better (do what we suggest)"
+    },
+    {
+        "word": "最后",
+        "pinyin": "zui4 hou4",
+        "eng": "final; last; finally; ultimate"
+    },
+    {
+        "word": "最近",
+        "pinyin": "zui4 jin4",
+        "eng": "recent; recently; these days; latest; soon; nearest (of locations); shortest (of routes)"
+    },
+    {
+        "word": "尊重",
+        "pinyin": "zun1 zhong4",
+        "eng": "esteem; respect; to honor; to value sth"
+    },
+    {
+        "word": "昨天",
+        "pinyin": "zuo2 tian1",
+        "eng": "yesterday"
+    },
+    {
+        "word": "左边",
+        "pinyin": "zuo3 bian5",
+        "eng": "left; the left side; to the left of"
+    },
+    {
+        "word": "坐",
+        "pinyin": "zuo4",
+        "eng": "to sit; to take a seat; to take (a bus"
+    },
+    {
+        "word": "做",
+        "pinyin": "zuo4",
+        "eng": "to do; to make; to produce; to write; to compose; to act as; to engage in; to hold (a party); to be; to become; to function (in some capacity); to serve as; to be used for; to form (a bond or relationship); to pretend; to feign; to act a part; to put on appearance"
+    },
+    {
+        "word": "做生意",
+        "pinyin": "zuo4 sheng1 yi4",
+        "eng": "to do business"
+    },
+    {
+        "word": "座",
+        "pinyin": "zuo4",
+        "eng": "seat; base; stand; CL:個|个[ge4]; classifier for buildings"
+    },
+    {
+        "word": "座位",
+        "pinyin": "zuo4 wei4",
+        "eng": "seat; CL:個|个[ge4]"
+    },
+    {
+        "word": "作业",
+        "pinyin": "zuo4 ye4",
+        "eng": "school assignment; homework; work; task; operation; to operate; CL:個|个[ge4]"
+    },
+    {
+        "word": "作用",
+        "pinyin": "zuo4 yong4",
+        "eng": "to act on; to affect; action; function; activity; impact; result; effect; purpose; intent; to play a role; corresponds to English -ity"
+    },
+    {
+        "word": "作者",
+        "pinyin": "zuo4 zhe3",
+        "eng": "author; writer; CL:個|个[ge4]"
+    }
+]
